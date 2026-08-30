@@ -1,0 +1,1194 @@
+{
+  "chats": [
+    {
+      "id": "5a9a25d4-286d-4af9-b98a-ac6b8ee81a9a",
+      "title": "bana bu iki belgeyi özet",
+      "messages": [
+        {
+          "id": "e0ecb745-5b3c-4826-b266-3e1b1c4242c3",
+          "role": "user",
+          "content": "bana bu iki belgeyi özet",
+          "created_at": "2026-08-30T21:41:25.033417+00:00"
+        },
+        {
+          "id": "76da6940-0d43-4494-849d-8bb35b06a023",
+          "role": "assistant",
+          "content": "## 1. Nesli Tükenmekte Olan Canlılar Belgesi\n\nBelge, habitat kaybı, kaçak avlanma ve iklim değişikliği nedeniyle birçok türün yok olma tehlikesiyle karşı karşıya olduğunu anlatmaktadır. [Kaynak 1]\n\nÖne çıkan türler arasında kritik tehlikedeki Amur leoparı ve vaquita ile tehlikedeki Sumatra gergedanı bulunmaktadır. Amur leoparının nüfusu yaklaşık 100–120, vaquitanın nüfusu 10’dan az, Sumatra gergedanının nüfusu ise yaklaşık 30–80 bireydir. [Kaynak 1] [Kaynak 2]\n\nBelgede ayrıca Cava gergedanı, dağ gorili, Anadolu parsı, şeritli kutup ayısı ve karakulak gibi türlerin koruma statüleri ve öncelikleri özetlenmektedir. [Kaynak 2]\n\nKoruma için doğal yaşam alanlarının genişletilmesi, yasadışı yapılaşmanın ve kaçak avcılığın önlenmesi, uluslararası denetimlerin artırılması, halkın bilinçlendirilmesi ve sürdürülebilir ekoturizmin desteklenmesi önerilmektedir. [Kaynak 2] [Kaynak 3]\n\n## 2. Mustafa Kemal Atatürk’ün Hayatı Belgesi\n\nBelge, Mustafa Kemal Atatürk’ün 1881’de Selanik’te doğumundan 10 Kasım 1938’deki vefatına kadar olan yaşamını ve askerî-siyasi faaliyetlerini özetlemektedir. [Kaynak 5]\n\nAtatürk; Mahalle Mektebi, Şemsi Efendi Mektebi, Manastır Askerî İdadisi ve İstanbul Harp Okulu gibi okullarda eğitim görmüş, 1905’te Harp Akademisi’nden Kurmay Yüzbaşı olarak mezun olmuştur. [Kaynak 5]\n\nTrablusgarp, Çanakkale, Kafkas ve Suriye cephelerinde görev yapmış; özellikle Çanakkale Savaşı’ndaki başarılarıyla tanınmıştır. [Kaynak 5]\n\n19 Mayıs 1919’da Samsun’a çıkarak Millî Mücadele’yi başlatmış, Amasya Genelgesi ile Erzurum ve Sivas kongreleri aracılığıyla ulusal direnişin örgütlenmesini sağlamıştır. 23 Nisan 1920’de TBMM’yi açarak Meclis Başkanı olmuştur. [Kaynak 5]\n\nKurtuluş Savaşı’nın ardından 29 Ekim 1923’te Cumhuriyet ilan edilmiş ve Atatürk ilk cumhurbaşkanı seçilmiştir. Saltanatın ve hilafetin kaldırılması, Medeni Kanun’un kabulü, Harf İnkılabı, eğitim reformları, kadınlara seçme ve seçilme hakkı verilmesi ve Soyadı Kanunu gibi önemli inkılaplar gerçekleştirilmiştir. [Kaynak 4]\n\nAtatürk, 10 Kasım 1938’de saat 09.05’te Dolmabahçe Sarayı’nda vefat etmiş; naaşı 10 Kasım 1953’te Anıtkabir’e nakledilmiştir. [Kaynak 4]",
+          "sources": [
+            {
+              "number": 1,
+              "document_id": "a1e22166-3671-44df-8765-9e3a2b4f9394",
+              "document_name": "nesli_tukenmekte_olan_hayvanlar_v2 (1).pdf",
+              "chunk_position": 0,
+              "chunk": "Nesli Tükenmekte Olan Canlılar Belgesi\nKüresel Biyoçeşitlilik Kaybı ve Kritik Durumdaki Türler Raporu\nÖnemli Bilgilendirme: Dünya Doğa ve Doğal Kaynakları Koruma Birliği (IUCN) Kırmızı Listesi verilerine göre,\ndünya genelinde binlerce canlı türü habitat kaybı, kaçak avlanma ve iklim değişikliği nedeniyle yok olma tehlikesiyle\nkarşı karşıyadır. Bu belge, öne çıkan kritik türleri ve koruma durumlarını özetlemektedir. \n1. Kritik Seviyede Tehdit Altındaki Türler (CR)\nAmur Leoparı (Panthera pardus orientalis) KRITIK TEHLIKEDE (CR)\nYaşam Alanı: Rusya'nın uzak doğusu ve Çin'in kuzeydoğusu\nTahmini Nüfus: Vahşi doğada yaklaşık 100 - 120 birey\nBaşlıca Tehditler: Kaçak avlanma, orman yangınları, endüstriyel yapılaşma\nDünyanın en nadir kedigillerinden biri olan Amur Leoparı, kalın kürkü ve zorlu kış şartlarına uyum sağlama yeteneğiyle\nbilinir. Doğal yaşam alanlarının daralması en büyük tehdittir. \nVaquita (Meksika Yunusu) (Phocoena sinus) KRITIK TEHLIKEDE (CR)\nYaşam Alanı: Kaliforniya Körfezi'nin kuzeyi (Meksika)\nTahmini Nüfus: 10'dan az birey\nBaşlıca Tehditler: Yasadışı balıkçılık ağlarına (solungaç ağları) takılma\nDünyanın en küçük deniz memelisidir. Yasadışı Totoaba balığı avcılığında kullanılan ağlara takılarak boğulmaları\nnedeniyle soyları tükenmenin eşiğine gelmiştir. \nSumatra Gergedanı (Dicerorhinus sumatrensis) TEHLIKEDE (EN)\nYaşam Alanı: Sumatra Adası (Endonezya)",
+              "score": 0.3492
+            },
+            {
+              "number": 2,
+              "document_id": "a1e22166-3671-44df-8765-9e3a2b4f9394",
+              "document_name": "nesli_tukenmekte_olan_hayvanlar_v2 (1).pdf",
+              "chunk_position": 1,
+              "chunk": "dışı Totoaba balığı avcılığında kullanılan ağlara takılarak boğulmaları\nnedeniyle soyları tükenmenin eşiğine gelmiştir. \nSumatra Gergedanı (Dicerorhinus sumatrensis) TEHLIKEDE (EN)\nYaşam Alanı: Sumatra Adası (Endonezya)\nTahmini Nüfus: 30 - 80 birey\nBaşlıca Tehditler: Boynuz ticareti için avlanma, parçalanmış habitat\nAsya gergedanlarının en küçüğü ve vücudu kıllarla kaplı tek gergedan türüdür. Yaşam alanlarının palmiye yağı tarlalarına\ndönüştürülmesi popülasyonu ağır şekilde vurmuştur. \n2. Türlerin Koruma Statüsü Özet Tablosu\nCanlı Türü Bölge IUCN Statüsü Koruma Önceliği\nCava Gergedanı Endonezya Kritik (CR) En Yüksek\nDağ Gorili Orta Afrika Tehlikede (EN) Yüksek\nDoğa Koruma ve Biyoçeşitlilik Raporu Sayfa 1 / 2\n\nCanlı Türü Bölge IUCN Statüsü Koruma Önceliği\nAnadolu Parsı Türkiye Kritik (CR) En Yüksek\nŞeritli Kutup Ayısı Arktik Bölge Hassas (VU) Orta - Yüksek\nKarakulak Türkiye / Orta Doğu Asgari Endişe (LC) Yerel Koruma\n3. Koruma ve Önleme Tedbirleri\nBiyoçeşitliliğin korunması ve nesli tehlike altındaki canlıların geleceğe aktarılması için atılması gereken temel adımlar şunlardır:\nHabitatların Korunması: Doğal koruma alanlarının sınırlarının genişletilmesi ve yasadışı yapılaşmanın önlenmesi.\nKaçak Avcılıkla Mücadele: Yasadışı hayvan ve uzuv ticaretine karşı uluslararası denetimlerin artırılması.",
+              "score": 0.3357
+            },
+            {
+              "number": 3,
+              "document_id": "a1e22166-3671-44df-8765-9e3a2b4f9394",
+              "document_name": "nesli_tukenmekte_olan_hayvanlar_v2 (1).pdf",
+              "chunk_position": 2,
+              "chunk": "Habitatların Korunması: Doğal koruma alanlarının sınırlarının genişletilmesi ve yasadışı yapılaşmanın önlenmesi.\nKaçak Avcılıkla Mücadele: Yasadışı hayvan ve uzuv ticaretine karşı uluslararası denetimlerin artırılması.\nFarkındalık Çalışmaları: Yerel halkın biyoçeşitlilik konusunda eğitilmesi ve ekoturizm modellerinin desteklenmesi.\nBu belge bilgilendirme amacıyla hazırlanmış olup veriler uluslararası koruma örgütlerinin raporlarına dayanmaktadır. \n• \n• \n• \nDoğa Koruma ve Biyoçeşitlilik Raporu Sayfa 2 / 2",
+              "score": 0.322
+            },
+            {
+              "number": 4,
+              "document_id": "c5f89ab7-772b-471d-b9b2-414b4e6204ae",
+              "document_name": "ataturkun_hayati.pdf",
+              "chunk_position": 1,
+              "chunk": "başlattı.\nKongreler: Amasya Genelgesi, Erzurum ve Sivas Kongreleri ile ulusal kurtuluş örgütlenmesini sağladı.\nTBMM'nin Açılışı: 23 Nisan 1920'de Ankara'da Türkiye Büyük Millet Meclisi'ni açtı ve Meclis Başkanı seçildi.\nKurtuluş Savaşı: Sakarya Meydan Muharebesi (1921) sonrası \"Gazi\" unvanı ve \"Mareşal\" rütbesi aldı. 30 Ağustos\n1922'deki Başkomutanlık Meydan Muharebesi ile vatanı düşman işgalinden kurtardı.\n4. Cumhuriyet ve İnkılaplar (1923 - 1938)\nCumhuriyetin İlanı: 29 Ekim 1923'te Cumhuriyet ilan edildi ve Atatürk ilk cumhurbaşkanı seçildi.\nSiyasi İnkılaplar: Saltanatın ve Hilafetin kaldırılması, Cumhuriyetin ilanı.\nHukuki İnkılaplar: Medeni Kanun'un kabulü ve laik hukuk düzenine geçiş.\nEğitim ve Kültür: Harf İnkılabı (Latin alfabesine geçiş), Türk Tarih ve Türk Dil Kurumlarının kurulması, Tevhid-i\nTedrisat Kanunu.\nToplumsal İnkılaplar: Kadınlara seçme ve seçilme hakkının verilmesi, Soyadı Kanunu, şapka ve kıyafet devrimi.\n• \n• \n• \n• \n• \n• \n• \n• \n• \n• \n• \n• \n• \n• \n• \n• \n\n5. Vefatı\nMustafa Kemal Atatürk, 10 Kasım 1938 sabahı saat 09.05'te İstanbul Dolmabahçe Sarayı'nda hayatını kaybetti. Naaşı önce\nAnkara Etnografya Müzesi'nde muhafaza edildi, 10 Kasım 1953'te ise ebedî istirahathanesi olan Anıtkabir'e nakledildi.",
+              "score": 0.2832
+            },
+            {
+              "number": 5,
+              "document_id": "c5f89ab7-772b-471d-b9b2-414b4e6204ae",
+              "document_name": "ataturkun_hayati.pdf",
+              "chunk_position": 0,
+              "chunk": "Mustafa Kemal Atatürk'ün Hayatı\n1881 – 10 Kasım 1938\nMustafa Kemal Atatürk, Türkiye Cumhuriyeti'nin kurucusu, ilk cumhurbaşkanı, askerî lider ve devrimcidir. \n1. Erken Yılları ve Eğitimi (1881 - 1905)\nDoğumu: 1881 yılında Selanik'te doğdu. Annesi Zübeyde Hanım, babası Ali Rıza Efendi'dir.\nEğitimi: Mahalle Mektebi, Şemsi Efendi Mektebi, Selanik Mülkiye Rüştiyesi, Selanik Askerî Rüştiyesi, Manastır\nAskerî İdadisi ve İstanbul Harp Okulu'nda öğrenim gördü.\nHarp Akademisi: 1905 yılında Harp Akademisi'nden Kurmay Yüzbaşı rütbesiyle mezun oldu.\n2. Askerî Kariyeri ve Cepheler (1905 - 1918)\nİlk Görev: Şam'da 5. Ordu emrinde göreve başladı.\nTrablusgarp Savaşı (1911): İtalyanlara karşı Derne ve Tobruk'ta önemli başarılar kazandı.\nÇanakkale Savaşı (1915): Anafartalar, Arıburnu ve Conkbayırı'nda kazandığı zaferlerle \"Anafartalar Kahramanı\"\nolarak tanındı.\nDiğer Cepheler: Kafkas Cephesi'nde Muş ve Bitlis'i Rus işgalinden kurtardı; Suriye Cephesi'nde 7. Ordu Komutanlığı\nyaptı.\n3. Milli Mücadele Dönemi (1919 - 1923)\nSamsun'a Çıkış: 19 Mayıs 1919'da Samsun'a çıkarak Milli Mücadele'yi başlattı.\nKongreler: Amasya Genelgesi, Erzurum ve Sivas Kongreleri ile ulusal kurtuluş örgütlenmesini sağladı.\nTBMM'nin Açılışı: 23 Nisan 1920'de Ankara'da Türkiye Büyük Millet Meclisi'ni açtı ve Meclis Başkanı seçildi.",
+              "score": 0.2568
+            }
+          ],
+          "created_at": "2026-08-30T21:41:25.033417+00:00",
+          "web_sources": [],
+          "web_search_used": false,
+          "web_queries": []
+        },
+        {
+          "id": "7e94c8a8-60d1-48df-9e4c-72136e97ed74",
+          "role": "user",
+          "content": "daha kapsamlı olsun",
+          "created_at": "2026-08-30T21:42:08.949054+00:00"
+        },
+        {
+          "id": "44d4832a-f203-4cd0-9cdf-e59ef2d8bc54",
+          "role": "assistant",
+          "content": "# 1. Nesli Tükenmekte Olan Canlılar Belgesi Özeti\n\n## Belgenin amacı ve genel çerçevesi\n\nBelge, küresel biyoçeşitlilik kaybını ve nesli tükenme tehlikesiyle karşı karşıya olan canlı türlerini ele almaktadır. Habitat kaybı, kaçak avlanma ve iklim değişikliği, türlerin yaşamını tehdit eden başlıca sorunlar olarak belirtilmektedir. [Kaynak 3]\n\nBelgede türler, Uluslararası Doğayı ve Doğal Kaynakları Koruma Birliği’nin (IUCN) koruma kategorilerine göre değerlendirilmektedir. “Kritik tehlikede” anlamına gelen CR kategorisi, türlerin yok olma riskinin son derece yüksek olduğunu; “tehlikede” anlamına gelen EN kategorisi ise türlerin ciddi bir yok olma riski taşıdığını ifade etmektedir. [Kaynak 1] [Kaynak 3]\n\n## Öne çıkan türler\n\n### Amur leoparı\n\nAmur leoparı (*Panthera pardus orientalis*), Rusya’nın Uzak Doğusu ile Çin’in kuzeydoğusunda yaşayan ve kritik tehlike altında bulunan çok nadir bir leopar alt türüdür. Belgeye göre vahşi doğada yaklaşık 100–120 birey kalmıştır. [Kaynak 3]\n\nTürün başlıca tehditleri kaçak avlanma, orman yangınları ve endüstriyel yapılaşmadır. Amur leoparı, kalın kürkü ve sert kış koşullarına uyum sağlama yeteneğiyle tanınmaktadır; ancak doğal yaşam alanlarının daralması türün geleceği açısından en büyük sorunlardan biridir. [Kaynak 3]\n\nGüncel web sonuçlarında da Amur leoparının IUCN Kırmızı Listesi’nde kritik tehlikede olduğu belirtilmektedir. Ayrıca türün yaşam alanlarının orman yangınları, yollar, tarım, tomrukçuluk ve endüstriyel faaliyetler nedeniyle parçalandığı aktarılmaktadır. [Web 1] [Web 9]\n\n### Vaquita veya Meksika yunusu\n\nVaquita (*Phocoena sinus*), Meksika’daki Kaliforniya Körfezi’nin kuzeyinde yaşayan, dünyanın en küçük deniz memelisi olarak tanımlanan ve kritik tehlike altında bulunan bir türdür. Belgeye göre nüfusu 10’dan az bireye düşmüştür. [Kaynak 3]\n\nVaquitaların en önemli tehdidi, yasadışı Totoaba balığı avcılığında kullanılan solungaç ağlarına takılmalarıdır. Ağlara sıkışan yunuslar yüzeye çıkamadıkları için boğulmaktadır. [Kaynak 3]\n\nIUCN Deniz Memelileri Uzman Grubu da vaquitanın yalnızca Meksika’daki Kaliforniya Körfezi’nin üst bölümünde, çok sınırlı bir alanda yaşadığını ve türün kritik tehlikede olduğunu belirtmektedir. [Web 6]\n\n### Sumatra gergedanı\n\nSumatra gergedanı (*Dicerorhinus sumatrensis*), Endonezya’daki Sumatra Adası’nda yaşayan ve tehlike altında bulunan bir gergedan türüdür. Tahmini nüfusu 30–80 birey arasındadır. [Kaynak 1]\n\nTürün başlıca tehditleri, boynuz ticareti amacıyla avlanma ve yaşam alanlarının parçalanmasıdır. Sumatra gergedanı, Asya gergedanları arasında en küçük olan türdür ve vücudu kıllarla kaplı tek gergedan türü olarak tanımlanmaktadır. [Kaynak 1]\n\nYaşam alanlarının palmiye yağı tarlalarına dönüştürülmesi, Sumatra gergedanı popülasyonunu ciddi biçimde azaltmıştır. [Kaynak 1]\n\n## Koruma statüsü verilen diğer türler\n\nBelgenin koruma statüsü tablosunda farklı bölgelerde yaşayan beş türün durumu ve koruma önceliği özetlenmiştir. Cava gergedanı Endonezya’da kritik tehlikede olup en yüksek koruma önceliğine sahiptir. Dağ gorili Orta Afrika’da tehlikede sınıfında değerlendirilmiş ve yüksek koruma önceliği verilmiştir. [Kaynak 1]\n\nAnadolu parsı Türkiye’de kritik tehlikede kabul edilmiş ve en yüksek koruma önceliğine alınmıştır. Şeritli kutup ayısı Arktik bölgede hassas kategorisinde değerlendirilmiş ve orta-yüksek koruma önceliğine sahip gösterilmiştir. Karakulak ise Türkiye ve Orta Doğu’da asgari endişe kategorisinde bulunmasına rağmen yerel ölçekte korunması gereken bir canlı olarak belirtilmiştir. [Kaynak 1]\n\n## Önerilen koruma ve önleme tedbirleri\n\nBelge, nesli tehlike altındaki türlerin korunması için öncelikle doğal yaşam alanlarının korunması gerektiğini vurgulamaktadır. Bunun için doğal koruma alanlarının sınırlarının genişletilmesi ve yasadışı yapılaşmanın önlenmesi önerilmektedir. [Kaynak 1] [Kaynak 2]\n\nKaçak avcılıkla mücadele de temel önlemlerden biri olarak sunulmaktadır. Yasadışı hayvan ve hayvan uzvu ticaretinin önüne geçmek için uluslararası denetimlerin artırılması gerektiği belirtilmektedir. [Kaynak 1] [Kaynak 2]\n\nBunun yanında yerel halkın biyoçeşitlilik konusunda eğitilmesi, koruma çalışmalarına toplumun katılımının sağlanması ve doğal alanları koruyan ekoturizm modellerinin desteklenmesi önerilmektedir. [Kaynak 2]\n\n### Belgenin ana mesajı\n\nBelgenin temel mesajı, türlerin yok olmasını önlemek için yalnızca tek tek hayvanları korumanın yeterli olmadığıdır. Türlerin yaşam alanlarının korunması, kaçak avcılığın engellenmesi, insan faaliyetlerinin sürdürülebilir hâle getirilmesi ve toplumda doğa koruma bilincinin geliştirilmesi birlikte yürütülmelidir. Bu belgenin bilgilendirme amacıyla hazırlandığı ve verilerin uluslararası koruma örgütlerinin raporlarına dayandığı belirtilmektedir. [Kaynak 2]\n\n---\n\n# 2. Mustafa Kemal Atatürk’ün Hayatı Belgesi Özeti\n\n## Genel bilgiler\n\nBelge, Mustafa Kemal Atatürk’ün 1881 yılında Selanik’te doğumundan 10 Kasım 1938’deki vefatına kadar geçen yaşamını ele almaktadır. Atatürk; Türkiye Cumhuriyeti’nin kurucusu, ilk cumhurbaşkanı, askerî lider ve devrimci olarak tanımlanmaktadır. [Kaynak 5]\n\n## Çocukluğu ve eğitimi\n\nMustafa Kemal Atatürk, 1881 yılında Selanik’te doğmuştur. Annesi Zübeyde Hanım, babası ise Ali Rıza Efendi’dir. [Kaynak 5]\n\nEğitim hayatına Mahalle Mektebi’nde başlamış, daha sonra Şemsi Efendi Mektebi’nde öğrenim görmüştür. Selanik Mülkiye Rüştiyesi, Selanik Askerî Rüştiyesi, Manastır Askerî İdadisi ve İstanbul Harp Okulu’nda eğitim almıştır. [Kaynak 5]\n\n1905 yılında Harp Akademisi’nden Kurmay Yüzbaşı rütbesiyle mezun olmuştur. Bu mezuniyetin ardından askerlik mesleğine profesyonel olarak başlamıştır. [Kaynak 5]\n\n## Askerî kariyeri ve görev yaptığı cepheler\n\nAtatürk, ilk görevine Şam’da 5. Ordu emrinde başlamıştır. [Kaynak 5]\n\n1911’deki Trablusgarp Savaşı sırasında İtalyanlara karşı Derne ve Tobruk’ta önemli başarılar kazanmıştır. Bu dönemde askerî yeteneklerini ve liderlik özelliklerini ortaya koymuştur. [Kaynak 5]\n\n1915’te Çanakkale Savaşı’nda Anafartalar, Arıburnu ve Conkbayırı’nda önemli zaferler kazanmıştır. Bu başarıları sonucunda “Anafartalar Kahramanı” olarak tanınmıştır. [Kaynak 5]\n\nKafkas Cephesi’nde Muş ve Bitlis’i Rus işgalinden kurtarmış, Suriye Cephesi’nde ise 7. Ordu Komutanlığı görevini yürütmüştür. [Kaynak 5]\n\n## Millî Mücadele’nin başlaması\n\nAtatürk, 19 Mayıs 1919’da Samsun’a çıkarak Millî Mücadele’yi başlatmıştır. Bu tarih, Türkiye’nin bağımsızlık mücadelesinin örgütlü ve siyasi bir sürece dönüşmesinde önemli bir dönüm noktası olarak sunulmaktadır. [Kaynak 5]\n\nMillî Mücadele’nin örgütlenmesinde Amasya Genelgesi, Erzurum Kongresi ve Sivas Kongresi önemli rol oynamıştır. Bu çalışmalarla ulusal kurtuluş hareketinin temel ilkeleri ve örgütlenme yapısı oluşturulmuştur. [Kaynak 4] [Kaynak 5]\n\n## TBMM’nin açılması ve Kurtuluş Savaşı\n\n23 Nisan 1920’de Ankara’da Türkiye Büyük Millet Meclisi açılmış ve Mustafa Kemal Atatürk Meclis Başkanı seçilmiştir. Böylece Millî Mücadele’nin yönetimi ve karar alma süreci meclis çatısı altında yürütülmeye başlanmıştır. [Kaynak 4] [Kaynak 5]\n\nKurtuluş Savaşı sırasında Sakarya Meydan Muharebesi’nin ardından Atatürk’e “Gazi” unvanı ve “Mareşal” rütbesi verilmiştir. [Kaynak 4]\n\n30 Ağustos 1922’de kazanılan Başkomutanlık Meydan Muharebesi ile vatanın düşman işgalinden kurtarılması sağlanmıştır. Bu zafer, bağımsızlık mücadelesinin askerî açıdan en önemli sonuçlarından biri olmuştur. [Kaynak 4]\n\n## Cumhuriyetin ilanı\n\n29 Ekim 1923’te Cumhuriyet ilan edilmiş ve Mustafa Kemal Atatürk Türkiye Cumhuriyeti’nin ilk cumhurbaşkanı seçilmiştir. [Kaynak 4]\n\nCumhuriyetin ilanı, yönetim biçiminde önemli bir değişiklik meydana getirmiş ve yeni devletin siyasi temellerini güçlendirmiştir. Belge, Cumhuriyet dönemini 1923–1938 yılları arasındaki Atatürk dönemiyle birlikte ele almaktadır. [Kaynak 4]\n\n## Atatürk inkılapları\n\n### Siyasi inkılaplar\n\nAtatürk döneminde saltanat ve hilafet kaldırılmış, Cumhuriyet ilan edilmiştir. Bu düzenlemelerle devlet yönetiminin monarşik ve dinsel otorite temelli yapıdan Cumhuriyet yönetimine geçmesi hedeflenmiştir. [Kaynak 4]\n\n### Hukuki inkılaplar\n\nMedeni Kanun kabul edilmiş ve laik hukuk düzenine geçiş sağlanmıştır. Böylece hukuk sisteminin modernleştirilmesi ve toplumsal yaşamın çağdaş hukuk ilkeleri doğrultusunda düzenlenmesi amaçlanmıştır. [Kaynak 4]\n\n### Eğitim ve kültür alanındaki inkılaplar\n\nHarf İnkılabı ile Latin alfabesine geçilmiştir. Ayrıca Türk Tarih Kurumu ve Türk Dil Kurumu kurulmuş, eğitim kurumlarının birlik ve bütünlük içinde düzenlenmesi amacıyla Tevhid-i Tedrisat Kanunu kabul edilmiştir. [Kaynak 4]\n\n### Toplumsal inkılaplar\n\nKadınlara seçme ve seçilme hakkı verilmiş, Soyadı Kanunu çıkarılmış, şapka ve kıyafet alanında değişiklikler yapılmıştır. Bu düzenlemeler, toplumun modernleşmesi ve bireylerin kamusal hayata daha etkin katılması açısından önemli adımlar olarak aktarılmaktadır. [Kaynak 4]\n\n## Vefatı ve Anıtkabir’e nakli\n\nMustafa Kemal Atatürk, 10 Kasım 1938 sabahı saat 09.05’te İstanbul Dolmabahçe Sarayı’nda hayatını kaybetmiştir. [Kaynak 4]\n\nNaaşı, Anıtkabir tamamlanıncaya kadar Ankara Etnografya Müzesi’nde muhafaza edilmiştir. 10 Kasım 1953’te ise Ankara’daki Anıtkabir’e nakledilmiştir. [Kaynak 4]\n\n### Belgenin ana mesajı\n\nBelge, Atatürk’ün askerî başarıları, Millî Mücadele’nin liderliğini üstlenmesi, Türkiye Cumhuriyeti’ni kurması ve siyasi, hukuki, eğitimsel ve toplumsal alanlarda gerçekleştirdiği inkılaplar üzerinden tarihî rolünü özetlemektedir. Atatürk, hem bağımsızlık mücadelesinin lideri hem de yeni Türkiye Cumhuriyeti’nin kurucu devlet adamı olarak sunulmaktadır. [Kaynak 4] [Kaynak 5]\n\n---\n\n## İki belgenin ortak değerlendirmesi\n\nİlk belge, doğal yaşamın ve biyoçeşitliliğin korunmasına odaklanan güncel bir çevre ve doğa koruma metnidir. Nesli tehlike altındaki türlerin karşılaştığı tehditleri, koruma statülerini ve çözüm önerilerini ele almaktadır. [Kaynak 1] [Kaynak 2] [Kaynak 3]\n\nİkinci belge ise Mustafa Kemal Atatürk’ün yaşamını, askerî kariyerini, Millî Mücadele’deki liderliğini, Cumhuriyet’in kuruluşundaki rolünü ve gerçekleştirdiği inkılapları tarihsel bir çerçevede anlatmaktadır. [Kaynak 4] [Kaynak 5]\n\nKısaca, ilk belge doğanın ve canlı türlerinin geleceğini koruma gerekliliğini; ikinci belge ise Türkiye Cumhuriyeti’nin kuruluş sürecini ve Atatürk’ün bu süreçteki rolünü açıklamaktadır.",
+          "sources": [
+            {
+              "number": 1,
+              "document_id": "a1e22166-3671-44df-8765-9e3a2b4f9394",
+              "document_name": "nesli_tukenmekte_olan_hayvanlar_v2 (1).pdf",
+              "chunk_position": 1,
+              "chunk": "dışı Totoaba balığı avcılığında kullanılan ağlara takılarak boğulmaları\nnedeniyle soyları tükenmenin eşiğine gelmiştir. \nSumatra Gergedanı (Dicerorhinus sumatrensis) TEHLIKEDE (EN)\nYaşam Alanı: Sumatra Adası (Endonezya)\nTahmini Nüfus: 30 - 80 birey\nBaşlıca Tehditler: Boynuz ticareti için avlanma, parçalanmış habitat\nAsya gergedanlarının en küçüğü ve vücudu kıllarla kaplı tek gergedan türüdür. Yaşam alanlarının palmiye yağı tarlalarına\ndönüştürülmesi popülasyonu ağır şekilde vurmuştur. \n2. Türlerin Koruma Statüsü Özet Tablosu\nCanlı Türü Bölge IUCN Statüsü Koruma Önceliği\nCava Gergedanı Endonezya Kritik (CR) En Yüksek\nDağ Gorili Orta Afrika Tehlikede (EN) Yüksek\nDoğa Koruma ve Biyoçeşitlilik Raporu Sayfa 1 / 2\n\nCanlı Türü Bölge IUCN Statüsü Koruma Önceliği\nAnadolu Parsı Türkiye Kritik (CR) En Yüksek\nŞeritli Kutup Ayısı Arktik Bölge Hassas (VU) Orta - Yüksek\nKarakulak Türkiye / Orta Doğu Asgari Endişe (LC) Yerel Koruma\n3. Koruma ve Önleme Tedbirleri\nBiyoçeşitliliğin korunması ve nesli tehlike altındaki canlıların geleceğe aktarılması için atılması gereken temel adımlar şunlardır:\nHabitatların Korunması: Doğal koruma alanlarının sınırlarının genişletilmesi ve yasadışı yapılaşmanın önlenmesi.\nKaçak Avcılıkla Mücadele: Yasadışı hayvan ve uzuv ticaretine karşı uluslararası denetimlerin artırılması.",
+              "score": 0.2637
+            },
+            {
+              "number": 2,
+              "document_id": "a1e22166-3671-44df-8765-9e3a2b4f9394",
+              "document_name": "nesli_tukenmekte_olan_hayvanlar_v2 (1).pdf",
+              "chunk_position": 2,
+              "chunk": "Habitatların Korunması: Doğal koruma alanlarının sınırlarının genişletilmesi ve yasadışı yapılaşmanın önlenmesi.\nKaçak Avcılıkla Mücadele: Yasadışı hayvan ve uzuv ticaretine karşı uluslararası denetimlerin artırılması.\nFarkındalık Çalışmaları: Yerel halkın biyoçeşitlilik konusunda eğitilmesi ve ekoturizm modellerinin desteklenmesi.\nBu belge bilgilendirme amacıyla hazırlanmış olup veriler uluslararası koruma örgütlerinin raporlarına dayanmaktadır. \n• \n• \n• \nDoğa Koruma ve Biyoçeşitlilik Raporu Sayfa 2 / 2",
+              "score": 0.2565
+            },
+            {
+              "number": 3,
+              "document_id": "a1e22166-3671-44df-8765-9e3a2b4f9394",
+              "document_name": "nesli_tukenmekte_olan_hayvanlar_v2 (1).pdf",
+              "chunk_position": 0,
+              "chunk": "Nesli Tükenmekte Olan Canlılar Belgesi\nKüresel Biyoçeşitlilik Kaybı ve Kritik Durumdaki Türler Raporu\nÖnemli Bilgilendirme: Dünya Doğa ve Doğal Kaynakları Koruma Birliği (IUCN) Kırmızı Listesi verilerine göre,\ndünya genelinde binlerce canlı türü habitat kaybı, kaçak avlanma ve iklim değişikliği nedeniyle yok olma tehlikesiyle\nkarşı karşıyadır. Bu belge, öne çıkan kritik türleri ve koruma durumlarını özetlemektedir. \n1. Kritik Seviyede Tehdit Altındaki Türler (CR)\nAmur Leoparı (Panthera pardus orientalis) KRITIK TEHLIKEDE (CR)\nYaşam Alanı: Rusya'nın uzak doğusu ve Çin'in kuzeydoğusu\nTahmini Nüfus: Vahşi doğada yaklaşık 100 - 120 birey\nBaşlıca Tehditler: Kaçak avlanma, orman yangınları, endüstriyel yapılaşma\nDünyanın en nadir kedigillerinden biri olan Amur Leoparı, kalın kürkü ve zorlu kış şartlarına uyum sağlama yeteneğiyle\nbilinir. Doğal yaşam alanlarının daralması en büyük tehdittir. \nVaquita (Meksika Yunusu) (Phocoena sinus) KRITIK TEHLIKEDE (CR)\nYaşam Alanı: Kaliforniya Körfezi'nin kuzeyi (Meksika)\nTahmini Nüfus: 10'dan az birey\nBaşlıca Tehditler: Yasadışı balıkçılık ağlarına (solungaç ağları) takılma\nDünyanın en küçük deniz memelisidir. Yasadışı Totoaba balığı avcılığında kullanılan ağlara takılarak boğulmaları\nnedeniyle soyları tükenmenin eşiğine gelmiştir. \nSumatra Gergedanı (Dicerorhinus sumatrensis) TEHLIKEDE (EN)\nYaşam Alanı: Sumatra Adası (Endonezya)",
+              "score": 0.2488
+            },
+            {
+              "number": 4,
+              "document_id": "c5f89ab7-772b-471d-b9b2-414b4e6204ae",
+              "document_name": "ataturkun_hayati.pdf",
+              "chunk_position": 1,
+              "chunk": "başlattı.\nKongreler: Amasya Genelgesi, Erzurum ve Sivas Kongreleri ile ulusal kurtuluş örgütlenmesini sağladı.\nTBMM'nin Açılışı: 23 Nisan 1920'de Ankara'da Türkiye Büyük Millet Meclisi'ni açtı ve Meclis Başkanı seçildi.\nKurtuluş Savaşı: Sakarya Meydan Muharebesi (1921) sonrası \"Gazi\" unvanı ve \"Mareşal\" rütbesi aldı. 30 Ağustos\n1922'deki Başkomutanlık Meydan Muharebesi ile vatanı düşman işgalinden kurtardı.\n4. Cumhuriyet ve İnkılaplar (1923 - 1938)\nCumhuriyetin İlanı: 29 Ekim 1923'te Cumhuriyet ilan edildi ve Atatürk ilk cumhurbaşkanı seçildi.\nSiyasi İnkılaplar: Saltanatın ve Hilafetin kaldırılması, Cumhuriyetin ilanı.\nHukuki İnkılaplar: Medeni Kanun'un kabulü ve laik hukuk düzenine geçiş.\nEğitim ve Kültür: Harf İnkılabı (Latin alfabesine geçiş), Türk Tarih ve Türk Dil Kurumlarının kurulması, Tevhid-i\nTedrisat Kanunu.\nToplumsal İnkılaplar: Kadınlara seçme ve seçilme hakkının verilmesi, Soyadı Kanunu, şapka ve kıyafet devrimi.\n• \n• \n• \n• \n• \n• \n• \n• \n• \n• \n• \n• \n• \n• \n• \n• \n\n5. Vefatı\nMustafa Kemal Atatürk, 10 Kasım 1938 sabahı saat 09.05'te İstanbul Dolmabahçe Sarayı'nda hayatını kaybetti. Naaşı önce\nAnkara Etnografya Müzesi'nde muhafaza edildi, 10 Kasım 1953'te ise ebedî istirahathanesi olan Anıtkabir'e nakledildi.",
+              "score": 0.1821
+            },
+            {
+              "number": 5,
+              "document_id": "c5f89ab7-772b-471d-b9b2-414b4e6204ae",
+              "document_name": "ataturkun_hayati.pdf",
+              "chunk_position": 0,
+              "chunk": "Mustafa Kemal Atatürk'ün Hayatı\n1881 – 10 Kasım 1938\nMustafa Kemal Atatürk, Türkiye Cumhuriyeti'nin kurucusu, ilk cumhurbaşkanı, askerî lider ve devrimcidir. \n1. Erken Yılları ve Eğitimi (1881 - 1905)\nDoğumu: 1881 yılında Selanik'te doğdu. Annesi Zübeyde Hanım, babası Ali Rıza Efendi'dir.\nEğitimi: Mahalle Mektebi, Şemsi Efendi Mektebi, Selanik Mülkiye Rüştiyesi, Selanik Askerî Rüştiyesi, Manastır\nAskerî İdadisi ve İstanbul Harp Okulu'nda öğrenim gördü.\nHarp Akademisi: 1905 yılında Harp Akademisi'nden Kurmay Yüzbaşı rütbesiyle mezun oldu.\n2. Askerî Kariyeri ve Cepheler (1905 - 1918)\nİlk Görev: Şam'da 5. Ordu emrinde göreve başladı.\nTrablusgarp Savaşı (1911): İtalyanlara karşı Derne ve Tobruk'ta önemli başarılar kazandı.\nÇanakkale Savaşı (1915): Anafartalar, Arıburnu ve Conkbayırı'nda kazandığı zaferlerle \"Anafartalar Kahramanı\"\nolarak tanındı.\nDiğer Cepheler: Kafkas Cephesi'nde Muş ve Bitlis'i Rus işgalinden kurtardı; Suriye Cephesi'nde 7. Ordu Komutanlığı\nyaptı.\n3. Milli Mücadele Dönemi (1919 - 1923)\nSamsun'a Çıkış: 19 Mayıs 1919'da Samsun'a çıkarak Milli Mücadele'yi başlattı.\nKongreler: Amasya Genelgesi, Erzurum ve Sivas Kongreleri ile ulusal kurtuluş örgütlenmesini sağladı.\nTBMM'nin Açılışı: 23 Nisan 1920'de Ankara'da Türkiye Büyük Millet Meclisi'ni açtı ve Meclis Başkanı seçildi.",
+              "score": 0.1771
+            }
+          ],
+          "created_at": "2026-08-30T21:42:08.949054+00:00",
+          "web_sources": [
+            {
+              "number": 1,
+              "title": "Amur leopard - Wikipedia",
+              "url": "https://en.wikipedia.org/wiki/Amur_leopard",
+              "content": "The Amur leopard (Panthera pardus orientalis) is a leopard subspecies native to the Primorye region of southeastern Russia and northern China. It is listed as Critically Endangered on the IUCN Red List, as in 2007, only 19–26 wild leopards were estimated to survive in southeastern Russia and northeastern China.\n\nAs of 2015( fewer than 60 individuals were estimated to survive in Russia and China. Camera-trapping surveys conducted between 2014 and 2015 revealed 92 individuals in an 8,398 km2 (3,242 sq mi) large transboundary area along the Russian-Chinese border. As of 2023( the population was thought to comprise 128–130 sub-adult and adult individuals. [...] | Taxon identifiers |\n\n| Panthera pardus orientalis |  Wikidata: Q192967  Wikispecies: Panthera pardus orientalis  CoL: 5K5LX  EoL: 1253182  EUNIS: 17293  GBIF (old): 5219440  iNaturalist: 1477367  ITIS: 726471  MSW: 14000258  NCBI: 9692  Open Tree of Life: 42318 |\n\nRetrieved from \"\"\n\nCategories:\n\n IUCN Red List critically endangered species\n Leopards\n Mammals of East Asia\n Critically endangered fauna of Asia\n Mammals described in 1857\n Taxa named by Hermann Schlegel\n\nHidden categories: [...] 1. 1 2 3 4 5 Jackson, P.; Nowell, K. (2008). \"Panthera pardus ssp. orientalis\". IUCN Red List of Threatened Species. 2008 e.T15957A5333757. doi \"Doi (identifier)\"):10.2305/IUCN.UK.2008.RLTS.T15957A5333757.en.\n2. 1 2 3 Kitchener, A. C.; Breitenmoser-Würsten, C.; Eizirik, E.; Gentry, A.; Werdelin, L.; Wilting, A.; Yamaguchi, N.; Abramov, A. V.; Christiansen, P.; Driscoll, C.; Duckworth, J. W.; Johnson, W.; Luo, S.-J.; Meijaard, E.; O'Donoghue, P.; Sanderson, J.; Seymour, K.; Bruford, M.; Groves, C.; Hoffmann, M.; Nowell, K.; Timmons, Z.; Tobe, S. (2017). \"A revised taxonomy of the Felidae: The final report of the Cat Classification Task Force of the IUCN Cat Specialist Group\" (PDF). Cat News (Special Issue 11): 73–75.",
+              "score": 0.7394,
+              "query": "IUCN Red List Amur leoparı Panthera pardus orientalis vaquita Phocoena sinus Sumatra gergedanı Dicerorhinus sumatrensis resmi tür profilleri"
+            },
+            {
+              "number": 2,
+              "title": "Amur Leopard (Subspecies Panthera pardus orientalis) - iNaturalist",
+              "url": "https://www.inaturalist.org/taxa/147734-Panthera-pardus-orientalis",
+              "content": "It is listed as Critically Endangered on the IUCN Red List. In 2007, only 19–26 wild Amur leopards were estimated to survive. As of 2015, fewer than 60",
+              "score": 0.6654,
+              "query": "IUCN Red List Amur leoparı Panthera pardus orientalis vaquita Phocoena sinus Sumatra gergedanı Dicerorhinus sumatrensis resmi tür profilleri"
+            },
+            {
+              "number": 3,
+              "title": "Leopards of the world: nine subspecies recognised by IUCN",
+              "url": "https://www.facebook.com/groups/sanctuaryasia/posts/10154685697846103",
+              "content": "The Amur leopard (Panthera pardus orientalis) is a leopard subspecies native to the Primorye region of southeastern Russia and the Jilin",
+              "score": 0.5912,
+              "query": "IUCN Red List Amur leoparı Panthera pardus orientalis vaquita Phocoena sinus Sumatra gergedanı Dicerorhinus sumatrensis resmi tür profilleri"
+            },
+            {
+              "number": 4,
+              "title": "The Amur Leopard | WARN - World Animal Rescue Network",
+              "url": "https://worldanimalrescuenetwork.org/newsroom/amur-leopard-critically-endangered",
+              "content": "The Amur leopard is listed as Critically Endangered on the IUCN Red List — the highest category before Extinct in the Wild. · Fewer than 130",
+              "score": 0.5838,
+              "query": "IUCN Red List Amur leoparı Panthera pardus orientalis vaquita Phocoena sinus Sumatra gergedanı Dicerorhinus sumatrensis resmi tür profilleri"
+            },
+            {
+              "number": 5,
+              "title": "The Amur leopard (Panthera pardus orientalis) is listed as Critically ...",
+              "url": "https://www.facebook.com/letslearnsomethingbygenmice/posts/the-amur-leopard-panthera-pardus-orientalis-is-listed-as-critically-threatened-b/1174059464767652",
+              "content": "It is listed as Critically Endangered on the IUCN Red List, as in 2007, only 19–26 wild leopards were estimated to survive in southeastern",
+              "score": 0.5767,
+              "query": "IUCN Red List Amur leoparı Panthera pardus orientalis vaquita Phocoena sinus Sumatra gergedanı Dicerorhinus sumatrensis resmi tür profilleri"
+            },
+            {
+              "number": 6,
+              "title": "Vaquita – IUCN – SSC Cetacean Specialist Group",
+              "url": "https://iucn-csg.org/vaquita",
+              "content": "The vaquita (Phocoena sinus) is the most endangered marine mammal species in the world. It has a very restricted distribution, occurring only in the upper Gulf of California in Mexico, mainly north of 30º45’N and west of 114º20’W. The present range of the vaquita is limited to approximately 4,000 km2, with the highest-use area about 2235 km2, however, the few remaining vaquitas now appear to be concentrated in a small area near San Felipe about 24 x 12 km in size.\n\nCurrent status [...] Vaquita (Phocoena sinus). Photos taken under permit (Oficio No. DR/488/08 from the Comisión Nacional de Áreas Naturales Protegidas (CONANP/Secretaría del Medio Ambiente y Recursos Naturales (SEMARNAT), within a natural protected area subject to special management and decreed as such by the Mexican Government. Photo Credit: Thomas A. Jefferson\n\nIUCN red-listed the vaquita as Vulnerable in 1978, Endangered in 1990 and Critically Endangered in 1996.\n\nIn 2007 the IUCN Director-General urged the President of Mexico “to ensure that all appropriate steps are taken immediately to prevent the vaquita, a national treasure of Mexico, from going extinct”.\n\nCIRVA\n\nSee the CIRVA Archive page for an up-to-date collection of meeting reports and related documents [...] IUCN – SSC Cetacean Specialist Group\n\nLogoLogoLogoLogoLogo\n\n \n\n# Vaquita\n\nIUCN – SSC Cetacean Specialist Group / Vaquita\n\nSee also the meeting reports and related documents produced by the International Committee for the Recovery of the Vaquita (CIRVA) at our CIRVA Archive page. The text on this page was last updated in August 2021 by Lorenzo Rojas-Bracho and Barbara Taylor. A fresh update is planned for the last quarter of 2026.",
+              "score": 0.5559,
+              "query": "IUCN Red List Amur leoparı Panthera pardus orientalis vaquita Phocoena sinus Sumatra gergedanı Dicerorhinus sumatrensis resmi tür profilleri"
+            },
+            {
+              "number": 7,
+              "title": "Nesli Tükenmekte Olan Hayvanlar: Yok Olma Tehlikesindeki 20 Tür",
+              "url": "https://www.uplifers.com/nesli-tukenmekte-olan-hayvanlar-yok-olma-tehlikesindeki-20-tur",
+              "content": "| Özellik | Bilgi |\n --- |\n| Yaşam Alanı | Sahra Altı Afrika |\n| Tahmini Birey Sayısı | ~6.600 |\n| Tehdit Durumu | Tehlike Altında |\n| Başlıca Tehdit | Habitat kaybı, hastalık |\n| Koruma | Alan bazlı koruma, izleme |\n\n### Bengal Kaplanı\n\nBengal kaplanı, dünya üzerindeki kaplan nüfusunun büyük bölümünü oluştursa da yaşam alanı kaybı ve kaçak avcılık nedeniyle ciddi baskı altındadır. Ormanların tarım ve yerleşime açılması, kaplanları insanlarla çatışmaya sürüklemektedir. [...] | Özellik | Bilgi |\n --- |\n| Yaşam Alanı | Rusya (Primorsky), Çin |\n| Tahmini Birey Sayısı | ~120 |\n| Tehdit Durumu | Kritik Tehlike Altında |\n| Başlıca Tehdit | Kaçak avcılık, habitat kaybı |\n| Koruma | Koruma alanları ve izleme programları |\n\n### Java Gergedanı [...] #### Bengal Kaplanı Hakkında Kısa Bilgiler\n\n| Özellik | Bilgi |\n --- |\n| Yaşam Alanı | Hindistan, Bangladeş, Nepal |\n| Tahmini Birey Sayısı | ~2.500 |\n| Tehdit Durumu | Tehlike Altında |\n| Başlıca Tehdit | Kaçak avcılık, habitat kaybı |\n| Koruma | Ulusal parklar, izleme |\n\n### Deniz İneği (Dugong)",
+              "score": 0.4961,
+              "query": "nesli tehlikedeki hayvanların habitat korunması kaçak avcılıkla mücadele ve biyoçeşitlilik koruma çalışmaları resmi raporlar"
+            },
+            {
+              "number": 8,
+              "title": "TÜRKİYE'NİN PROJELERİ NESLİ TEHLİKE ALTINDAKİ HAYVANLARI ...",
+              "url": "https://www.tarimorman.gov.tr/Haber/5958/Turkiyenin-Projeleri-Nesli-Tehlike-Altindaki-Hayvanlari-Hayata-Bagliyor",
+              "content": "Türkiye'de 112 memeli, 141 sürüngen ve 386 kuş olmak üzere toplam 639 tür koruma altında bulunuyor. Nesli tehlike altındaki türlerin korunmasına",
+              "score": 0.4483,
+              "query": "nesli tehlikedeki hayvanların habitat korunması kaçak avcılıkla mücadele ve biyoçeşitlilik koruma çalışmaları resmi raporlar"
+            },
+            {
+              "number": 9,
+              "title": "Amur Leopard | WWF",
+              "url": "https://www.wwf.org.uk/learn/wildlife/amur-leopards",
+              "content": "© 2016 - 2026 WWF-UK. All rights reserved.\n\nWebsite monitored by UptimeRobot [...] Russia and China\n\nsimple black and white illustration of a triangle with an exclamation mark inside\n\n## Threats:\n\nIllegal wildlife trade, environmental damage, climate change\n\nAmur Leopards caught on camera trap \n\n## Amur leopard\n\n(Panthera pardus orientalis) [...] Over the years the Amur leopard hasn't just been hunted mercilessly, its homelands have been gradually destroyed and fragmented by unsustainable logging, forest fires, road building, farming, and industrial development.",
+              "score": 0.3963,
+              "query": "Amur leoparı vaquita Sumatra gergedanı Cava gergedanı dağ gorili Anadolu parsı koruma durumu tehditler güncel haber rapor"
+            },
+            {
+              "number": 10,
+              "title": "Anadolu Pars'ının hayatta kalma mücadelesi",
+              "url": "https://www.yenimesaj.com.tr/anadolu-parsinin-hayatta-kalma-mucadelesi-H1604023.htm",
+              "content": "Apr 15, 2026 — Kaçak Avcılık: Geçmişte postu için avlanan bu nadir canlı, günümüzde her ne kadar sıkı koruma altında olsa da yasa dışı avcılık tehdidiyle karşı ...Read more",
+              "score": 0.3796,
+              "query": "Amur leoparı vaquita Sumatra gergedanı Cava gergedanı dağ gorili Anadolu parsı koruma durumu tehditler güncel haber rapor"
+            }
+          ],
+          "web_search_used": true,
+          "web_queries": [
+            "IUCN Red List Amur leoparı Panthera pardus orientalis vaquita Phocoena sinus Sumatra gergedanı Dicerorhinus sumatrensis resmi tür profilleri",
+            "Amur leoparı vaquita Sumatra gergedanı Cava gergedanı dağ gorili Anadolu parsı koruma durumu tehditler güncel haber rapor",
+            "nesli tehlikedeki hayvanların habitat korunması kaçak avcılıkla mücadele ve biyoçeşitlilik koruma çalışmaları resmi raporlar"
+          ]
+        },
+        {
+          "id": "33c60c75-95ef-472e-b656-023d456e8eb1",
+          "role": "user",
+          "content": "devam",
+          "created_at": "2026-08-30T21:47:57.681485+00:00"
+        },
+        {
+          "id": "e1f7bdc7-eea8-4a1a-8280-4a0e58b31cc9",
+          "role": "assistant",
+          "content": "## İki Belgenin Karşılaştırmalı ve Ayrıntılı Değerlendirmesi\n\n### 1. Konu ve amaç bakımından karşılaştırma\n\nİlk belge, nesli tükenme tehlikesi yaşayan hayvanları ve biyoçeşitlilik kaybını ele almaktadır. Belgenin amacı, tehlike altındaki türler hakkında bilgi vermek, bu türlerin karşılaştığı sorunları açıklamak ve uygulanabilecek koruma yöntemlerini ortaya koymaktır. [Kaynak 1] [Kaynak 2]\n\nİkinci belge ise Mustafa Kemal Atatürk’ün hayatını ve Türkiye Cumhuriyeti’nin kuruluşundaki rolünü anlatmaktadır. Atatürk’ün çocukluk ve eğitim yılları, askerî görevleri, Millî Mücadele liderliği, Cumhuriyet’in ilanı ve gerçekleştirdiği inkılaplar kronolojik biçimde aktarılmaktadır. [Kaynak 4] [Kaynak 5]\n\nBu nedenle ilk belge çevre ve biyoloji alanında, ikinci belge ise tarih ve vatandaşlık alanında hazırlanmış bir bilgilendirme metnidir.\n\n---\n\n## 2. İlk belgenin ayrıntılı değerlendirmesi: Nesli Tükenmekte Olan Canlılar\n\n### Biyoçeşitlilik kaybının nedenleri\n\nBelgede, dünyadaki çok sayıda canlı türünün çeşitli insan kaynaklı ve doğal tehditler nedeniyle yok olma riskiyle karşı karşıya olduğu belirtilmektedir. Bu tehditlerin başında habitat kaybı, kaçak avlanma ve iklim değişikliği gelmektedir. [Kaynak 2]\n\nHabitat kaybı, hayvanların yaşadığı doğal alanların tarım, sanayi, şehirleşme veya başka ekonomik faaliyetler amacıyla değiştirilmesi anlamına gelir. Sumatra gergedanlarının yaşam alanlarının palmiye yağı tarlalarına dönüştürülmesi, habitat kaybının türler üzerindeki etkisine örnek olarak verilmektedir. [Kaynak 1]\n\nHabitatların parçalanması da önemli bir sorundur. Yaşam alanları yollar, tarım alanları veya yerleşim bölgeleriyle bölündüğünde hayvanların beslenme, üreme ve güvenli biçimde hareket etme imkânları azalır. Sumatra gergedanı için parçalanmış habitat, başlıca tehditlerden biri olarak gösterilmektedir. [Kaynak 1]\n\n### Kaçak avcılığın etkileri\n\nKaçak avcılık, bazı türlerin doğrudan öldürülmesine ve hayvanların belirli organlarının ticari amaçlarla kullanılmasına yol açmaktadır. Sumatra gergedanı, boynuz ticareti amacıyla avlanan türlerden biri olarak belirtilmiştir. [Kaynak 1]\n\nBelgede vaquitalar açısından farklı bir avcılık tehdidine dikkat çekilmektedir. Vaquitalar doğrudan hedef alınmasalar bile Totoaba balığı avında kullanılan yasadışı solungaç ağlarına takılarak boğulmaktadır. Bu durum, bir türün başka bir türün avlanması sırasında dolaylı olarak zarar görebileceğini göstermektedir. [Kaynak 2]\n\n### Türlerin nüfus durumları\n\nBelgede bazı türlerin nüfuslarının son derece düşük seviyelere indiği görülmektedir:\n\n- Vaquita nüfusu 10’dan az birey olarak belirtilmiştir. [Kaynak 2]\n- Amur leoparının vahşi doğadaki nüfusu yaklaşık 100–120 bireydir. [Kaynak 2]\n- Sumatra gergedanının tahmini nüfusu 30–80 birey arasındadır. [Kaynak 1]\n\nBu sayılar, söz konusu türlerin küçük ve kırılgan popülasyonlar hâline geldiğini göstermektedir. Nüfusun azalması, genetik çeşitliliğin düşmesine ve hastalıklar, doğal afetler veya çevresel değişimler karşısında türlerin daha savunmasız hâle gelmesine neden olabilir. Ancak bu son etkiler belge içerisinde ayrıntılı olarak açıklanmamıştır.\n\n### Koruma öncelikleri\n\nBelgede türler, IUCN statüleri ve koruma öncelikleriyle birlikte tablo hâlinde verilmiştir. Cava gergedanı ve Anadolu parsı “Kritik” kategorisinde ve “en yüksek” koruma önceliğinde gösterilmiştir. Dağ gorili “Tehlikede” kategorisinde ve yüksek öncelikte değerlendirilmiştir. [Kaynak 1]\n\nŞeritli kutup ayısı “Hassas” kategorisinde, orta-yüksek koruma önceliğinde yer alırken karakulak “Asgari Endişe” kategorisinde gösterilmiş, ancak yerel ölçekte korunması gerektiği belirtilmiştir. [Kaynak 1]\n\nBu tablo, koruma çalışmalarının bütün türler için aynı düzeyde yürütülmemesi gerektiğini; nüfusu, tehdit düzeyi ve yaşam alanı dikkate alınarak önceliklendirme yapılmasının önemli olduğunu göstermektedir.\n\n### Çözüm önerileri\n\nBelgede üç temel çözüm alanı öne çıkmaktadır:\n\n1. **Habitatların korunması:**  \n   Koruma alanlarının sınırları genişletilmeli ve yasadışı yapılaşma engellenmelidir. [Kaynak 1] [Kaynak 5]\n\n2. **Kaçak avcılıkla mücadele:**  \n   Yasadışı hayvan ve hayvan uzvu ticaretine karşı uluslararası denetimler artırılmalıdır. [Kaynak 1] [Kaynak 5]\n\n3. **Farkındalık çalışmaları:**  \n   Yerel halk biyoçeşitlilik konusunda eğitilmeli ve doğayla uyumlu ekoturizm modelleri desteklenmelidir. [Kaynak 5]\n\nBu öneriler, yalnızca devlet kurumlarının değil, uluslararası kuruluşların, yerel halkın ve toplumun tamamının koruma sürecine katılması gerektiğine işaret etmektedir.\n\n---\n\n## 3. İkinci belgenin ayrıntılı değerlendirmesi: Mustafa Kemal Atatürk’ün Hayatı\n\n### Eğitim hayatının önemi\n\nAtatürk’ün eğitim hayatı farklı nitelikteki okullarda geçmiştir. Mahalle Mektebi ve Şemsi Efendi Mektebi ile başlayan eğitim süreci, askerî okullarda devam etmiştir. Selanik Askerî Rüştiyesi, Manastır Askerî İdadisi, İstanbul Harp Okulu ve Harp Akademisi, onun askerî ve düşünsel gelişiminde etkili olmuştur. [Kaynak 4]\n\n1905 yılında Harp Akademisi’nden Kurmay Yüzbaşı rütbesiyle mezun olması, askerî kariyerinin profesyonel aşamasını başlatmıştır. [Kaynak 4]\n\n### Askerî başarıları\n\nAtatürk, farklı cephelerde görev yaparak önemli bir askerî deneyim kazanmıştır. Şam’da 5. Ordu emrinde göreve başlamış, ardından Trablusgarp Savaşı’nda Derne ve Tobruk’ta İtalyanlara karşı mücadele etmiştir. [Kaynak 4]\n\nÇanakkale Savaşı’nda Anafartalar, Arıburnu ve Conkbayırı’ndaki başarıları, onun askerî lider olarak tanınmasını sağlamıştır. Bu başarılarından dolayı “Anafartalar Kahramanı” olarak anılmıştır. [Kaynak 4]\n\nKafkas Cephesi’nde Muş ve Bitlis’in Rus işgalinden kurtarılmasına katkı sağlamış, Suriye Cephesi’nde ise 7. Ordu Komutanlığı yapmıştır. [Kaynak 4]\n\n### Millî Mücadele’deki rolü\n\nAtatürk, 19 Mayıs 1919’da Samsun’a çıkarak Millî Mücadele’yi başlatmıştır. Daha sonra Amasya Genelgesi, Erzurum Kongresi ve Sivas Kongresi aracılığıyla direniş hareketinin siyasi ve örgütsel temellerini oluşturmuştur. [Kaynak 4] [Kaynak 5]\n\n23 Nisan 1920’de TBMM’nin Ankara’da açılması, Millî Mücadele’nin meclis merkezli bir yönetim anlayışıyla sürdürülmesini sağlamıştır. Atatürk, Meclis Başkanı seçilerek bu sürecin siyasi liderliğini üstlenmiştir. [Kaynak 4] [Kaynak 5]\n\nSakarya Meydan Muharebesi sonrasında kendisine Gazi unvanı ve Mareşal rütbesi verilmiştir. 30 Ağustos 1922’deki Başkomutanlık Meydan Muharebesi ise vatanın işgalden kurtarılmasını sağlayan önemli askerî zaferlerden biri olmuştur. [Kaynak 5]\n\n### Cumhuriyet ve yenileşme süreci\n\n29 Ekim 1923’te Cumhuriyet’in ilan edilmesiyle yeni devletin yönetim biçimi belirlenmiş ve Atatürk ilk cumhurbaşkanı olmuştur. [Kaynak 5]\n\nCumhuriyet döneminde gerçekleştirilen inkılaplar farklı alanlarda uygulanmıştır:\n\n- **Siyasi alanda:** Saltanat ve hilafet kaldırılmış, Cumhuriyet ilan edilmiştir. [Kaynak 5]\n- **Hukuk alanında:** Medeni Kanun kabul edilmiş ve laik hukuk düzenine geçilmiştir. [Kaynak 5]\n- **Eğitim alanında:** Tevhid-i Tedrisat Kanunu ile eğitim kurumlarının birleştirilmesi amaçlanmıştır. [Kaynak 5]\n- **Alfabe ve kültür alanında:** Latin alfabesine geçilmiş, Türk Tarih Kurumu ve Türk Dil Kurumu kurulmuştur. [Kaynak 5]\n- **Toplumsal alanda:** Kadınlara seçme ve seçilme hakkı verilmiş, Soyadı Kanunu çıkarılmış ve kıyafet alanında düzenlemeler yapılmıştır. [Kaynak 5]\n\nBu inkılapların ortak amacı, devlet ve toplum yapısını modernleştirmek, eğitim ve hukuk sistemini yenilemek ve vatandaşların toplumsal yaşama daha etkin katılmasını sağlamaktır. Belge bu amaçları ayrıntılı biçimde açıklamamaktadır; bu değerlendirme, sıralanan inkılapların alanlarına dayalı genel bir yorumdur.\n\n### Vefatı\n\nMustafa Kemal Atatürk, 10 Kasım 1938 sabahı saat 09.05’te İstanbul Dolmabahçe Sarayı’nda vefat etmiştir. [Kaynak 3]\n\nNaaşı önce Ankara Etnografya Müzesi’nde muhafaza edilmiş, 10 Kasım 1953’te Anıtkabir’e nakledilmiştir. [Kaynak 3]\n\n---\n\n## 4. Belgelerin ortak yönleri\n\nİki belge farklı konuları ele alsa da bazı ortak özelliklere sahiptir:\n\n### Geleceği koruma düşüncesi\n\nNesli tükenmekte olan canlılar belgesi, canlı türlerinin gelecek nesillere aktarılmasını amaçlamaktadır. Atatürk’ün hayatını anlatan belge ise bağımsızlık, Cumhuriyet ve yapılan inkılapların tarihsel önemini ortaya koymaktadır. Her iki belgede de geleceğe yönelik bir koruma ve aktarma düşüncesi bulunmaktadır. [Kaynak 1] [Kaynak 4]\n\n### Örgütlü mücadelenin önemi\n\nDoğa koruma belgesinde uluslararası denetimlerin, koruma alanlarının ve toplum eğitiminin önemi vurgulanmaktadır. Atatürk’ün hayatında ise kongreler, TBMM ve askerî mücadeleler aracılığıyla örgütlü hareketin önemi görülmektedir. [Kaynak 5]\n\n### Toplumsal bilinç\n\nİlk belgede yerel halkın biyoçeşitlilik konusunda bilinçlendirilmesi önerilmektedir. İkinci belgede ise eğitim, kültür ve hukuk alanındaki yeniliklerle toplumun dönüştürülmesi anlatılmaktadır. [Kaynak 5]\n\n---\n\n## 5. Belgeler arasındaki temel farklar\n\n| Özellik | Nesli Tükenmekte Olan Canlılar Belgesi | Atatürk’ün Hayatı Belgesi |\n|---|---|---|\n| Ana konu | Biyoçeşitlilik ve hayvanların korunması | Atatürk’ün yaşamı ve Cumhuriyet’in kuruluşu |\n| Alan | Çevre, biyoloji ve doğa koruma | Tarih, siyaset ve vatandaşlık |\n| Zaman anlayışı | Günümüzde devam eden çevre sorunları | 1881–1938 arasındaki yaşam ve Cumhuriyet dönemi |\n| Temel sorun | Habitat kaybı, kaçak avlanma ve iklim değişikliği | İşgal, bağımsızlık mücadelesi ve devletin yeniden kurulması |\n| Öneri veya sonuç | Koruma alanlarının genişletilmesi ve farkındalık | Cumhuriyet’in ilanı ve inkılapların gerçekleştirilmesi |\n| Ana mesaj | Doğal yaşam ve türler korunmalıdır | Bağımsızlık ve çağdaşlaşma için örgütlü mücadele önemlidir |\n\n---\n\n## Sonuç\n\nİlk belge, Amur leoparı, vaquita ve Sumatra gergedanı gibi canlıların insan faaliyetleri nedeniyle karşı karşıya kaldığı tehlikeleri açıklamaktadır. Türlerin korunabilmesi için yaşam alanlarının güvence altına alınması, kaçak avcılığın önlenmesi, uluslararası iş birliğinin güçlendirilmesi ve toplumun bilinçlendirilmesi gerektiğini vurgulamaktadır. [Kaynak 1] [Kaynak 2] [Kaynak 5]\n\nİkinci belge ise Mustafa Kemal Atatürk’ün eğitim hayatını, askerî başarılarını, Millî Mücadele’deki liderliğini, TBMM’nin açılışındaki rolünü, Cumhuriyet’in ilanını ve gerçekleştirdiği inkılapları anlatmaktadır. Atatürk, belgede Türkiye Cumhuriyeti’nin kurucusu ve modernleşme sürecinin lideri olarak öne çıkmaktadır. [Kaynak 4] [Kaynak 5]\n\nBelgelerin ortak sonucu, önemli değerlerin korunması için planlı, bilinçli ve kararlı bir mücadele gerektiğidir. İlk belgede korunması gereken değer doğal yaşam ve biyoçeşitlilikken, ikinci belgede bağımsızlık, Cumhuriyet ve toplumsal dönüşümdür.",
+          "sources": [
+            {
+              "number": 1,
+              "document_id": "a1e22166-3671-44df-8765-9e3a2b4f9394",
+              "document_name": "nesli_tukenmekte_olan_hayvanlar_v2 (1).pdf",
+              "chunk_position": 1,
+              "chunk": "dışı Totoaba balığı avcılığında kullanılan ağlara takılarak boğulmaları\nnedeniyle soyları tükenmenin eşiğine gelmiştir. \nSumatra Gergedanı (Dicerorhinus sumatrensis) TEHLIKEDE (EN)\nYaşam Alanı: Sumatra Adası (Endonezya)\nTahmini Nüfus: 30 - 80 birey\nBaşlıca Tehditler: Boynuz ticareti için avlanma, parçalanmış habitat\nAsya gergedanlarının en küçüğü ve vücudu kıllarla kaplı tek gergedan türüdür. Yaşam alanlarının palmiye yağı tarlalarına\ndönüştürülmesi popülasyonu ağır şekilde vurmuştur. \n2. Türlerin Koruma Statüsü Özet Tablosu\nCanlı Türü Bölge IUCN Statüsü Koruma Önceliği\nCava Gergedanı Endonezya Kritik (CR) En Yüksek\nDağ Gorili Orta Afrika Tehlikede (EN) Yüksek\nDoğa Koruma ve Biyoçeşitlilik Raporu Sayfa 1 / 2\n\nCanlı Türü Bölge IUCN Statüsü Koruma Önceliği\nAnadolu Parsı Türkiye Kritik (CR) En Yüksek\nŞeritli Kutup Ayısı Arktik Bölge Hassas (VU) Orta - Yüksek\nKarakulak Türkiye / Orta Doğu Asgari Endişe (LC) Yerel Koruma\n3. Koruma ve Önleme Tedbirleri\nBiyoçeşitliliğin korunması ve nesli tehlike altındaki canlıların geleceğe aktarılması için atılması gereken temel adımlar şunlardır:\nHabitatların Korunması: Doğal koruma alanlarının sınırlarının genişletilmesi ve yasadışı yapılaşmanın önlenmesi.\nKaçak Avcılıkla Mücadele: Yasadışı hayvan ve uzuv ticaretine karşı uluslararası denetimlerin artırılması.",
+              "score": 0.2543
+            },
+            {
+              "number": 2,
+              "document_id": "a1e22166-3671-44df-8765-9e3a2b4f9394",
+              "document_name": "nesli_tukenmekte_olan_hayvanlar_v2 (1).pdf",
+              "chunk_position": 0,
+              "chunk": "Nesli Tükenmekte Olan Canlılar Belgesi\nKüresel Biyoçeşitlilik Kaybı ve Kritik Durumdaki Türler Raporu\nÖnemli Bilgilendirme: Dünya Doğa ve Doğal Kaynakları Koruma Birliği (IUCN) Kırmızı Listesi verilerine göre,\ndünya genelinde binlerce canlı türü habitat kaybı, kaçak avlanma ve iklim değişikliği nedeniyle yok olma tehlikesiyle\nkarşı karşıyadır. Bu belge, öne çıkan kritik türleri ve koruma durumlarını özetlemektedir. \n1. Kritik Seviyede Tehdit Altındaki Türler (CR)\nAmur Leoparı (Panthera pardus orientalis) KRITIK TEHLIKEDE (CR)\nYaşam Alanı: Rusya'nın uzak doğusu ve Çin'in kuzeydoğusu\nTahmini Nüfus: Vahşi doğada yaklaşık 100 - 120 birey\nBaşlıca Tehditler: Kaçak avlanma, orman yangınları, endüstriyel yapılaşma\nDünyanın en nadir kedigillerinden biri olan Amur Leoparı, kalın kürkü ve zorlu kış şartlarına uyum sağlama yeteneğiyle\nbilinir. Doğal yaşam alanlarının daralması en büyük tehdittir. \nVaquita (Meksika Yunusu) (Phocoena sinus) KRITIK TEHLIKEDE (CR)\nYaşam Alanı: Kaliforniya Körfezi'nin kuzeyi (Meksika)\nTahmini Nüfus: 10'dan az birey\nBaşlıca Tehditler: Yasadışı balıkçılık ağlarına (solungaç ağları) takılma\nDünyanın en küçük deniz memelisidir. Yasadışı Totoaba balığı avcılığında kullanılan ağlara takılarak boğulmaları\nnedeniyle soyları tükenmenin eşiğine gelmiştir. \nSumatra Gergedanı (Dicerorhinus sumatrensis) TEHLIKEDE (EN)\nYaşam Alanı: Sumatra Adası (Endonezya)",
+              "score": 0.2051
+            },
+            {
+              "number": 3,
+              "document_id": "c5f89ab7-772b-471d-b9b2-414b4e6204ae",
+              "document_name": "ataturkun_hayati.pdf",
+              "chunk_position": 1,
+              "chunk": "başlattı.\nKongreler: Amasya Genelgesi, Erzurum ve Sivas Kongreleri ile ulusal kurtuluş örgütlenmesini sağladı.\nTBMM'nin Açılışı: 23 Nisan 1920'de Ankara'da Türkiye Büyük Millet Meclisi'ni açtı ve Meclis Başkanı seçildi.\nKurtuluş Savaşı: Sakarya Meydan Muharebesi (1921) sonrası \"Gazi\" unvanı ve \"Mareşal\" rütbesi aldı. 30 Ağustos\n1922'deki Başkomutanlık Meydan Muharebesi ile vatanı düşman işgalinden kurtardı.\n4. Cumhuriyet ve İnkılaplar (1923 - 1938)\nCumhuriyetin İlanı: 29 Ekim 1923'te Cumhuriyet ilan edildi ve Atatürk ilk cumhurbaşkanı seçildi.\nSiyasi İnkılaplar: Saltanatın ve Hilafetin kaldırılması, Cumhuriyetin ilanı.\nHukuki İnkılaplar: Medeni Kanun'un kabulü ve laik hukuk düzenine geçiş.\nEğitim ve Kültür: Harf İnkılabı (Latin alfabesine geçiş), Türk Tarih ve Türk Dil Kurumlarının kurulması, Tevhid-i\nTedrisat Kanunu.\nToplumsal İnkılaplar: Kadınlara seçme ve seçilme hakkının verilmesi, Soyadı Kanunu, şapka ve kıyafet devrimi.\n• \n• \n• \n• \n• \n• \n• \n• \n• \n• \n• \n• \n• \n• \n• \n• \n\n5. Vefatı\nMustafa Kemal Atatürk, 10 Kasım 1938 sabahı saat 09.05'te İstanbul Dolmabahçe Sarayı'nda hayatını kaybetti. Naaşı önce\nAnkara Etnografya Müzesi'nde muhafaza edildi, 10 Kasım 1953'te ise ebedî istirahathanesi olan Anıtkabir'e nakledildi.",
+              "score": 0.1792
+            },
+            {
+              "number": 4,
+              "document_id": "c5f89ab7-772b-471d-b9b2-414b4e6204ae",
+              "document_name": "ataturkun_hayati.pdf",
+              "chunk_position": 0,
+              "chunk": "Mustafa Kemal Atatürk'ün Hayatı\n1881 – 10 Kasım 1938\nMustafa Kemal Atatürk, Türkiye Cumhuriyeti'nin kurucusu, ilk cumhurbaşkanı, askerî lider ve devrimcidir. \n1. Erken Yılları ve Eğitimi (1881 - 1905)\nDoğumu: 1881 yılında Selanik'te doğdu. Annesi Zübeyde Hanım, babası Ali Rıza Efendi'dir.\nEğitimi: Mahalle Mektebi, Şemsi Efendi Mektebi, Selanik Mülkiye Rüştiyesi, Selanik Askerî Rüştiyesi, Manastır\nAskerî İdadisi ve İstanbul Harp Okulu'nda öğrenim gördü.\nHarp Akademisi: 1905 yılında Harp Akademisi'nden Kurmay Yüzbaşı rütbesiyle mezun oldu.\n2. Askerî Kariyeri ve Cepheler (1905 - 1918)\nİlk Görev: Şam'da 5. Ordu emrinde göreve başladı.\nTrablusgarp Savaşı (1911): İtalyanlara karşı Derne ve Tobruk'ta önemli başarılar kazandı.\nÇanakkale Savaşı (1915): Anafartalar, Arıburnu ve Conkbayırı'nda kazandığı zaferlerle \"Anafartalar Kahramanı\"\nolarak tanındı.\nDiğer Cepheler: Kafkas Cephesi'nde Muş ve Bitlis'i Rus işgalinden kurtardı; Suriye Cephesi'nde 7. Ordu Komutanlığı\nyaptı.\n3. Milli Mücadele Dönemi (1919 - 1923)\nSamsun'a Çıkış: 19 Mayıs 1919'da Samsun'a çıkarak Milli Mücadele'yi başlattı.\nKongreler: Amasya Genelgesi, Erzurum ve Sivas Kongreleri ile ulusal kurtuluş örgütlenmesini sağladı.\nTBMM'nin Açılışı: 23 Nisan 1920'de Ankara'da Türkiye Büyük Millet Meclisi'ni açtı ve Meclis Başkanı seçildi.",
+              "score": 0.1322
+            },
+            {
+              "number": 5,
+              "document_id": "a1e22166-3671-44df-8765-9e3a2b4f9394",
+              "document_name": "nesli_tukenmekte_olan_hayvanlar_v2 (1).pdf",
+              "chunk_position": 2,
+              "chunk": "Habitatların Korunması: Doğal koruma alanlarının sınırlarının genişletilmesi ve yasadışı yapılaşmanın önlenmesi.\nKaçak Avcılıkla Mücadele: Yasadışı hayvan ve uzuv ticaretine karşı uluslararası denetimlerin artırılması.\nFarkındalık Çalışmaları: Yerel halkın biyoçeşitlilik konusunda eğitilmesi ve ekoturizm modellerinin desteklenmesi.\nBu belge bilgilendirme amacıyla hazırlanmış olup veriler uluslararası koruma örgütlerinin raporlarına dayanmaktadır. \n• \n• \n• \nDoğa Koruma ve Biyoçeşitlilik Raporu Sayfa 2 / 2",
+              "score": 0.1071
+            }
+          ],
+          "created_at": "2026-08-30T21:47:57.681485+00:00",
+          "web_sources": [],
+          "web_search_used": false,
+          "web_queries": []
+        }
+      ],
+      "created_at": "2026-08-30T21:41:13.230206+00:00",
+      "updated_at": "2026-08-30T21:47:57.685342+00:00"
+    },
+    {
+      "id": "deb93ed6-7d48-48b5-9272-7e1dcb5d16dc",
+      "title": "ban bu dökümanda hayvaları say",
+      "messages": [
+        {
+          "id": "09f36e78-60cf-4b0a-a5ba-4b677ea2edcc",
+          "role": "user",
+          "content": "ban bu dökümanda hayvaları say",
+          "created_at": "2026-08-30T21:37:43.321807+00:00"
+        },
+        {
+          "id": "6c900414-bbdb-4f42-916f-347bf8783ec5",
+          "role": "assistant",
+          "content": "Dokümanda adı geçen hayvanlar şunlardır:\n\n1. Amur Leoparı [Kaynak 2]  \n2. Vaquita (Meksika Yunusu) [Kaynak 2]  \n3. Sumatra Gergedanı [Kaynak 1]  \n4. Cava Gergedanı [Kaynak 1]  \n5. Dağ Gorili [Kaynak 1]  \n6. Anadolu Parsı [Kaynak 1]  \n7. Şeritli Kutup Ayısı [Kaynak 1]  \n8. Karakulak [Kaynak 1]  \n9. Totoaba balığı [Kaynak 1]  \n\nToplam **9 farklı hayvan** adı geçmektedir.",
+          "sources": [
+            {
+              "number": 1,
+              "document_id": "a1e22166-3671-44df-8765-9e3a2b4f9394",
+              "document_name": "nesli_tukenmekte_olan_hayvanlar_v2 (1).pdf",
+              "chunk_position": 1,
+              "chunk": "dışı Totoaba balığı avcılığında kullanılan ağlara takılarak boğulmaları\nnedeniyle soyları tükenmenin eşiğine gelmiştir. \nSumatra Gergedanı (Dicerorhinus sumatrensis) TEHLIKEDE (EN)\nYaşam Alanı: Sumatra Adası (Endonezya)\nTahmini Nüfus: 30 - 80 birey\nBaşlıca Tehditler: Boynuz ticareti için avlanma, parçalanmış habitat\nAsya gergedanlarının en küçüğü ve vücudu kıllarla kaplı tek gergedan türüdür. Yaşam alanlarının palmiye yağı tarlalarına\ndönüştürülmesi popülasyonu ağır şekilde vurmuştur. \n2. Türlerin Koruma Statüsü Özet Tablosu\nCanlı Türü Bölge IUCN Statüsü Koruma Önceliği\nCava Gergedanı Endonezya Kritik (CR) En Yüksek\nDağ Gorili Orta Afrika Tehlikede (EN) Yüksek\nDoğa Koruma ve Biyoçeşitlilik Raporu Sayfa 1 / 2\n\nCanlı Türü Bölge IUCN Statüsü Koruma Önceliği\nAnadolu Parsı Türkiye Kritik (CR) En Yüksek\nŞeritli Kutup Ayısı Arktik Bölge Hassas (VU) Orta - Yüksek\nKarakulak Türkiye / Orta Doğu Asgari Endişe (LC) Yerel Koruma\n3. Koruma ve Önleme Tedbirleri\nBiyoçeşitliliğin korunması ve nesli tehlike altındaki canlıların geleceğe aktarılması için atılması gereken temel adımlar şunlardır:\nHabitatların Korunması: Doğal koruma alanlarının sınırlarının genişletilmesi ve yasadışı yapılaşmanın önlenmesi.\nKaçak Avcılıkla Mücadele: Yasadışı hayvan ve uzuv ticaretine karşı uluslararası denetimlerin artırılması.",
+              "score": 0.4919
+            },
+            {
+              "number": 2,
+              "document_id": "a1e22166-3671-44df-8765-9e3a2b4f9394",
+              "document_name": "nesli_tukenmekte_olan_hayvanlar_v2 (1).pdf",
+              "chunk_position": 0,
+              "chunk": "Nesli Tükenmekte Olan Canlılar Belgesi\nKüresel Biyoçeşitlilik Kaybı ve Kritik Durumdaki Türler Raporu\nÖnemli Bilgilendirme: Dünya Doğa ve Doğal Kaynakları Koruma Birliği (IUCN) Kırmızı Listesi verilerine göre,\ndünya genelinde binlerce canlı türü habitat kaybı, kaçak avlanma ve iklim değişikliği nedeniyle yok olma tehlikesiyle\nkarşı karşıyadır. Bu belge, öne çıkan kritik türleri ve koruma durumlarını özetlemektedir. \n1. Kritik Seviyede Tehdit Altındaki Türler (CR)\nAmur Leoparı (Panthera pardus orientalis) KRITIK TEHLIKEDE (CR)\nYaşam Alanı: Rusya'nın uzak doğusu ve Çin'in kuzeydoğusu\nTahmini Nüfus: Vahşi doğada yaklaşık 100 - 120 birey\nBaşlıca Tehditler: Kaçak avlanma, orman yangınları, endüstriyel yapılaşma\nDünyanın en nadir kedigillerinden biri olan Amur Leoparı, kalın kürkü ve zorlu kış şartlarına uyum sağlama yeteneğiyle\nbilinir. Doğal yaşam alanlarının daralması en büyük tehdittir. \nVaquita (Meksika Yunusu) (Phocoena sinus) KRITIK TEHLIKEDE (CR)\nYaşam Alanı: Kaliforniya Körfezi'nin kuzeyi (Meksika)\nTahmini Nüfus: 10'dan az birey\nBaşlıca Tehditler: Yasadışı balıkçılık ağlarına (solungaç ağları) takılma\nDünyanın en küçük deniz memelisidir. Yasadışı Totoaba balığı avcılığında kullanılan ağlara takılarak boğulmaları\nnedeniyle soyları tükenmenin eşiğine gelmiştir. \nSumatra Gergedanı (Dicerorhinus sumatrensis) TEHLIKEDE (EN)\nYaşam Alanı: Sumatra Adası (Endonezya)",
+              "score": 0.4876
+            },
+            {
+              "number": 3,
+              "document_id": "a1e22166-3671-44df-8765-9e3a2b4f9394",
+              "document_name": "nesli_tukenmekte_olan_hayvanlar_v2 (1).pdf",
+              "chunk_position": 2,
+              "chunk": "Habitatların Korunması: Doğal koruma alanlarının sınırlarının genişletilmesi ve yasadışı yapılaşmanın önlenmesi.\nKaçak Avcılıkla Mücadele: Yasadışı hayvan ve uzuv ticaretine karşı uluslararası denetimlerin artırılması.\nFarkındalık Çalışmaları: Yerel halkın biyoçeşitlilik konusunda eğitilmesi ve ekoturizm modellerinin desteklenmesi.\nBu belge bilgilendirme amacıyla hazırlanmış olup veriler uluslararası koruma örgütlerinin raporlarına dayanmaktadır. \n• \n• \n• \nDoğa Koruma ve Biyoçeşitlilik Raporu Sayfa 2 / 2",
+              "score": 0.3675
+            }
+          ],
+          "created_at": "2026-08-30T21:37:43.321807+00:00",
+          "web_sources": [],
+          "web_search_used": false,
+          "web_queries": []
+        },
+        {
+          "id": "6ce9c6e5-884b-4569-8ddb-35862b91c016",
+          "role": "user",
+          "content": "başka nesli tükenmekte olan hayvan var mı",
+          "created_at": "2026-08-30T21:38:22.343449+00:00"
+        },
+        {
+          "id": "4a0cac7a-68e6-4715-b50a-633a843b255f",
+          "role": "assistant",
+          "content": "**Belgenin kendisinde**, daha önce sayılanlara ek olarak nesli tükenmekte olduğu belirtilen başka bir hayvan adı yoktur. Belgede toplam **8 ana tür** listelenmiştir:\n\n- Amur leoparı  \n- Vaquita (Meksika yunusu)  \n- Sumatra gergedanı  \n- Cava gergedanı  \n- Dağ gorili  \n- Anadolu parsı  \n- Şeritli kutup ayısı  \n- Karakulak  \n\n**Totoaba balığı** ise vaquitaların takıldığı yasadışı balıkçılık ağları bağlamında anılmıştır; belgede onun koruma durumu belirtilmemiştir. [Kaynak 1] [Kaynak 2]\n\nWeb sonuçlarında ayrıca Afrika orman fili, kutup ayısı, ağaç kurbağaları, turnalar ve kelaynak gibi başka tehdit altındaki hayvanlardan söz edilmektedir. [Web 3] [Web 8]",
+          "sources": [
+            {
+              "number": 1,
+              "document_id": "a1e22166-3671-44df-8765-9e3a2b4f9394",
+              "document_name": "nesli_tukenmekte_olan_hayvanlar_v2 (1).pdf",
+              "chunk_position": 0,
+              "chunk": "Nesli Tükenmekte Olan Canlılar Belgesi\nKüresel Biyoçeşitlilik Kaybı ve Kritik Durumdaki Türler Raporu\nÖnemli Bilgilendirme: Dünya Doğa ve Doğal Kaynakları Koruma Birliği (IUCN) Kırmızı Listesi verilerine göre,\ndünya genelinde binlerce canlı türü habitat kaybı, kaçak avlanma ve iklim değişikliği nedeniyle yok olma tehlikesiyle\nkarşı karşıyadır. Bu belge, öne çıkan kritik türleri ve koruma durumlarını özetlemektedir. \n1. Kritik Seviyede Tehdit Altındaki Türler (CR)\nAmur Leoparı (Panthera pardus orientalis) KRITIK TEHLIKEDE (CR)\nYaşam Alanı: Rusya'nın uzak doğusu ve Çin'in kuzeydoğusu\nTahmini Nüfus: Vahşi doğada yaklaşık 100 - 120 birey\nBaşlıca Tehditler: Kaçak avlanma, orman yangınları, endüstriyel yapılaşma\nDünyanın en nadir kedigillerinden biri olan Amur Leoparı, kalın kürkü ve zorlu kış şartlarına uyum sağlama yeteneğiyle\nbilinir. Doğal yaşam alanlarının daralması en büyük tehdittir. \nVaquita (Meksika Yunusu) (Phocoena sinus) KRITIK TEHLIKEDE (CR)\nYaşam Alanı: Kaliforniya Körfezi'nin kuzeyi (Meksika)\nTahmini Nüfus: 10'dan az birey\nBaşlıca Tehditler: Yasadışı balıkçılık ağlarına (solungaç ağları) takılma\nDünyanın en küçük deniz memelisidir. Yasadışı Totoaba balığı avcılığında kullanılan ağlara takılarak boğulmaları\nnedeniyle soyları tükenmenin eşiğine gelmiştir. \nSumatra Gergedanı (Dicerorhinus sumatrensis) TEHLIKEDE (EN)\nYaşam Alanı: Sumatra Adası (Endonezya)",
+              "score": 0.7654
+            },
+            {
+              "number": 2,
+              "document_id": "a1e22166-3671-44df-8765-9e3a2b4f9394",
+              "document_name": "nesli_tukenmekte_olan_hayvanlar_v2 (1).pdf",
+              "chunk_position": 1,
+              "chunk": "dışı Totoaba balığı avcılığında kullanılan ağlara takılarak boğulmaları\nnedeniyle soyları tükenmenin eşiğine gelmiştir. \nSumatra Gergedanı (Dicerorhinus sumatrensis) TEHLIKEDE (EN)\nYaşam Alanı: Sumatra Adası (Endonezya)\nTahmini Nüfus: 30 - 80 birey\nBaşlıca Tehditler: Boynuz ticareti için avlanma, parçalanmış habitat\nAsya gergedanlarının en küçüğü ve vücudu kıllarla kaplı tek gergedan türüdür. Yaşam alanlarının palmiye yağı tarlalarına\ndönüştürülmesi popülasyonu ağır şekilde vurmuştur. \n2. Türlerin Koruma Statüsü Özet Tablosu\nCanlı Türü Bölge IUCN Statüsü Koruma Önceliği\nCava Gergedanı Endonezya Kritik (CR) En Yüksek\nDağ Gorili Orta Afrika Tehlikede (EN) Yüksek\nDoğa Koruma ve Biyoçeşitlilik Raporu Sayfa 1 / 2\n\nCanlı Türü Bölge IUCN Statüsü Koruma Önceliği\nAnadolu Parsı Türkiye Kritik (CR) En Yüksek\nŞeritli Kutup Ayısı Arktik Bölge Hassas (VU) Orta - Yüksek\nKarakulak Türkiye / Orta Doğu Asgari Endişe (LC) Yerel Koruma\n3. Koruma ve Önleme Tedbirleri\nBiyoçeşitliliğin korunması ve nesli tehlike altındaki canlıların geleceğe aktarılması için atılması gereken temel adımlar şunlardır:\nHabitatların Korunması: Doğal koruma alanlarının sınırlarının genişletilmesi ve yasadışı yapılaşmanın önlenmesi.\nKaçak Avcılıkla Mücadele: Yasadışı hayvan ve uzuv ticaretine karşı uluslararası denetimlerin artırılması.",
+              "score": 0.6119
+            },
+            {
+              "number": 3,
+              "document_id": "a1e22166-3671-44df-8765-9e3a2b4f9394",
+              "document_name": "nesli_tukenmekte_olan_hayvanlar_v2 (1).pdf",
+              "chunk_position": 2,
+              "chunk": "Habitatların Korunması: Doğal koruma alanlarının sınırlarının genişletilmesi ve yasadışı yapılaşmanın önlenmesi.\nKaçak Avcılıkla Mücadele: Yasadışı hayvan ve uzuv ticaretine karşı uluslararası denetimlerin artırılması.\nFarkındalık Çalışmaları: Yerel halkın biyoçeşitlilik konusunda eğitilmesi ve ekoturizm modellerinin desteklenmesi.\nBu belge bilgilendirme amacıyla hazırlanmış olup veriler uluslararası koruma örgütlerinin raporlarına dayanmaktadır. \n• \n• \n• \nDoğa Koruma ve Biyoçeşitlilik Raporu Sayfa 2 / 2",
+              "score": 0.4276
+            }
+          ],
+          "created_at": "2026-08-30T21:38:22.343449+00:00",
+          "web_sources": [
+            {
+              "number": 1,
+              "title": "tarım ve orman bakanlığı - Bianet",
+              "url": "https://bianet.org/etiket/tarim-ve-orman-bakanligi-60158",
+              "content": "Title: tarım ve orman bakanlığı - Bianet\n# tarım ve orman bakanlığı etiketli haberler. Tarım ve Orman Bakanlığı: “Hayvanların sağlığına ve refahına yönelik her türlü ihmal ve kötü muamele asla kabul edilemez.”. 35 günlük yavru, Tarım ve Orman Bakanlığı ekipleri tarafından koruma altına alındı. Tarım ve Orman Bakanı İbrahim Yumaklı, Çanakkale merkez ve Bayramiç’teki yangınların tamamen kontrol altına alındığını açıkladı. Tarım ve Orman Bakanı Yumaklı'dan orman yangını uyarısı. ##### Tarım ve Orman Bakanı Yumaklı'dan orman yangını uyarısı. Tarım ve Orman Bakanlığı, salım yapılan alanları 3 yıl süreyle ava kapatırken, keklik ve sülünleri avlayanlara para cezası uygulanacağını açıkladı. Tarım ve Orman Bakanlığı, sokakta yaşayan hayvanların toplanmasının 2028’e ertelenemeyeceğini belirterek 81 il valiliğine yazı gönderdi, belediyeleri uyardı. Tarım ve Orman Bakanlığı, nesli tükenmekte olan ve kaçırılmak üzereyken İstanbul Havalimanı'nda bulunan goril yavrusunun sağlık durumunun iyi olduğunu açıkladı. Tarım ve Orman Bakanı İbrahim Yumaklı İzmir Menderes'te yaklaşık 150, Selçuk'ta da 350 hektarlık alanın etkilendiğini açıkladı. Tarım ve Orman Bakanlığı'nın üreticilerinden almayı planladığı 5 ila 50 milyon TL arasındaki teminat bedeliyle ilgili Çiftçi-Sen’den Ali Bülent Erdem ve Adnan Çobanoğlu “Karar sadece tütün üreticileri için değil; şaraplık üzüm üreten üreticiler için de tehdit” diye açıklama yaptı. Tarım ve Orman Bakanlığı'nın içki üreticilerinden almayı planladığı 5 ila 50 milyon TL arasındaki teminat oranını değerlendiren Melen Şarapçılık'ın sahibi Cem Çetintaş, \"Türkiye için ekonomik ve kültürel değeri çok önemli olan bir sektör yok olma tehlikesiyle karşı karşıya kalacak\" dedi. DEVA Partisi İstanbul Milletvekili Evrim Rızvanoğlu, nesli tükenmekte olan hayvanların avlanmasını Tarım ve Orman Bakanı İbrahim Yumaklı’ya sordu. Tarım ve Orman Bakanlığı’ndan su tasarrufu kılavuzu. ##### Tarım ve Orman Bakanlığı’ndan su tasarrufu kılavuzu. Tarım ve Orman Bakanlığı: Hayvanları 31 Aralık'a kadar kimliklendirin. ##### Tarım ve Orman Bakanlığı: Hayvanları 31 Aralık'a kadar kimliklendirin. Tarım ve Orman Bakanlığı, evde yaşayan hayvanların kimliklendirilmesi ve kayıt altına alınması çalışmalarına devam ediyor. Kazdağları Ekoloji Platformu, yavru balıkların balık tezghlarında yer almasıyla ilgili bir açıklama yayımlayarak Tarım ve Orman Bakanlığı’na çağrıda bulundu. Tarım ve Orman Bakanlığı, evcil hayvanlarının takibinin sağlanacağı mikroçiple kimliklendirme sistemi için son tarihin 31 Aralık olduğunu açıkladı. Tarım ve Orman Bakanlığı, Şırnak’taki ağaç kesimleriyle ilgili “Şırnak ilimizde son bir yıl içinde 200 bin adet fidan dikimi yapılmıştır,” dedi.",
+              "score": 0.8403,
+              "query": "Türkiye nesli tükenmekte olan hayvanlar Tarım ve Orman Bakanlığı resmi"
+            },
+            {
+              "number": 2,
+              "title": "Nesli tükenmekte olan beş tür koruma altına alındı",
+              "url": "https://bianet.org/haber/nesli-tukenmekte-olan-bes-tur-koruma-altina-alindi-267961",
+              "content": "Title: Nesli tükenmekte olan beş tür koruma altına alındı\nFacebook'ta Bianet Twitter'da Bianet Instagram'da Bianet Bluesky'da Bianet Youtube'da Bianet Bianet RSS. Facebook' ta Bianet Twitter' da Bianet Instagram' da Bianet Youtube' da Bianet Bianet RSS. Haberler Yazarlar Özel Dosyalar Projeler Kitaplık Galeriler Sitede Ara. Facebook Twitter Youtube Instagram RSS E-bülten. YT:  Yayın Tarihi:  03.10.2022 12:43 3 Ekim 2022 12:43. ~  SG:  Son Güncelleme:  03.10.2022 12:44 3 Ekim 2022 12:44. # Nesli tükenmekte olan beş tür koruma altına alındı. İklim krizi nedeniyle nesli tükenme tehdidi ile karşı karşıya olan beş tür; kuşlar, memeliler, sürüngenler, bitkiler ve omurgasızlar olarak belirlendi. Tarım ve Orman Bakanlığı ile Avrupa Birliği (AB) iş birliğinde, Türkiye'de nesli tükenmekte olan Harran Kertenkelesi, çokgözlü Hatay mavisi (kelebek), bozkır kartalı, karakulak (kedigil) ve Hasbenli sığırkuyruğu bitkisi koruma altına alındı. Ortak yürütülen \"Yeni Bir Metodoloji Kapsamında Türkiye'nin Nesli Tehlike Altında Türleri İçin Tür Eylem Planları Hazırlanması, Uygulanması ve İzlenmesi Projesi\" Ağustos 2020'de hayata geçirildi. Projeyle, Türkiye Tür Koruma Stratejisinin oluşturulması ve Tür Eylem Planlarının hazırlanması için nesli tehlike altındaki türlere öncelik verilmesi hedefleniyor. Koruma altına alınan türlerden Harran Kertenkelesi ile ilgili ise dün (2 Ekim) Urfa'da \"Harran Kertenkelesi Eylem Planı Çalıştayı\" düzenlendi. Çalıştayda *Anadolu Ajansı* muhabirine konuşan Tarım ve Orman Bakanlığı Doğa Koruma ve Milli Parklar (DKMP) Genel Müdürlüğü Yaban Hayatı Dairesi Tür Koruma Çalışma Grubu Sorumlusu Adem Ağır, yurttaşları nesli tükenme tehdidi altında türleri koruma tedbirlerine uymaya davet etti. \"İnsanlardan kaçak avcılık yapmamalarını, bitkileri çiçeklenme dönemlerinde koparmamalarını istiyoruz\" diyen Ağır, sözlerine şöyle devam etti:. Türkiye'de pek çok bitki ve hayvan türünün iklim krizi ve küresel ısıtma nedeniyle yok olmak üzere olduğuna dikkat çeken Tarım ve Orman Uzmanı Burak Tatar ise korunmaya alınacak türleri nasıl belirlediklerini söyledi. Kuşlar, memeliler, sürüngenler, bitkiler ve omurgasızlar şeklinde beş grupta netleştik. Sürüngenlerden Harran kertenkelesi, kuşlardan Bozkır kartalı, memelilerden bir kedigil türü olan karakulak, omurgasızlardan Hatay'da yaşayan kelebek türü ve bitkilerden Çanakkale civarında endemik olan, sadece o bölgede yayılış gösteren Hasbenli sığırkuyruğu üzerinde çalışma kararı aldık.\". Dünyada bilinen türlerin 16 bin 928'i yok olmak üzere, tehlike altında ya da hassas türler arasında. Dünya Doğayı Koruma Birliği (IUCN) Kırmızı Liste'ye göre ise Türkiye'de, küresel ölçekte tehlike altında olan 364 tür ve alttür yer alıyor. iklim krizi tarım ve orman bakanlığı AB küresel ısıtma tehlike altındaki türler karakulak.",
+              "score": 0.839,
+              "query": "Türkiye nesli tükenmekte olan hayvanlar Tarım ve Orman Bakanlığı resmi"
+            },
+            {
+              "number": 3,
+              "title": "Soyu tükenmekte olan tür sayısı hiç bu kadar yüksek olmadı",
+              "url": "https://bianet.org/haber/soyu-tukenmekte-olan-tur-sayisi-hic-bu-kadar-yuksek-olmadi-255570",
+              "content": "WWF'nin yeni raporuna göre 2021'de en büyük kayıplarla karşılaşan canlı türleri Afrika orman filleri, kutup ayıları, ağaç kurbağaları, turnalar",
+              "score": 0.8011,
+              "query": "WWF nesli tükenmekte olan hayvanlar güncel türler"
+            },
+            {
+              "number": 4,
+              "title": "IUCN Red List - Wikipedia",
+              "url": "https://en.wikipedia.org/wiki/IUCN_Red_List",
+              "content": "The International Union for Conservation of Nature (IUCN) Red List of Threatened Species, also known as the IUCN Red List or Red Data Book, founded in 1964, is an inventory of the global conservation status and extinction risk of biological species. A series of Regional Red Lists, which assess the risk of extinction to species within a political management unit, are also produced by countries and organizations.\n\nThe goals of the Red List are to provide scientifically based information on the status of species and subspecies at a global level, to draw attention to the magnitude and importance of threatened biodiversity, to influence national and international policy and decision-making, and to provide information to guide actions to conserve biological diversity. [...] On 12 September 2007, the World Conservation Union (IUCN) released the 2007 IUCN Red List of Threatened Species. In this release, they have raised their classification of both the western lowland gorilla (Gorilla gorilla gorilla) and the Cross River gorilla (Gorilla gorilla diehli) from endangered to critically endangered, which is the last category before extinct in the wild, due to Ebola virus and poaching, along with other factors. Russ Mittermeier, chief of Swiss-based IUCN's Primate Specialist Group, stated that 16,306 species are endangered with extinction, 188 more than in 2006 (total of 41,415 species on the Red List). The Red List includes the Sumatran orangutan (Pongo abelii) in the Critically Endangered category and the Bornean orangutan (Pongo pygmaeus) in the Endangered [...] ### 2012 release\n\n[edit]\n\nThe Red List of 2012 was released 19 July 2012 at Rio+20 Earth Summit; nearly 2,000 species were added, with 4 species to the extinct list, 2 to the rediscovered list. The IUCN assessed a total of 63,837 species which revealed 19,817 are threatened with extinction. 3,947 were described as \"critically endangered\" and 5,766 as \"endangered\", while more than 10,000 species are listed as \"vulnerable\". At threat are 41% of amphibian species, 33% of reef-building corals, 30% of conifers, 25% of mammals, and 13% of birds. The IUCN Red List has listed 132 species of plants and animals from India as \"Critically Endangered\".\n\n## Categories\n\n[edit]\n\n| Conservation status by IUCN Red List category |",
+              "score": 0.7602,
+              "query": "IUCN Red List nesli tükenmekte olan hayvan türleri resmi liste"
+            },
+            {
+              "number": 5,
+              "title": "IUCN Kırmızı Listesi - Vikipedi",
+              "url": "https://tr.wikipedia.org/wiki/IUCN_K%C4%B1rm%C4%B1z%C4%B1_Listesi",
+              "content": "Vikipedi\n\n# IUCN Kırmızı Listesi\n\nIUCN Nesli Tükenme Tehlikesi Altında Olan Türlerin Kırmızı Listesi (\"IUCN Kırmızı Listesi\") ve bitki ve hayvan türlerinin dünyadaki en kapsamlı Küresel Koruma durumu envanteridir. IUCN Kırmızı Listesi Uluslararası Doğal Hayatı ve Doğal Kaynakları Koruma Birliği tarafından sürdürülmektedir. [...] ## İçindekiler\n\n## Yayınlar\n\n### 2012\n\n2012 Kırmızı Listesi, 19 Temmuz 2012'de Rio+20 Dünya Zirvesi'nde açıklandı; yaklaşık 2.000 tür eklendi; 4 tür nesli tükenenler listesine, 2 tür ise yeniden keşfedilenler listesine eklendi. IUCN, toplam 63.837 türü değerlendirdi ve bunlardan 19.817'sinin nesli tükenme tehlikesi altında olduğunu ortaya koydu. 3.947 tür \"kritik düzeyde tehlike altında\", 5.766 tür ise \"tehlikede\" olarak nitelendirilirken, 10.000'den fazla tür \"hassas\" olarak listelendi. Amfibi türlerinin %41'i, resif oluşturan mercanların %33'ü, iğne yapraklıların %30'u, memelilerin %25'i ve kuşların %13'ü tehdit altında. IUCN Kırmızı Listesi, Hindistan'dan 132 bitki ve hayvan türünü \"kritik düzeyde tehlike altında\" olarak listeledi.\n\n### 2006 [...] Bu yayımda, 2004 yılındaki yayım üzerinde bir değişiklik yapılmadan, 784 türün milattan sonra 1500 yılından itibaren neslinin tükenmesini listelemektedir. Bu 2000 yılındaki listenin (766) 18 fazlasıdır. Her yıl az sayıda nesli tükenmiş türler ya yeni bulunmakta, ya fosil türüne dönüşmekte ya da üzerinde yeterli bilgi bulunmayan kategorisine alınmaktadırlar. 2002 yılında nesli tükenmiş olanlar listesi 759 türe kadar düşmüş ancak o zamandan bugüne artış sergilemektedir.\n\n## Kategoriler\n\nKategoriler 10 grupta tasnif edilmiştir; bu tasnifte, tükenme hızı, nüfus büyüklüğü, coğrafi dağılım alanları ile nüfus ve dağılım derecesi kriterleri dikkate alınmıştır.",
+              "score": 0.7362,
+              "query": "IUCN Red List nesli tükenmekte olan hayvan türleri resmi liste"
+            },
+            {
+              "number": 6,
+              "title": "Nesli Tükenmekte Olan Hayvanlardan Sadece ...",
+              "url": "https://bigumigu.com/haber/nesli-tukenmekte-olan-hayvanlardan-sadece-gorsellerdeki-piksel-kadar-kaldi",
+              "content": "Projede nesli tükenmekte olan 22 hayvan yer alıyor · Afrika yaban köpeği | 3 bin ila 5 bin 500 tane kaldı · Amur leoparı | Yaklaşık 60 tane kaldı.",
+              "score": 0.7164,
+              "query": "WWF nesli tükenmekte olan hayvanlar güncel türler"
+            },
+            {
+              "number": 7,
+              "title": "Soyu - Nesli Tükenmekte Olan Hayvanlar | Umut Var mı?",
+              "url": "https://www.neoldu.com.tr/soyu-tukenmekte-olan-hayvanlar-1-52651h.htm",
+              "content": "İLGİNİ ÇEKEBİLİR: \"Türkiye'de Nesli Tükenen Hayvanlar\"\n\n  \n\nSoyu - Nesli Tükenmekte Olan Hayvanlar | Umut Var mı? 14 1421\n\nPANDA\n\nArtık nesli tükenmekte olan hayvanlar listesinde değil.\n\nPandalar, siyah beyaz kürkü ve iri gözleriyle ikonikleşmiş bir tür olsa da, son yıllarda nesli tükenme tehlikesi altındaki hayvanlar listesinden çıkarıldı. 2016 yılında Uluslararası Doğa Koruma Birliği (IUCN), pandaların \"tehlike altındaki tür\" kategorisinden \"zarar görebilir tür\" kategorisine alındı. [...] Soyu - Nesli Tükenmekte Olan Hayvanlar | Umut Var mı? 4 421\n\nANADOLU PARSI\n\nAnadolu parsı (Panthera pardus tulliana), bir zamanlar Anadolu'nun vahşi doğasında hakim olan muhteşem bir leopar türüydü. Güçlü pençeleri, çevik hareketleri ve benekli kürküyle bu asil canlı, Türk mitolojisinde de önemli bir yere sahipti. Ancak, habitat kaybı, avlanma ve kaçakçılık gibi tehditler nedeniyle Anadolu parsı nesli tükenmekte olan hayvanlar listesine girmiştir.\n\nNeden Nesli Tükeniyor? [...] Soyu - Nesli Tükenmekte Olan Hayvanlar | Umut Var mı? 11 1121\n\nKISA GAGALI YUNUSLAR\n\nKısa Gagalı Yunuslar şu anda nesli tükenmekte olan bir hayvan olarak sınıflandırılmıyor.\n\nAncak, durumları hassas ve bazı popülasyonlar tehlike altındadır.\n\nTehditler:",
+              "score": 0.691,
+              "query": "Türkiye nesli tükenmekte olan hayvanlar Tarım ve Orman Bakanlığı resmi"
+            },
+            {
+              "number": 8,
+              "title": "101 Odak Tür - WWF",
+              "url": "https://www.turkiyenincani.org/turkiyedekidurum/101odaktur",
+              "content": "Nesli tükenme tehdidiyle karşı karşıya olan kelaynaklar Dünya'da sadece Fas'ta iki koloni halinde ve ülkemizde de (Birecik) bulunmaktadır. nesli tehdit altında",
+              "score": 0.6615,
+              "query": "WWF nesli tükenmekte olan hayvanlar güncel türler"
+            },
+            {
+              "number": 9,
+              "title": "IUCN Red List of Threatened Species (@IUCNRedList)",
+              "url": "https://www.facebook.com/IUCNRedList",
+              "content": "The IUCN Red List of Threatened Species is the most comprehensive information source on the global extinction risk of animal, fungus and plant species.",
+              "score": 0.62,
+              "query": "IUCN Red List nesli tükenmekte olan hayvan türleri resmi liste"
+            },
+            {
+              "number": 10,
+              "title": "IUCN Red List of Threatened Species",
+              "url": "https://www.iucnredlist.org",
+              "content": "See all news\n\n# What is The IUCN Red List?\n\nEstablished in 1964, The International Union for Conservation of Nature’s Red List of Threatened Species has evolved to become the world’s most comprehensive information source on the global conservation status of animal, fungi and plant species.\n\nThe IUCN Red List is a critical indicator of the health of the world’s biodiversity. Far more than a list of species and their status, it is a powerful tool to inform and catalyze action for biodiversity conservation and policy change, critical to protecting the natural resources we need to survive. It provides information about range, population size, habitat and ecology, use and/or trade, threats, and conservation actions that will help inform necessary conservation decisions. [...] 2026-1  Login / Register ☀ What's New Contact Terms of Use\n\nAdvanced ?\n\nMore than 49,500 species are threatened with extinction\n\nThat is 28% of all assessed species.\n\nSharks & Rays\n\n38%\n\nReef corals\n\n44%\n\nSelected Crustaceans\n\n28%\n\nreptiles\n\n21%\n\nCycads\n\n71%\n\nTake action\n\nHelp us make The IUCN Red List a more complete barometer of life.\n\n# News from IUCN\n\n2026-07-15\n\n## In Memoriam: Dr Kent E. Carpenter (1953–2026)\n\nIUCN joins the global community in mourning the unexpected passing of Dr Kent E. Carpenter, internationally renowned marine biologist, conservation scientist, mentor, and leader whose career transformed marine species conservation.\n\nRead the full article on IUCN Read the full article on IUCN\n\n2026-07-09 [...] A taxon is Extinct (EX) when there is no reasonable doubt that the last individual has died. A taxon is presumed Extinct when exhaustive surveys in known and/or expected habitat, at appropriate times (diurnal, seasonal, annual), throughout its historic range have failed to record an individual. Surveys should be over a time frame appropriate to the taxon's life cycle and life form.\n\n  Species categorized as Extinct (EX)\n ## Not Evaluated (NE)\n\n  A taxon is Not Evaluated (NE) when it has not yet been evaluated against the criteria.\n\n  Not Evaluated (NE) species are not published on the IUCN Red List\n\n# Our goals\n\nTo date, more than 175,900 species have been assessed for The IUCN Red List.",
+              "score": 0.5789,
+              "query": "IUCN Red List nesli tükenmekte olan hayvan türleri resmi liste"
+            }
+          ],
+          "web_search_used": true,
+          "web_queries": [
+            "IUCN Red List nesli tükenmekte olan hayvan türleri resmi liste",
+            "Türkiye nesli tükenmekte olan hayvanlar Tarım ve Orman Bakanlığı resmi",
+            "WWF nesli tükenmekte olan hayvanlar güncel türler"
+          ]
+        }
+      ],
+      "created_at": "2026-08-30T21:37:17.931222+00:00",
+      "updated_at": "2026-08-30T21:38:22.343449+00:00"
+    },
+    {
+      "id": "baa234d5-e7af-4f8f-adcb-2adeb541f987",
+      "title": "bu kim kısaca özetle",
+      "messages": [
+        {
+          "id": "af3150ef-93a5-4b9a-b3ca-1ef9ec752784",
+          "role": "user",
+          "content": "bu kim kısaca özetle",
+          "created_at": "2026-08-30T14:56:03.415324+00:00"
+        },
+        {
+          "id": "79ddb642-a698-4374-ac21-a118c2d6a3bc",
+          "role": "assistant",
+          "content": "Necip Şahamettin Küçük, kurumsal yapay zekâ, LLM, RAG ve otonom AI ajanları üzerine çalışan kıdemli bir yapay zekâ mühendisidir. Obilet’te müşteri destek taleplerinin %89’unu %97 doğrulukla otomatik çözen bir AI ajanı geliştirmiştir. [Kaynak 4]\n\nDaha önce açık kaynak LLM, RAG, belge işleme, bilgisayarlı görü ve üretim yapay zekâ sistemleri üzerinde çalışmıştır. [Kaynak 2] Ayrıca havaalanı pistlerinde yabancı cisim tespiti üzerine yüksek lisans yapmış ve bu alanda akademik yayın üretmiştir. [Kaynak 5]\n\nTEKNOFEST, Samsung Innovation Campus ve TÜBİTAK projelerinde ödüller kazanmış; UAV, yangın tespiti ve hava savunma sistemleri gibi projeler geliştirmiştir. [Kaynak 6]",
+          "sources": [
+            {
+              "number": 1,
+              "document_id": "84ec1464-47d1-45e5-a937-675e31bd6ce8",
+              "document_name": "Necip_Sahamettin_Kucuk_LLM_Engineer_CV.pdf",
+              "chunk_position": 9,
+              "chunk": "KNOFEST UAV Free Category 2022\nDeveloped a vision-guided rescue UAV that deploys life rings and uses a retrieval net with up to 15 kg carrying capacity. Star\nNews Coverage\nTÜBİTAK 2209-A — Aircraft Generator Backup 2022\nDeveloped a backup system that maintains a fixed 400 Hz aircraft electrical frequency.\nVOLUNTEER EXPERIENCE\nVolunteer Online Course Training Support — UNDP Aug 2024 – Dec 2024\nDelivered online training to children from various parts of Africa, covering Python, machine learning, data science and large\nlanguage models.\nGitHub & Content Management Support — UNDP Istanbul International Center for Private\nSector in Development\nDec 2024 – Present\nCreated and maintained LLM and deep-learning training materials for the Frontier Tech Leaders Programme and DS4SDGs\nrepositories; reviewed and resolved content issues on GitHub. LLM Colab · Deep Learning Notebook\n3 / 3",
+              "score": 0.3382
+            },
+            {
+              "number": 2,
+              "document_id": "84ec1464-47d1-45e5-a937-675e31bd6ce8",
+              "document_name": "Necip_Sahamettin_Kucuk_LLM_Engineer_CV.pdf",
+              "chunk_position": 3,
+              "chunk": "obotics Jun 2024 – Nov 2025\nIntegrated an open-source LLM to eliminate dependency on paid model APIs and developed a modular RAG and information-\nretrieval platform supporting PDF, DOC, CSV, Excel, TXT and JSON sources.\nEnabled natural-language interaction with large Excel, CSV and SQL datasets, allowing non-technical users to perform\ndatabase operations without writing SQL.\nBuilt universal document-processing pipelines for text and entity extraction, completeness checks and retrieval, alongside\nreal-time facial/speech emotion recognition and context-preserving translation.\nCreated an AI CV–job matching system that scores similarity, evaluates qualifications, generates suitability reports and ranks\ncandidates.\nYouTube Demos\nSoftware Developer & AI Researcher — TÜBİTAK 1001 Project, Fırat University Oct 2023 – Jun 2024\nResearched Transformer and encoder–decoder architectures, NLP optimization and projection methods; studied DETR,\nYOLO, D-FINE, ResNet, DenseNet and EfficientNet and built demonstration applications.\nComputer Vision Intern — Arçelik, Washing Machine Plant Jul 2023 – Sep 2023\nDeveloped a two-camera, YOLO-based production-line tracking system using real-time image processing at the Çayırova\nwashing machine plant. YouTube Demo · GitHub\nEngineering Intern — Turkish Technic Jun 2022 – Aug 2022",
+              "score": 0.3289
+            },
+            {
+              "number": 3,
+              "document_id": "84ec1464-47d1-45e5-a937-675e31bd6ce8",
+              "document_name": "Necip_Sahamettin_Kucuk_LLM_Engineer_CV.pdf",
+              "chunk_position": 4,
+              "chunk": "3\nDeveloped a two-camera, YOLO-based production-line tracking system using real-time image processing at the Çayırova\nwashing machine plant. YouTube Demo · GitHub\nEngineering Intern — Turkish Technic Jun 2022 – Aug 2022\nDeveloped hardware for stress-testing aircraft tray-table support assemblies at Sabiha Gökçen Airport (SAW). YouTube Demo\n1 / 3\n\nSELECTED PRODUCTION AI SYSTEMS — OBILET\nAI Hotel Image Selection\nDeveloped an AI workflow that evaluates hotel media and\nselects the most suitable images for presentation, reducing\nmanual visual curation.\nLLM-Based Hotel Badge Generation\nBuilt a system that analyzes hotel information and guest\nreviews, identifies differentiating attributes and generates\ncontext-appropriate hotel badges.\nAutonomous Jira-to-Code Delivery Agent\nConnected Jira, GitHub and GitHub Copilot so an AI agent can\ninterpret a task, implement the change and commit it;\nproduction release remains gated by manager approval.\nEvent-Driven Story-Point Estimation\nDesigned a Jira webhook → AWS Lambda → OpenAI\nworkflow that estimates task complexity and automatically\nwrites the story point back to the Jira issue.\nTECHNICAL SKILLS\nEnterprise AI & LLMs AI agents, multi-agent orchestration, tool/function calling, RAG, NLP, information retrieval, context\nengineering, prompt engineering, LLM evaluation, model optimization, Transformers, embeddings,",
+              "score": 0.2865
+            },
+            {
+              "number": 4,
+              "document_id": "84ec1464-47d1-45e5-a937-675e31bd6ce8",
+              "document_name": "Necip_Sahamettin_Kucuk_LLM_Engineer_CV.pdf",
+              "chunk_position": 0,
+              "chunk": "Necip Şahamettin KÜÇÜK\nSenior Artificial Intelligence Engineer | Enterprise AI, Agentic AI, RAG & Cloud\nPlatforms\nIstanbul, Türkiye • +90 534 589 81 60 • necamettinkck@gmail.com • LinkedIn • GitHub\nPROFESSIONAL SUMMARY\nArtificial Intelligence Engineer specializing in turning cognitive and operational work into reliable production AI systems. Designs\nand ships agentic AI, RAG, NLP and intelligent automation from business discovery and PoC through secure AWS architecture,\nenterprise integration, LLMOps, evaluation and production monitoring. Built customer-service AI systems that autonomously\nresolve 89% of eligible support tickets at 97% validation accuracy and deliver capacity equivalent to 4.64 person-months of\nwork.\nPROFESSIONAL EXPERIENCE\nArtificial Intelligence Engineer — Obilet Nov 2025 – Present\nDeveloped an AI ticket-resolution agent that autonomously answers 89% of customer-support tickets with 97% accuracy,\nshifting repetitive resolution work from the CX team to AI and providing workload capacity equivalent to 4.64 person-months.\nOwn LLM features end to end: identify high-impact use cases, build working PoCs with Python APIs and Next.js/Tailwind CSS\ninterfaces, present demos and business value to management and the CTO, and productionize approved initiatives through\nJira delivery workflows.",
+              "score": 0.2745
+            },
+            {
+              "number": 5,
+              "document_id": "84ec1464-47d1-45e5-a937-675e31bd6ce8",
+              "document_name": "Necip_Sahamettin_Kucuk_LLM_Engineer_CV.pdf",
+              "chunk_position": 7,
+              "chunk": ", APIs and enterprise\nknowledge repositories.\nLLMOps & Governance: Apply CI/CD, agent evaluation,\nmonitoring, observability, RBAC, cybersecurity, data privacy\nand Responsible AI controls for reliable, auditable systems.\nAdvanced Analytics: Develop machine-learning,\noptimization, simulation, forecasting, risk-modeling and Digital\nTwin solutions for operational use cases.\nRegulated AI Readiness: Transfer production AI, document\nintelligence and governance experience to banking and KYC\nworkflows; actively developing domain knowledge in financial\ncrime and model governance.\nEDUCATION\nM.Sc., Aviation Sciences and Technologies — Fırat University 2022 – 2025\nGPA: 3.38/4.00 · Thesis: Deep Learning Approach for Foreign Object Detection on Airport Runways — compared\nYOLOv5s, YOLOv8s and YOLOv11-s; YOLOv11-s achieved 0.861 F1 and 0.826 recall with 9.45M parameters.\nB.Sc., Computer Engineering (Double Major) — Fırat University 2020 – 2024\nGPA: 3.00/4.00\nB.Sc., Aircraft Electrical & Electronics — Fırat University 2018 – 2022\nGPA: 3.22/4.00\n2 / 3\n\nSELECTED PUBLICATION & RESEARCH\nDetection and Classification of Foreign Object Debris (FOD) with Comparative Deep Learning\nAlgorithms in Airport Runways\nFeb 2025\nSignal, Image and Video Processing, 19:316. Built a 71-class, 33,286-image dataset and evaluated YOLOv5/YOLOv8 models;\nachieved up to 0.907 F-measure and 0.939 mAP@0.5.",
+              "score": 0.2742
+            },
+            {
+              "number": 6,
+              "document_id": "84ec1464-47d1-45e5-a937-675e31bd6ce8",
+              "document_name": "Necip_Sahamettin_Kucuk_LLM_Engineer_CV.pdf",
+              "chunk_position": 8,
+              "chunk": "eep Learning\nAlgorithms in Airport Runways\nFeb 2025\nSignal, Image and Video Processing, 19:316. Built a 71-class, 33,286-image dataset and evaluated YOLOv5/YOLOv8 models;\nachieved up to 0.907 F-measure and 0.939 mAP@0.5. DOI · DBLP Author Profile\nTwo Oral Presentations — 14th International Al-Farabi Scientific Research and Innovation Congress Apr 2025\nPresented YOLOv11-based real-time FOD detection systems using the FOD-Runway and custom FOD-A datasets.\nSELECTED ACHIEVEMENTS & PROJECTS\n1st Place — TEKNOFEST Air Defense Systems, Critical Design Review 2024\n1st in the Critical Design Review phase with HİSAR; developed real-time target tracking and automated firing algorithms.\n1st Place — Samsung Innovation Campus 2023\nBuilt a UAV-based real-time forest-fire detection application with a 95% success rate. Samsung Story · GitHub · Demo\nTÜBİTAK 1002 — Airport Runway FOD Detection 2024\nContributed to a Fırat University BAP-supported deep-learning research project.\nSemEval Food Hazard Detection Challenge 2025\nRanked 36th worldwide in food hazard and product-category detection. Leaderboard\nFinalist — TEKNOFEST UAV Free Category 2022\nDeveloped a vision-guided rescue UAV that deploys life rings and uses a retrieval net with up to 15 kg carrying capacity. Star\nNews Coverage\nTÜBİTAK 2209-A — Aircraft Generator Backup 2022",
+              "score": 0.2302
+            }
+          ],
+          "created_at": "2026-08-30T14:56:03.415324+00:00",
+          "web_sources": [],
+          "web_search_used": false,
+          "web_queries": []
+        },
+        {
+          "id": "d971e067-f328-456d-b590-d7f96380115c",
+          "role": "user",
+          "content": "araştır bakalım hakkında başka ne bulabileceksin",
+          "created_at": "2026-08-30T14:56:33.992101+00:00"
+        },
+        {
+          "id": "5ceb21f5-d776-4193-8e9c-7a541fcbf3dc",
+          "role": "assistant",
+          "content": "Verilen web sonuçlarına göre Necip Şahamettin Küçük hakkında CV’sine ek olarak şunlar bulunuyor:\n\n- **Obilet’te çalışıyor** ve İstanbul/Pendik merkezli görünüyor. LinkedIn profilinde Fırat Üniversitesi’nde uçak elektrik-elektroniği, bilgisayar mühendisliği ve havacılık bilimleriyle ilişkili eğitim geçmişi yer alıyor. [Web 2] [Web 5]\n- **Samsung Innovation Campus programında birincilik elde eden ekibin parçası.** Ekibin “Real-Time Forest Fire Detection AI” projesi, orman yangınlarını erken tespit etmeyi hedefliyor ve %95 başarı oranıyla tanıtılmış. [Web 1] [Web 3] [Web 5]\n- Yangın tespit projesinde yalnızca model geliştirme değil, **rüzgâr yönü gibi özelliklerin kullanıldığı bir feature engineering yaklaşımı** da belirtiliyor. [Web 5]\n- Projeye ilişkin açıklamasında amaçlarının yangınları erken tespit ederek **yayılmayı ve oluşacak zararı azaltmak** olduğunu ifade etmiş. [Web 3]\n- Akademik olarak, havaalanı pistlerinde **yabancı cisim tespiti** üzerine çalışmaları bulunuyor. Fırat Üniversitesi’nin yayın/performans kaydında da bu konuya ilişkin 2025 tarihli çalışması listelenmiş. [Web 4]\n- Araştırma profillerinde, pistlerde yabancı cisim tespiti için veri kümesi oluşturulması ve derin öğrenme yöntemlerinin kullanılmasıyla ilgili yayın bilgileri yer alıyor. [Web 9]\n- Gönüllülük kapsamında UNDP ile Afrika’daki çocuklara **Python, makine öğrenmesi, veri bilimi ve büyük dil modelleri** konularında çevrim içi eğitim desteği vermiş; ayrıca UNDP İstanbul merkezinin teknik içerik ve GitHub çalışmalarına katkıda bulunmuş. [Kaynak 1]\n- Web profillerinde TEKNOFEST “Serbest Görev İHA” ve TEI Havacılık Motorları Okulu gibi sertifika/kuruluş bağlantıları da görülüyor. [Web 5]\n\n**Genel değerlendirme:** Kamuya açık bilgiler, onun havacılık teknolojileri ile yapay zekâyı birleştiren; özellikle bilgisayarlı görü, LLM/RAG sistemleri ve operasyonel AI uygulamalarına odaklanan bir mühendis olduğunu gösteriyor. Ancak LinkedIn sonuçlarında ayrıntılı iş tanımları, güncel pozisyon seviyesi veya doğrulanabilir tüm proje çıktıları açık biçimde yer almıyor. [Web 2] [Web 5]\n\nNot: Önceki yanıtta geçen “%89 otomasyon ve %97 doğruluk” bilgisi, burada verilen kaynak parçalarında doğrulanamıyor; bu nedenle güvenilir biçimde tekrar edemem.",
+          "sources": [
+            {
+              "number": 1,
+              "document_id": "84ec1464-47d1-45e5-a937-675e31bd6ce8",
+              "document_name": "Necip_Sahamettin_Kucuk_LLM_Engineer_CV.pdf",
+              "chunk_position": 9,
+              "chunk": "KNOFEST UAV Free Category 2022\nDeveloped a vision-guided rescue UAV that deploys life rings and uses a retrieval net with up to 15 kg carrying capacity. Star\nNews Coverage\nTÜBİTAK 2209-A — Aircraft Generator Backup 2022\nDeveloped a backup system that maintains a fixed 400 Hz aircraft electrical frequency.\nVOLUNTEER EXPERIENCE\nVolunteer Online Course Training Support — UNDP Aug 2024 – Dec 2024\nDelivered online training to children from various parts of Africa, covering Python, machine learning, data science and large\nlanguage models.\nGitHub & Content Management Support — UNDP Istanbul International Center for Private\nSector in Development\nDec 2024 – Present\nCreated and maintained LLM and deep-learning training materials for the Frontier Tech Leaders Programme and DS4SDGs\nrepositories; reviewed and resolved content issues on GitHub. LLM Colab · Deep Learning Notebook\n3 / 3",
+              "score": 0.3271
+            },
+            {
+              "number": 2,
+              "document_id": "84ec1464-47d1-45e5-a937-675e31bd6ce8",
+              "document_name": "Necip_Sahamettin_Kucuk_LLM_Engineer_CV.pdf",
+              "chunk_position": 3,
+              "chunk": "obotics Jun 2024 – Nov 2025\nIntegrated an open-source LLM to eliminate dependency on paid model APIs and developed a modular RAG and information-\nretrieval platform supporting PDF, DOC, CSV, Excel, TXT and JSON sources.\nEnabled natural-language interaction with large Excel, CSV and SQL datasets, allowing non-technical users to perform\ndatabase operations without writing SQL.\nBuilt universal document-processing pipelines for text and entity extraction, completeness checks and retrieval, alongside\nreal-time facial/speech emotion recognition and context-preserving translation.\nCreated an AI CV–job matching system that scores similarity, evaluates qualifications, generates suitability reports and ranks\ncandidates.\nYouTube Demos\nSoftware Developer & AI Researcher — TÜBİTAK 1001 Project, Fırat University Oct 2023 – Jun 2024\nResearched Transformer and encoder–decoder architectures, NLP optimization and projection methods; studied DETR,\nYOLO, D-FINE, ResNet, DenseNet and EfficientNet and built demonstration applications.\nComputer Vision Intern — Arçelik, Washing Machine Plant Jul 2023 – Sep 2023\nDeveloped a two-camera, YOLO-based production-line tracking system using real-time image processing at the Çayırova\nwashing machine plant. YouTube Demo · GitHub\nEngineering Intern — Turkish Technic Jun 2022 – Aug 2022",
+              "score": 0.2842
+            },
+            {
+              "number": 3,
+              "document_id": "84ec1464-47d1-45e5-a937-675e31bd6ce8",
+              "document_name": "Necip_Sahamettin_Kucuk_LLM_Engineer_CV.pdf",
+              "chunk_position": 8,
+              "chunk": "eep Learning\nAlgorithms in Airport Runways\nFeb 2025\nSignal, Image and Video Processing, 19:316. Built a 71-class, 33,286-image dataset and evaluated YOLOv5/YOLOv8 models;\nachieved up to 0.907 F-measure and 0.939 mAP@0.5. DOI · DBLP Author Profile\nTwo Oral Presentations — 14th International Al-Farabi Scientific Research and Innovation Congress Apr 2025\nPresented YOLOv11-based real-time FOD detection systems using the FOD-Runway and custom FOD-A datasets.\nSELECTED ACHIEVEMENTS & PROJECTS\n1st Place — TEKNOFEST Air Defense Systems, Critical Design Review 2024\n1st in the Critical Design Review phase with HİSAR; developed real-time target tracking and automated firing algorithms.\n1st Place — Samsung Innovation Campus 2023\nBuilt a UAV-based real-time forest-fire detection application with a 95% success rate. Samsung Story · GitHub · Demo\nTÜBİTAK 1002 — Airport Runway FOD Detection 2024\nContributed to a Fırat University BAP-supported deep-learning research project.\nSemEval Food Hazard Detection Challenge 2025\nRanked 36th worldwide in food hazard and product-category detection. Leaderboard\nFinalist — TEKNOFEST UAV Free Category 2022\nDeveloped a vision-guided rescue UAV that deploys life rings and uses a retrieval net with up to 15 kg carrying capacity. Star\nNews Coverage\nTÜBİTAK 2209-A — Aircraft Generator Backup 2022",
+              "score": 0.2792
+            },
+            {
+              "number": 4,
+              "document_id": "84ec1464-47d1-45e5-a937-675e31bd6ce8",
+              "document_name": "Necip_Sahamettin_Kucuk_LLM_Engineer_CV.pdf",
+              "chunk_position": 7,
+              "chunk": ", APIs and enterprise\nknowledge repositories.\nLLMOps & Governance: Apply CI/CD, agent evaluation,\nmonitoring, observability, RBAC, cybersecurity, data privacy\nand Responsible AI controls for reliable, auditable systems.\nAdvanced Analytics: Develop machine-learning,\noptimization, simulation, forecasting, risk-modeling and Digital\nTwin solutions for operational use cases.\nRegulated AI Readiness: Transfer production AI, document\nintelligence and governance experience to banking and KYC\nworkflows; actively developing domain knowledge in financial\ncrime and model governance.\nEDUCATION\nM.Sc., Aviation Sciences and Technologies — Fırat University 2022 – 2025\nGPA: 3.38/4.00 · Thesis: Deep Learning Approach for Foreign Object Detection on Airport Runways — compared\nYOLOv5s, YOLOv8s and YOLOv11-s; YOLOv11-s achieved 0.861 F1 and 0.826 recall with 9.45M parameters.\nB.Sc., Computer Engineering (Double Major) — Fırat University 2020 – 2024\nGPA: 3.00/4.00\nB.Sc., Aircraft Electrical & Electronics — Fırat University 2018 – 2022\nGPA: 3.22/4.00\n2 / 3\n\nSELECTED PUBLICATION & RESEARCH\nDetection and Classification of Foreign Object Debris (FOD) with Comparative Deep Learning\nAlgorithms in Airport Runways\nFeb 2025\nSignal, Image and Video Processing, 19:316. Built a 71-class, 33,286-image dataset and evaluated YOLOv5/YOLOv8 models;\nachieved up to 0.907 F-measure and 0.939 mAP@0.5.",
+              "score": 0.2385
+            },
+            {
+              "number": 5,
+              "document_id": "84ec1464-47d1-45e5-a937-675e31bd6ce8",
+              "document_name": "Necip_Sahamettin_Kucuk_LLM_Engineer_CV.pdf",
+              "chunk_position": 4,
+              "chunk": "3\nDeveloped a two-camera, YOLO-based production-line tracking system using real-time image processing at the Çayırova\nwashing machine plant. YouTube Demo · GitHub\nEngineering Intern — Turkish Technic Jun 2022 – Aug 2022\nDeveloped hardware for stress-testing aircraft tray-table support assemblies at Sabiha Gökçen Airport (SAW). YouTube Demo\n1 / 3\n\nSELECTED PRODUCTION AI SYSTEMS — OBILET\nAI Hotel Image Selection\nDeveloped an AI workflow that evaluates hotel media and\nselects the most suitable images for presentation, reducing\nmanual visual curation.\nLLM-Based Hotel Badge Generation\nBuilt a system that analyzes hotel information and guest\nreviews, identifies differentiating attributes and generates\ncontext-appropriate hotel badges.\nAutonomous Jira-to-Code Delivery Agent\nConnected Jira, GitHub and GitHub Copilot so an AI agent can\ninterpret a task, implement the change and commit it;\nproduction release remains gated by manager approval.\nEvent-Driven Story-Point Estimation\nDesigned a Jira webhook → AWS Lambda → OpenAI\nworkflow that estimates task complexity and automatically\nwrites the story point back to the Jira issue.\nTECHNICAL SKILLS\nEnterprise AI & LLMs AI agents, multi-agent orchestration, tool/function calling, RAG, NLP, information retrieval, context\nengineering, prompt engineering, LLM evaluation, model optimization, Transformers, embeddings,",
+              "score": 0.2207
+            },
+            {
+              "number": 6,
+              "document_id": "84ec1464-47d1-45e5-a937-675e31bd6ce8",
+              "document_name": "Necip_Sahamettin_Kucuk_LLM_Engineer_CV.pdf",
+              "chunk_position": 1,
+              "chunk": "act use cases, build working PoCs with Python APIs and Next.js/Tailwind CSS\ninterfaces, present demos and business value to management and the CTO, and productionize approved initiatives through\nJira delivery workflows.\nBuilt an event-driven Jira story-point estimation system: Jira webhooks trigger AWS Lambda, the service evaluates task scope\nwith OpenAI and writes the estimated story point back to Jira.\nBuilt a DeepSeek-powered, Obilet-specific chatbot with domain-aware responses and production integrations; applied context\nengineering and evaluated DeepSeek, Gemini and OpenAI models for output quality, hallucination risk, latency and token-cost\ntradeoffs.\nDesigned multi-agent orchestration pipelines that analyze reports and customer feedback, detect recurring pain points,\nclassify issues and route actionable insights to relevant teams.\nDeveloped an agentic AI call-center platform that automates processes previously handled by call-center teams, conducting\noutbound customer calls, collecting feedback, completing forms and executing end-to-end business workflows through tool\ncalling.\nImplemented LLMOps evaluation and monitoring pipelines for conversation quality, structured outputs and failure patterns;\ncontinuously refined prompts and workflows to improve accuracy, explainability, consistency and production reliability.",
+              "score": 0.1559
+            }
+          ],
+          "created_at": "2026-08-30T14:56:33.992101+00:00",
+          "web_sources": [
+            {
+              "number": 1,
+              "title": "Unlocking New Possibilities with AI",
+              "url": "https://csr.samsung.com/en/story/inspiring-journeys/unlocking-new-possibilities-with-ai",
+              "content": "“Real Time Forest Fire Detection,” developed by Necip Şahamettin Küçük, Halil Çınar, and Kubilay Hasdedeoğlu, utilizes AI to detect forest fires with a 95% success rate. Necip reflects on his experience: “Samsung Innovation Campus provided me with an exceptional opportunity to learn about the latest advancements in technology and AI. I gained a deeper understanding of how to use them to create positive change in people’s lives.” [...] Samsung Innovation Campus in Türkiye was launched in cooperation with the United Nations Development Programme (UNDP), aimed at equipping Tükiye’s youth with technical skills and soft skills, as well as expert mentorship. Through this program, participating students receive comprehensive AI training, giving them a competitive advantage in the workforce and ultimately leading them closer to their dreams. With their technical capabilities, these students become the next generation of [...] Samsung Innovation Campus 2025 empowers 216 graduates with advanced AI skills\n\n  Mar 17. 2026\n Samsung Innovation Campus Graduates Propose Technological Solutions to Social Issues\n\n  Samsung Innovation Campus Graduates Propose Technological Solutions to Social Issues\n\n  Mar 04. 2026\n Samsung Pakistan Launches Second Cohort of Innovation Campus, to strengthen AI skills for youth\n\n  Samsung Pakistan Launches Second Cohort of Innovation Campus, to strengthen AI skills for youth\n\n  Mar 04. 2026",
+              "score": 0.6824,
+              "query": "\"Necip Şahamettin Küçük\" TEKNOFEST Samsung Innovation Campus Obilet GitHub LinkedIn"
+            },
+            {
+              "number": 2,
+              "title": "4 \"Necip Küçük\" profiles",
+              "url": "https://www.linkedin.com/pub/dir/Necip/K%C3%BC%C3%A7%C3%BCk",
+              "content": "Necip KÜÇÜK. Firat University Aircraft Electrical-Electronic & Computer Engineering (DMP) & MSc Aviation Science and Technologies. Pendik. obilet, +4 more.",
+              "score": 0.656,
+              "query": "\"Necip Şahamettin Küçük\" yapay zeka mühendisliği resmi profil Obilet UNDP TÜBİTAK Fırat Üniversitesi"
+            },
+            {
+              "number": 3,
+              "title": "Samsung Innovation Campus Nurtures Future Tech ...",
+              "url": "https://csr.samsung.com/en/newsroom/news/samsung-innovation-campus-nurtures-future-tech-leaders-of-t%C3%BCrkiye",
+              "content": "Necip Küçük emphasizes the importance of early forest fire detection and the potential of AI in this field which inspired them. “With this project, our goal was to detect forest fires at an early stage, reduce the spread and damage they cause” he explained. Upon successfully completing the program in 2023, he commented, “My expectations before starting Samsung Innovation Campus program were very much in line with my actual experiences. The program was an excellent opportunity to learn and [...] The \"Real Time Forest Fire Detection\" project, developed by Necip Şahamettin Küçük, Halil Çınar, and Kubilay Hasdedeoğlu, focused on effectively detecting forest fires using AI. The customized AI model aimed to detect fires with a 95% success rate.\n\nAhmet Furkan Bayram's \"Mammo-Des\" project developed a model to help diagnose breast cancer using mammography images. This model facilitates the application of effective treatment methods through early diagnosis. [...] technology to find solutions to problems that exist in today’s world.” For example, he pointed out the Real Time Forest Fire Detection project they did after trainings as a team with Necip Küçük and Halil Çınar.",
+              "score": 0.5706,
+              "query": "\"Necip Şahamettin Küçük\" TEKNOFEST Samsung Innovation Campus Obilet GitHub LinkedIn"
+            },
+            {
+              "number": 4,
+              "title": "Score Details",
+              "url": "https://m.firat.edu.tr/performance/details-by-email/oodursun?category=YAYIN&lang=en",
+              "content": "Deep Learning-Based Prediction of Commercial Aircraft … comparative deep learning algorithms in airport runways 2025. Authors Küçük Necip Ş",
+              "score": 0.5606,
+              "query": "\"Necip Şahamettin Küçük\" yayın DOI \"Deep Learning Algorithms in Airport Runways\""
+            },
+            {
+              "number": 5,
+              "title": "Necip KÜÇÜK - Firat University Aircraft Electrical-Electronic ...",
+              "url": "https://tr.linkedin.com/in/necipkucuk",
+              "content": "- 🚀 Samsung İnovasyon Merkezi'nde İnovasyon Kampı Heyecanı! Yaklaşık 4 aydır Yapay Zeka Eğitimi aldığımız, Samsung Electronics Türkiye ve Birleşmiş Milletler Kalkınma Programı (UNDP) Türkiye işbirliğiyle gerçekleşen 'Innovation Campus' programı kapsamında, özel eğitim ve işe hazırlık etkinliği büyük bir coşkuyla gerçekleşti. Programın ilk gününde, Kore Cumhuriyeti İstanbul Başkonsolosu Woo-Sung Lee ve Samsung Electronics Türkiye Başkanı ve CEO’su Philip Choi 'nin katılımıyla, Samsung İnovasyon [...] - 🔥🚀 Thrilled to announce that we've secured the #1 rank in the UNDP Samsung Innovation Campus Program! 🏆 I'm humbled and excited to share that our team's project, Real-Time Forest Fire Detection AI, played a pivotal role in this achievement. 🌲🔍 This program represents more than just lines of code; it's a testament to the power of innovation in addressing critical issues. Our AI solution is geared towards the early detection of forest fires, with feature engineering that includes Wind Direction [...] # Necip KÜÇÜK\nobilet\nPendik, Istanbul, Türkiye, TR  \n367 connections, 378 followers\n\n## About\nNone\n\n## Experience\nN/A\n\n## Education\n### Fırat Üniversitesi  \nN/A  \n2022-09 - 2024-06  \nNone\n\n### N/A  \nN/A  \n2020-03 - 2024-06  \nNone\n\n### N/A  \nN/A  \n2018 - 2022  \nNone\n\n## Publications\nN/A\n\n## Honors & Awards\nN/A\n\n## Certifications\nTEKNOFEST SERBEST GÖREV İHA (TEKNOFEST); TEI Havacılık Motorları Okulu (TEI - TUSAŞ Engine Industries, Inc.)\n\n## Volunteering\nN/A\n\n## Languages\nN/A\n\n## Organizations\nN/A",
+              "score": 0.5293,
+              "query": "\"Necip Şahamettin Küçük\" TEKNOFEST Samsung Innovation Campus Obilet GitHub LinkedIn"
+            },
+            {
+              "number": 6,
+              "title": "AI-Powered Real-Time Runway Safety: UAV-Based Video Analysis with ICSO-Enhanced Deep Learning | International Journal of Computational and Experimental Science and Engineering",
+              "url": "https://www.ijcesen.com/index.php/ijcesen/article/view/1184",
+              "content": "Sun, Z. (2023, February). Research on the Application of Convolutional Neural Network Based on the YOLO Algorithm in Airport Intelligent Monitoring. In 2023 3rd Asia-Pacific Conference on Communications Technology and Computer Science (ACCTCS) (pp. 103-108).IEEE. DOI: [...] ## DOI:\n\n \n\n## Keywords:\n\n Runway Safety, Runway Crack, Runway Friction, Video Analysis, Flight Safety Landing\n\n## Abstract [...] Puranik, T. G., Rodriguez, N., &Mavris, D. N. (2020). Towards online prediction of safety-critical landing metrics in aviation using supervised machine learning. Transportation Research Part C: Emerging Technologies, 120, 102819. DOI: \n\nVan Phat, T., Alam, S., Lilith, N., Tran, P. N., &Binh, N. T. (2021, July). Deep4air: A novel deep learning framework for airport airside surveillance. In 2021 IEEE International Conference on Multimedia & Expo Workshops (ICMEW) (pp. 1-6).IEEE. DOI:",
+              "score": 0.4252,
+              "query": "\"Necip Şahamettin Küçük\" yayın DOI \"Deep Learning Algorithms in Airport Runways\""
+            },
+            {
+              "number": 7,
+              "title": "suat toraman",
+              "url": "https://bookcites.com/profile/Suat%20TORAMAN",
+              "content": "SUAT TORAMAN. FIRAT ÜNİVERSİTESİ FIRAT ÜNİVERSİTESİ ... Necip Şahamettin KÜÇÜK, Ömer Osman DURSUN, Hakan ... SUAT TORAMAN • 2020 • Fırat Üniversitesi Mühendislik",
+              "score": 0.4171,
+              "query": "\"Necip Şahamettin Küçük\" yapay zeka mühendisliği resmi profil Obilet UNDP TÜBİTAK Fırat Üniversitesi"
+            },
+            {
+              "number": 8,
+              "title": "Necip KÜÇÜK - teknofest",
+              "url": "https://tr.linkedin.com/posts/necipkucuk_teknofest-activity-6962675096452804608-Lte4",
+              "content": "Firat University Aircraft Electrical-Electronic & Computer Engineering (DMP) & MSc Aviation Science and Technologies.",
+              "score": 0.3787,
+              "query": "\"Necip Şahamettin Küçük\" yapay zeka mühendisliği resmi profil Obilet UNDP TÜBİTAK Fırat Üniversitesi"
+            },
+            {
+              "number": 9,
+              "title": "(PDF) Deep learning-based foreign object detection ...",
+              "url": "https://www.researchgate.net/publication/370378050_Deep_learning-based_foreign_object_detection_method_for_aviation_runways",
+              "content": "This paper designs and constructs a dataset for accomplishing airport runway foreign object detection based on the data distribution and attribute semantics of",
+              "score": 0.3408,
+              "query": "\"Necip Şahamettin Küçük\" yayın DOI \"Deep Learning Algorithms in Airport Runways\""
+            },
+            {
+              "number": 10,
+              "title": "A Signal Processing-Guided Deep Learning Framework for ...",
+              "url": "https://www.mdpi.com/2073-4433/16/7/802",
+              "content": "by A Khattak · 2025 · Cited by 1 — A Signal Processing-Guided Deep Learning Framework for Wind Shear Prediction on Airport Runways. Atmosphere 2025, 16, 802. https://doi.org/",
+              "score": 0.3391,
+              "query": "\"Necip Şahamettin Küçük\" yayın DOI \"Deep Learning Algorithms in Airport Runways\""
+            }
+          ],
+          "web_search_used": true,
+          "web_queries": [
+            "\"Necip Şahamettin Küçük\" yapay zeka mühendisliği resmi profil Obilet UNDP TÜBİTAK Fırat Üniversitesi",
+            "\"Necip Şahamettin Küçük\" yayın DOI \"Deep Learning Algorithms in Airport Runways\"",
+            "\"Necip Şahamettin Küçük\" TEKNOFEST Samsung Innovation Campus Obilet GitHub LinkedIn"
+          ]
+        },
+        {
+          "id": "64828509-65c9-485a-b893-8d4c472b539c",
+          "role": "user",
+          "content": "bu kim bunuda ufaktan araştır kısaca anlat",
+          "created_at": "2026-08-30T14:58:32.462947+00:00"
+        },
+        {
+          "id": "e38294c3-4bd7-4ade-b53b-d5c554f0a7eb",
+          "role": "assistant",
+          "content": "Ali Haydar Çimen, İstanbul’da çalışan bir **Java Backend Developer / Software Developer**’dır. Şu anda Yapı Kredi Teknoloji’de Java tabanlı yazılım geliştirme ekibinde görev yaptığı görülüyor. [Web 1] [Web 2]\n\nBaşlıca uzmanlık alanları **Java, Spring Boot, Apache Kafka, mikroservisler, Oracle DB, REST/SOAP servisleri, React ve sistem izleme** teknolojileridir. [Kaynak 2] Yapı Kredi Teknoloji’de bankacılık sistemleri için yüksek performanslı ve güvenli mikroservis çözümleri geliştiriyor; Kafka ve bulut araçlarıyla veri akışlarını iyileştiriyor. [Kaynak 1]\n\nDaha önce Vakko’da backend sistemleri geliştirmiş, REST ve SOAP servisleri üzerinde çalışmış ve monolitik bir sistemi modüler monolit mimarisine dönüştürme sürecine katkı sağlamıştır. Ayrıca Vodafone’un Macellan projesinde gerçek zamanlı cihaz verileri ve dağıtık sistemler üzerine çalışmıştır. [Kaynak 2]\n\nSelçuk Üniversitesi **Bilgisayar Mühendisliği** mezunudur; eğitimini 2023’te tamamlamıştır. [Kaynak 2]",
+          "sources": [
+            {
+              "number": 1,
+              "document_id": "fae6807c-8932-45a5-b784-eebf6a78fa0f",
+              "document_name": "Ali Haydar Cimen.pdf",
+              "chunk_position": 1,
+              "chunk": "eknoloji\nDeveloped and maintained microservice-based banking solutions using Spring Boot, Kafka\nand cloud tools\nDelivered stable, high-performance and secure systems while improving data flow and\noverall service quality\nDesigned and optimized RESTful services for high-volume financial transactions\nContributed to designing scalable and resilient distributed system architecture using event-\ndriven communication and fault-tolerant patterns.\nJan 2025 ~ Present\n📞 +90 531 724 86 66 | 📧 alihaydar.cmn@gmail.com | 💻 https://github.com/alicmn | \n🔗 https://www.linkedin.com/in/ali-haydar-cimen",
+              "score": 0.2334
+            },
+            {
+              "number": 2,
+              "document_id": "fae6807c-8932-45a5-b784-eebf6a78fa0f",
+              "document_name": "Ali Haydar Cimen.pdf",
+              "chunk_position": 0,
+              "chunk": "Java | Spring Boot | Apache Kafka | Microservices | Oracle DB | Resilience| Monitoring |\nGrafana | React\nVodafone – Macellan Project\nDeveloped backend services for a microservice-based traffic visualization platform\nIntegrated real-time device data into Graph Database infrastructure\nManaged data flow and ensured high scalability in distributed systems\nContributed to performance optimization and service reliability\nSelçuk University – B.Sc. in\nComputer Engineering (2023)\nVakko\nDeveloped and maintained backend systems using Java and Spring-based technologies\nDesigned and supported RESTful and SOAP web services\nBuilt responsive and user-friendly interfaces using Angular and React\nLed the transformation of a legacy monolithic system into a modular monolith architecture,\nimproving maintainability and scalability\nContributed to digital transformation initiatives by modernizing legacy systems\nCollaborated with cross-functional teams to improve system performance and reliability\nJul 2023 ~ Jan 2025\nSep 2022 ~ Feb 2023\nJAVA BACKEND DEVELOPER\nAli Haydar Cimen\nPROFESSIONAL EXPERIENCE\nEDUCATION\nKEY COMPETENCIES\nYapikredi Teknoloji\nDeveloped and maintained microservice-based banking solutions using Spring Boot, Kafka\nand cloud tools\nDelivered stable, high-performance and secure systems while improving data flow and\noverall service quality",
+              "score": 0.2169
+            }
+          ],
+          "created_at": "2026-08-30T14:58:32.462947+00:00",
+          "web_sources": [
+            {
+              "number": 1,
+              "title": "Yapı Kredi Teknoloji - Java Development | The Org",
+              "url": "https://theorg.com/org/yapi-kredi-teknoloji/teams/java-development",
+              "content": "Pricing\n\nYapı Kredi Teknoloji\n\nUnverified\n\nJava Development\n\n6 people · 0 jobs\n\nThis department focuses on designing, building, and maintaining Java-based software applications.\n\n## People (6)\n\nAli Haydar Cimen\n\nJava Developer\n\nMuhammet Metin\n\nJava Software Engineer\n\nBurak Açıker\n\nJava Software Developer\n\nEyüp Eymen Eruyar\n\nJava Software Engineer\n\nBerna Araal\n\nJava Software Developer\n\nAtakan GÜNEY\n\nSenior Java Software Engineer\n\n## Jobs (0)\n\nNo jobs in this team\n\n## Other teams\n\nView all teams\n\n### Software Development\n\n568 people · 0 jobs\n\n### Business Analysis\n\n419 people · 0 jobs\n\n### Cyber Security\n\n40 people · 0 jobs\n\n### Data Warehouse and Analytics\n\n30 people · 0 jobs\n\n### Systems Engineering\n\n30 people · 0 jobs\n\n### Application Development\n\n27 people · 0 jobs",
+              "score": 0.7555,
+              "query": "\"Ali Haydar Çimen\" yazılım mühendisi Java Spring Boot Yapı Kredi Teknoloji"
+            },
+            {
+              "number": 2,
+              "title": "Ali Haydar Cimen - Software Developer - Yapı Kredi Teknoloji",
+              "url": "https://tr.linkedin.com/in/ali-haydar-cimen",
+              "content": "# Ali Haydar Cimen\nSoftware Developer\nIstanbul, Istanbul, Türkiye, TR  \n500 connections, 1033 followers\n\n## About\nJava Developer\n\n## Experience\n### Yapı Kredi Teknoloji  \nYapı Kredi Teknoloji  \nN/A - Present   \nN/A  \n\n### N/A  \nN/A  \nN/A - Present   \nN/A  \n\n### N/A  \nN/A  \nN/A - Present   \nN/A  \n\n### N/A  \nN/A  \nN/A - Present   \nN/A  \n\n## Education\n### Selçuk Üniversitesi  \nN/A  \n2018-01 - 2023-06  \nNone\n\n## Publications\nN/A\n\n## Honors & Awards\nN/A\n\n## Certifications\nN/A\n\n## Volunteering\nN/A\n\n## Languages\nN/A\n\n## Organizations\nN/A\n\n## Activity\n- Yapı Kredi Teknoloji'nin Başarılar Bizim Takdir ve Ödüllendirme Programı kapsamında \"Biz Biriz\" ödülünü almaktan mutluluk duyuyorum. Yöneticilerim…  \nLiked by Ali Haydar Cimen  \nView Post  \nActivity Image [...] - KoçSistem’de Mimari Ekip çatısı altında geçirdiğim yaklaşık dört yıl boyunca, hem teknik hem de kişisel olarak çok şey öğrendiğim, dolu dolu ve…  \nLiked by Ali Haydar Cimen  \nView Post  \nActivity Image\n\n- 🚀 Grafana 12.2 is here! This release contains new features to help you and your team move from data to decisions faster than ever:…  \nLiked by Ali Haydar Cimen  \nView Post  \nActivity Image [...] ## People Also Viewed\n- Osman K. (None) - \n- Bekir Mazman (None) - \n- Hakan E Deniz (None) - \n- Çetin Karakoç (None) - \n- Dr. Filiz Nerkiz (None) - \n- Sedat GÜNDOĞAN (None) - \n- Can Aziz Güneş (None) - \n- Ersin Biderci (None) - \n- Kübra Kol (None) - \n- Emir Alkan (None) - \n- Zülal Bayır Taşdemir (None) - \n- Caner ÇAKIR (None) - \n- BERAT AKASLAN (None) - \n- Emine B. (None) - \n- murat yurenc (None) - \n- Ceyhun Özcan (None) - \n- ilker özhan (None) - \n- Lokman Demiray (None) - \n- Fevzi Karaca (None) -",
+              "score": 0.7461,
+              "query": "\"Ali Haydar Çimen\" yazılım mühendisi Java Spring Boot Yapı Kredi Teknoloji"
+            },
+            {
+              "number": 3,
+              "title": "400+ \"Ali Haydar\" profiles",
+              "url": "https://www.linkedin.com/pub/dir/Ali+Haydar/+/tr-7585-Istanbul,-Turkey",
+              "content": "Ali Haydar Cimen. Software Developer. Istanbul. Yapı Kredi Teknoloji, +2 more. Selçuk Üniversitesi. Haydar Ali Seker. Staff",
+              "score": 0.7053,
+              "query": "\"Ali Haydar Çimen\" yazılım mühendisi Java Spring Boot Yapı Kredi Teknoloji"
+            },
+            {
+              "number": 4,
+              "title": "‏200+‏ ملفًا شخصيًا‏ يحتوي على “‏Ali Cimen‏”",
+              "url": "https://om.linkedin.com/pub/dir/ali/cimen",
+              "content": "Ali Haydar Cimen. Software Developer. إسطنبول. Yapı Kredi Teknoloji، بالإضافة إلى 2 أكثر. Selçuk Üniversitesi. Ali Çimen. --. أورفا.",
+              "score": 0.7021,
+              "query": "\"Ali Haydar Çimen\" yazılım mühendisi Java Spring Boot Yapı Kredi Teknoloji"
+            },
+            {
+              "number": 5,
+              "title": "200+ \"Ali Çimen\" profiles",
+              "url": "https://www.linkedin.com/pub/dir/Ali/%C3%87imen",
+              "content": "Ali Haydar Cimen. Software Developer. Istanbul. Yapı Kredi Teknoloji, +2 more. Selçuk Üniversitesi. Ali Çimen. --. Şanlıurfa. TEİAŞ, +1",
+              "score": 0.6927,
+              "query": "\"Ali Haydar Çimen\" yazılım mühendisi Java Spring Boot Yapı Kredi Teknoloji"
+            },
+            {
+              "number": 6,
+              "title": "Alihaydar Salman — Backend Developer | Java, Spring Boot ...",
+              "url": "https://alihaydarsalman.dev",
+              "content": "Fintech alanında uzmanlaşmış Backend Developer. Java, Spring Boot, erine uzmanlaşmış bir backend geliştiriciyim. Mühendisliği mezunuyum. Mü",
+              "score": 0.5494,
+              "query": "\"Ali Haydar Çimen\" yazılım mühendisi Java Spring Boot Yapı Kredi Teknoloji"
+            },
+            {
+              "number": 7,
+              "title": "10+ \"Haydar Çi̇men\" profiles",
+              "url": "https://www.linkedin.com/pub/dir/Haydar/%C3%87%C4%B0MEN",
+              "content": "Ali Haydar Cimen. Software Developer. Istanbul. Yapı Kredi Teknoloji, +2 more. Selçuk Üniversitesi. Haydar Çimen. Uzman Diş Doktoru.",
+              "score": 0.516,
+              "query": "\"Ali Haydar Çimen\" Vakko Vodafone Macellan Selçuk Üniversitesi bilgisayar mühendisliği"
+            },
+            {
+              "number": 8,
+              "title": "Speaker Profile: Haydar Cimen",
+              "url": "https://www.kuppingercole.com/speakers/922",
+              "content": "Haydar is a security professional and is in the security industry for over 15 years. During his tenure he held several security management positions ranging",
+              "score": 0.3195,
+              "query": "\"Ali Haydar Çimen\" Vakko Vodafone Macellan Selçuk Üniversitesi bilgisayar mühendisliği"
+            },
+            {
+              "number": 9,
+              "title": "Ali Haydar Ozer - Google Akademik",
+              "url": "https://scholar.google.com/citations?user=AIlVwFkAAAAJ&hl=tr",
+              "content": "Ali Haydar Ozer. Bilgisayar Mühendisliği Bölümü, Mühendislik Fakültesi, Marmara Üniversitesi. marmara.edu.tr üzerinde doğrulanmış e-posta",
+              "score": 0.2316,
+              "query": "\"Ali Haydar Çimen\" Vakko Vodafone Macellan Selçuk Üniversitesi bilgisayar mühendisliği"
+            },
+            {
+              "number": 10,
+              "title": "Doç. Dr. ALİ HAYDAR ÖZER - AVESİS - Marmara Üniversitesi",
+              "url": "https://avesis.marmara.edu.tr/haydar.ozer",
+              "content": "Doç. Dr. ALİ HAYDAR ÖZER · Mühendislik Fakültesi, Bilgisayar Mühendisliği Bölümü · Bilgisayar Yazılımı Anabilim Dalı · WoS Araştırma Alanları: Bilgisayar Bilimi",
+              "score": 0.1404,
+              "query": "\"Ali Haydar Çimen\" Vakko Vodafone Macellan Selçuk Üniversitesi bilgisayar mühendisliği"
+            }
+          ],
+          "web_search_used": true,
+          "web_queries": [
+            "\"Ali Haydar Çimen\" yazılım mühendisi Java Spring Boot Yapı Kredi Teknoloji",
+            "\"Ali Haydar Cimen\" LinkedIn GitHub Java Spring Boot Kafka",
+            "\"Ali Haydar Çimen\" Vakko Vodafone Macellan Selçuk Üniversitesi bilgisayar mühendisliği"
+          ]
+        },
+        {
+          "id": "ada1c8aa-3373-4b84-920e-6da3ecb6e13d",
+          "role": "user",
+          "content": "esra durmaz diye biri var fıratlı onun linkedini bulsana takip sayısını falanda söyle",
+          "created_at": "2026-08-30T15:01:07.808776+00:00"
+        },
+        {
+          "id": "0fc57c29-5c13-4a50-a971-7704eb7e8a5a",
+          "role": "assistant",
+          "content": "Fırat Üniversitesi mezunu **Esra Durmaz** için en olası LinkedIn profili şu görünüyor:\n\n- **Profil:** [Esra Durmaz – Jr. IT Support](https://tr.linkedin.com/in/esra404)\n- **Eğitim:** Fırat Üniversitesi, Bilgisayar Mühendisliği (2020–2025)\n- **Takipçi:** Yaklaşık **896–904**\n- **Bağlantı:** **500+**\n- **Alanı:** IT destek, backend/full-stack geliştirme, ağ ve Linux teknolojileri\n- **Deneyimleri:** Portakal Teknoloji’de network stajı; çeşitli şirketlerde backend ve full-stack geliştirme deneyimleri. [Web 5] [Web 10]\n\nLinkedIn’de aynı isimle çok sayıda kişi bulunduğu için kesin eşleşme; profil fotoğrafı veya ek bilgiler olmadan yüzde 100 doğrulanamaz. [Web 6]",
+          "sources": [],
+          "created_at": "2026-08-30T15:01:07.808776+00:00",
+          "web_sources": [
+            {
+              "number": 1,
+              "title": "esra durmaz - Müşteri Temsilcisi",
+              "url": "https://tr.linkedin.com/in/esra-durmaz-740891283",
+              "content": "123 takipçi 124 bağlantı. Ortak bağlantılarınızı görün. esra durmaz ile ortal bağlantıları görüntüle. esra sizi Çözüm Yayın Grubu şirketindeki 8 kişiyle",
+              "score": 0.8985,
+              "query": "\"Esra Durmaz\" LinkedIn takipçi bağlantı sayısı"
+            },
+            {
+              "number": 2,
+              "title": "Esra Durmaz - İnsan Kaynakları Yönetimi/E-Ticaret Uzmanı",
+              "url": "https://tr.linkedin.com/in/esra-durmaz-7970a7328",
+              "content": "Esra Durmaz - Çanakkale Onsekiz Mart Üniversitesi Gebze, Kocaeli, Türkiye 28 takipçi 28 bağlantı Ortak",
+              "score": 0.8755,
+              "query": "\"Esra Durmaz\" LinkedIn takipçi bağlantı sayısı"
+            },
+            {
+              "number": 3,
+              "title": "90+ profils pour “Esra Durmaz” - LinkedIn",
+              "url": "https://fr.linkedin.com/pub/dir/Esra/Durmaz",
+              "content": "Esra Durmaz Junior Software Engineer Istanbul, Fırat Üniversitesi Esra Durmaz Esra Durmaz İstanbul Bilgi Üniversitesi eğitim kurumunda. Administrative Affairs",
+              "score": 0.8655,
+              "query": "\"Esra Durmaz\" \"Fırat Üniversitesi\" LinkedIn"
+            },
+            {
+              "number": 4,
+              "title": "90+ perfiles de «Esra Durmaz - LinkedIn",
+              "url": "https://cr.linkedin.com/pub/dir/Esra/Durmaz",
+              "content": "Esra Durmaz Junior Software Engineer Estambul, Fırat Üniversitesi Esra Durmaz Esra Durmaz Administrative Affairs Specialist @ Doktar Technologies Greater",
+              "score": 0.8585,
+              "query": "\"Esra Durmaz\" \"Fırat Üniversitesi\" LinkedIn"
+            },
+            {
+              "number": 5,
+              "title": "Esra Durmaz - Jr. IT Support",
+              "url": "https://tr.linkedin.com/in/esra404/en",
+              "content": "Esra Durmaz. Jr. IT Support. Portakal Teknoloji Fırat Üniversitesi. Istanbul, Türkiye. 904 followers 500+ connections. See your mutual connections",
+              "score": 0.8507,
+              "query": "\"Esra Durmaz\" LinkedIn takipçi bağlantı sayısı"
+            },
+            {
+              "number": 6,
+              "title": "80+ “Esra Durmaz” profili - LinkedIn",
+              "url": "https://tr.linkedin.com/pub/dir/Esra/Durmaz/tr-0-T%C3%BCrkiye",
+              "content": "Junior Software Engineer. İstanbul, Türkiye. Portakal Teknoloji, +3 daha. Fırat Üniversitesi ; İstanbul Bilgi Üniversitesi eğitim kurumunda öğrenci. İstanbul.",
+              "score": 0.8409,
+              "query": "\"Esra Durmaz\" \"Fırat Üniversitesi\" LinkedIn"
+            },
+            {
+              "number": 7,
+              "title": "Esra Durmaz - HDY Filo Kiralama şirketinde Satış Sonrası Hizmetler Yetkilisi",
+              "url": "https://tr.linkedin.com/in/esra-durmaz-867016176",
+              "content": "# Esra Durmaz\nHDY Filo Kiralama şirketinde Satış Sonrası Hizmetler Yetkilisi\nAnkara, Türkiye, TR  \n49 connections, 51 followers\n\n## About\nN/A [...] ## Education\n### Anadolu Üniversitesi  \nBusiness/Commerce, General  \n2015 - 2019  \nNone\n\n### Zonguldak Fener Anadolu Lisesi  \nN/A  \n2000 - 2003  \nNone\n\n## Publications\nN/A\n\n## Honors & Awards\nN/A\n\n## Certifications\nN/A\n\n## Volunteering\nN/A\n\n## Languages\nN/A\n\n## Organizations\nN/A\n\n## Activity\n- Dönercide çalışan genç, sürpriz doğum günü pastası sonrası gözyaşlarını tutamadı. 🔴 Kayseri  \nLiked by Esra Durmaz  \nView Post  \n\n- Girişimci Kafası  \nLiked by Esra Durmaz  \nView Post [...] takibi <!---->",
+              "score": 0.8184,
+              "query": "\"Esra Durmaz\" LinkedIn takipçi bağlantı sayısı"
+            },
+            {
+              "number": 8,
+              "title": "90+ \"Esra Durmaz\" profiles - LinkedIn",
+              "url": "https://www.linkedin.com/pub/dir/Esra/Durmaz",
+              "content": "90+Results for \"Esra Durmaz\". Esra Durmaz. Jr. IT Support. Istanbul, Türkiye. Portakal Teknoloji, +3 more. Fırat Üniversitesi. Esra Durmaz.",
+              "score": 0.8163,
+              "query": "\"Esra Durmaz\" \"Fırat Üniversitesi\" LinkedIn"
+            },
+            {
+              "number": 9,
+              "title": "Esra Durmaz - Payment ProductMng&Cust.Ops Sr.Assc.Mng. - Vodafone Elektronik Para ve Ödeme Hizmetleri A.Ş.",
+              "url": "https://tr.linkedin.com/in/esra-durmaz-9645a082",
+              "content": "# Esra Durmaz\nPayment ProductMng&Cust.Ops Sr.Assc.Mng.\nSancaktepe, Istanbul, Türkiye, TR  \n500 connections, 1262 followers\n\n## About\nTelekominikasyon sektorunde 15 yıllık deneyim<br><br> inbound ve backoffice operasyon…\n\n## Experience\n### Payment Product Mng&Cust.Ops Sr.Assc.Mng.  \nVodafone Elektronik Para ve Ödeme Hizmetleri A.Ş.  \nApr 2025 - Present   \nN/A  \n\n### Marketplace Operation Manager  \nVodafone\nMar 2022 - Apr 2025  \nİstanbul, Türkiye [...] ## Publications\nN/A\n\n## Honors & Awards\nN/A\n\n## Certifications\nN/A\n\n## Volunteering\nN/A\n\n## Languages\nN/A\n\n## Organizations\nN/A\n\n## Activity\n- beIN MEDIA GROUP’un global olarak yürüttüğü \"Liderlikte Kadın Ağı\" projesi kapsamında hayata geçirilen “Geleceği Tasarlayan Kadınlar” panelinde 25…  \nLiked by Esra Durmaz  \nView Post [...] - Yesterday, as the Vodafone Compliance Team, along with Paycell and iyzico teams, contributed to the FATF-Türkiye 5th Round Mutual Evaluation Process,…  \nLiked by Esra Durmaz  \nView Post  \nActivity Image\n\n- Nefis bir konu, nefis bir söyleşi..  \nLiked by Esra Durmaz  \nView Post  \nActivity Image\n\n- 18 Ekim 2025 tarihli Uyum Görevlisi Yetkilendirme sınav sonucuna göre lisans almaya hak kazandığımı paylaşmaktan mutluluk duyuyorum. Sermet AYDIN…  \nLiked by Esra Durmaz  \nView Post  \nActivity Image",
+              "score": 0.7977,
+              "query": "\"Esra Durmaz\" LinkedIn takipçi bağlantı sayısı"
+            },
+            {
+              "number": 10,
+              "title": "Esra Durmaz - Jr. IT Support",
+              "url": "https://tr.linkedin.com/in/esra404",
+              "content": "## Education\n\n### Fırat Üniversitesi\nBachelor's degree, Computer Engineering · 2020 - 2025\n\n## Certifications\n- CCNA: Enterprise Networking, Security, and Automation (Cisco)\n- CCNA: Introduction to Networks (Cisco)\n- CCNA: Switching, Routing, and Wireless Essentials (Cisco)\n- Linux 101 (Turkcell Geleceği Yazanlar)\n- Linux 201 (Turkcell Geleceği Yazanlar)\n- LİNUX 301 (Turkcell Geleceği Yazanlar)\n- Firewall Essentials: Configuration and Management (EDU-210) (Palo Alto Networks)\n- Temel Network (Turkcell Geleceği Yazanlar)\n- Ağ Temelleri (BTK Akademi)\n- LİNUX 401 (Turkcell Geleceği Yazanlar)\n\n## Languages\n\nTürkçe (Native or bilingual proficiency), İngilizce (Limited working proficiency)\n\n## Organizations\n- Febitek\n- GDSC — Sosyal medya içerik tasarımcısı\n- IEEE — Backend Developer [...] ## Experience\n\n### Network Intern\nPortakal Teknoloji · September 2023 - October 2023 · Ankara, Türkiye · 2 months\n\n### Full-stack Developer Internship\nNarveri Eğitim Bilişim · June 2023 - August 2023 · Elazığ, Elazığ, Türkiye · 3 months\n\n### junior Full-stack Developer\nLogical Defense -LogDef · February 2023 - April 2023 · Elazığ, Elazığ, Türkiye · 3 months\n\n### Backend Developer\nIEEE Fırat University School Branch · 2020 - 2021 · Elazığ, Türkiye · 1 year\n\nStock Modul: Designed and developed a module for tracking product stocks using Java, Incorporated features like displaying stock prices, historical data, and generating reports, Implemented error handling &amp; exception handling mechanisms to ensure the stability of the module\n\n## Education [...] # Esra Durmaz\n\nJr. IT Support\n\nIstanbul, Türkiye · 500 connections · 896 followers\n\n## About\n\nI am a junior developer who is keen to improve myself in the field of backend development by working on programming languages ​​such as Java, PHP and Laravel, as well as SQL and MySQL databases. With my interest in backend technologies, I aim to gain experience in database management and web application development processes. At the same time, I received CCNA and Linux Admin training to improve myself in the field of system administration. I am open to learning, aiming to acquire new skills every day and gain experience by applying them in practical projects. I aim to take part in the constantly developing world of technology, keep up with trends and contribute.\n\n## Experience",
+              "score": 0.6405,
+              "query": "\"Esra Durmaz\" \"Fırat Üniversitesi\" LinkedIn"
+            }
+          ],
+          "web_search_used": true,
+          "web_queries": [
+            "\"Esra Durmaz\" \"Fırat Üniversitesi\" LinkedIn",
+            "site:linkedin.com/in \"Esra Durmaz\" \"Fırat Üniversitesi\"",
+            "\"Esra Durmaz\" LinkedIn takipçi bağlantı sayısı"
+          ]
+        },
+        {
+          "id": "853a4bbd-ca3a-4bf0-8c63-f99a734720ee",
+          "role": "user",
+          "content": "bu belgeyi bana özetlermisin",
+          "created_at": "2026-08-30T21:27:08.088143+00:00"
+        },
+        {
+          "id": "b28eb462-ed35-4dff-ac7b-41b03395f9b9",
+          "role": "assistant",
+          "content": "Tabii. Ancak şu anda özetlememi istediğiniz belgeyi göremiyorum. Belgeyi buraya yükleyin veya metnini yapıştırın; size kısa ve anlaşılır bir özet hazırlayayım.",
+          "sources": [
+            {
+              "number": 1,
+              "document_id": "0bc461e6-e877-469a-a121-f9f394e96bc8",
+              "document_name": "nikola_tesla_hayati.pdf",
+              "chunk_position": 1,
+              "chunk": "'a sattı. Bu gelişme, tarihe geçen \"Akımlar\nSavaşı\"nda Alternatif Akım'ın zaferiyle sonuçlandı.\n3. Önemli Buluşları ve İnovasyonları\nAlternatif Akım (AC) Motoru: Uzun mesafelere kayıpsız elektrik iletimini mümkün kıldı.\nTesla Bobini (1891): Yüksek voltajlı ve yüksek frekanslı alternatif akım üreten, kablosuz enerji iletimi deneylerinin temeli\nolan cihaz.\nRadyo ve Uzaktan Kumanda: Guglielmo Marconi'den önce radyo frekansları ve uzaktan kumandalı teknoloji üzerine çalıştı\nve ilk kumandalı tekne gösterisini gerçekleştirdi.\nX-Işınları ve Floresan Işık: X-ışınlarının tıp ve görüntülemedeki potansiyelini ilk fark edenlerden biri oldu.\n4. Wardenclyffe Kulesi ve Son Yılları\nTesla, dünyadaki tüm iletişim ve elektriği kablosuz hale getirmeyi amaçlayan **Wardenclyffe Kulesi** projesini başlattı. Ancak\nmali destekçisi J.P. Morgan'ın fonu kesmesi üzerine proje yarım kaldı. \nÖmrünün son yıllarını New Yorker Oteli'nde yalnızlık içinde, teorik projeler ve fikirler üreterek geçirdi. 7 Ocak 1943 tarihinde 86\nyaşında hayatını kaybetti. Günümüzde manyetik akı yoğunluğu birimi olan **Tesla (T)** ve elektrikli araç devi Tesla Inc., onun\nanısına adlandırılmıştır. \n• \n• \n• \n• \n• \n• \n• \n• \n•",
+              "score": 0.3057
+            },
+            {
+              "number": 2,
+              "document_id": "0bc461e6-e877-469a-a121-f9f394e96bc8",
+              "document_name": "nikola_tesla_hayati.pdf",
+              "chunk_position": 0,
+              "chunk": "Nikola Tesla'nın Hayatı\n10 Temmuz 1856 – 7 Ocak 1943\nNikola Tesla, kablosuz iletişim, elektrofizik ve alternatif akım (AC) elektrik sistemleri üzerine yaptığı\nbuluşlarla modern dünyayı ve teknolojiyi şekillendiren Sırp asıllı Amerikalı dahi mucit ve fizikçidir. \n1. Erken Yılları ve Eğitimi (1856 - 1884)\nDoğumu: 10 Temmuz 1856'da Avusturya İmparatorluğu sınırları içerisindeki Smiljan köyünde (günümüz Hırvatistan) doğdu.\nEğitimi: Graz Teknik Üniversitesi'nde mühendislik ve fizik okudu. İnanılmaz bir hafızaya (fotografik hafıza) sahip olan\nTesla, karmaşık hesaplamaları zihninde yapabiliyordu.\nİlk Deneyimler: Budapeşte'de telefon şirketinde mühendis olarak çalıştı, burada elektrik motorlarının çalışma prensiplerine\nodaklandı.\n2. Amerika'ya Göç ve Akımlar Savaşı (1884 - 1890'lar)\nThomas Edison ile Çalışması: 1884'te New York'a giderek Thomas Edison'ın yanında çalışmaya başladı. Ancak Edison'ın\nDoğru Akım (DC) ısrarı ile Tesla'nın Alternatif Akım (AC) vizyonu çatışınca yolları ayrıldı.\nGeorge Westinghouse İttifakı: Tesla, AC sistemlerinin patentlerini Westinghouse'a sattı. Bu gelişme, tarihe geçen \"Akımlar\nSavaşı\"nda Alternatif Akım'ın zaferiyle sonuçlandı.\n3. Önemli Buluşları ve İnovasyonları\nAlternatif Akım (AC) Motoru: Uzun mesafelere kayıpsız elektrik iletimini mümkün kıldı.",
+              "score": 0.2912
+            }
+          ],
+          "created_at": "2026-08-30T21:27:08.088143+00:00",
+          "web_sources": [],
+          "web_search_used": false,
+          "web_queries": []
+        },
+        {
+          "id": "88c92bdb-a0e5-4893-acb9-e77fdb82c24b",
+          "role": "user",
+          "content": "döküman aktif ama",
+          "created_at": "2026-08-30T21:27:39.701929+00:00"
+        },
+        {
+          "id": "2f33c120-21f9-41f5-8257-87419f427f97",
+          "role": "assistant",
+          "content": "Evet, belge aktif; ancak elimde görünen belge **Nikola Tesla’nın hayatı** hakkında. Kısaca:\n\nNikola Tesla, 1856’da Smiljan’da doğmuş Sırp asıllı Amerikalı mucit ve fizikçidir. Graz Teknik Üniversitesi’nde eğitim aldı, ardından Amerika’ya giderek Thomas Edison’la çalıştı. Edison’ın doğru akım (DC) yaklaşımıyla anlaşamayınca alternatif akım (AC) sistemlerini savundu ve George Westinghouse ile çalışarak “Akımlar Savaşı”nda AC’nin yaygınlaşmasına katkı sağladı. [Kaynak 2]\n\nTesla; AC motoru, Tesla bobini, kablosuz iletişim, uzaktan kumanda, radyo frekansları, X-ışınları ve floresan ışık alanlarında önemli çalışmalar yaptı. Wardenclyffe Kulesi ile kablosuz enerji ve iletişim sistemi kurmayı amaçladı; ancak mali destek kesildiği için proje tamamlanamadı. [Kaynak 1]\n\n7 Ocak 1943’te New York’ta hayatını kaybetti. Manyetik akı yoğunluğu birimi “tesla” ve Tesla şirketi onun anısına adlandırılmıştır. [Kaynak 1]",
+          "sources": [
+            {
+              "number": 1,
+              "document_id": "0bc461e6-e877-469a-a121-f9f394e96bc8",
+              "document_name": "nikola_tesla_hayati.pdf",
+              "chunk_position": 1,
+              "chunk": "'a sattı. Bu gelişme, tarihe geçen \"Akımlar\nSavaşı\"nda Alternatif Akım'ın zaferiyle sonuçlandı.\n3. Önemli Buluşları ve İnovasyonları\nAlternatif Akım (AC) Motoru: Uzun mesafelere kayıpsız elektrik iletimini mümkün kıldı.\nTesla Bobini (1891): Yüksek voltajlı ve yüksek frekanslı alternatif akım üreten, kablosuz enerji iletimi deneylerinin temeli\nolan cihaz.\nRadyo ve Uzaktan Kumanda: Guglielmo Marconi'den önce radyo frekansları ve uzaktan kumandalı teknoloji üzerine çalıştı\nve ilk kumandalı tekne gösterisini gerçekleştirdi.\nX-Işınları ve Floresan Işık: X-ışınlarının tıp ve görüntülemedeki potansiyelini ilk fark edenlerden biri oldu.\n4. Wardenclyffe Kulesi ve Son Yılları\nTesla, dünyadaki tüm iletişim ve elektriği kablosuz hale getirmeyi amaçlayan **Wardenclyffe Kulesi** projesini başlattı. Ancak\nmali destekçisi J.P. Morgan'ın fonu kesmesi üzerine proje yarım kaldı. \nÖmrünün son yıllarını New Yorker Oteli'nde yalnızlık içinde, teorik projeler ve fikirler üreterek geçirdi. 7 Ocak 1943 tarihinde 86\nyaşında hayatını kaybetti. Günümüzde manyetik akı yoğunluğu birimi olan **Tesla (T)** ve elektrikli araç devi Tesla Inc., onun\nanısına adlandırılmıştır. \n• \n• \n• \n• \n• \n• \n• \n• \n•",
+              "score": 0.1898
+            },
+            {
+              "number": 2,
+              "document_id": "0bc461e6-e877-469a-a121-f9f394e96bc8",
+              "document_name": "nikola_tesla_hayati.pdf",
+              "chunk_position": 0,
+              "chunk": "Nikola Tesla'nın Hayatı\n10 Temmuz 1856 – 7 Ocak 1943\nNikola Tesla, kablosuz iletişim, elektrofizik ve alternatif akım (AC) elektrik sistemleri üzerine yaptığı\nbuluşlarla modern dünyayı ve teknolojiyi şekillendiren Sırp asıllı Amerikalı dahi mucit ve fizikçidir. \n1. Erken Yılları ve Eğitimi (1856 - 1884)\nDoğumu: 10 Temmuz 1856'da Avusturya İmparatorluğu sınırları içerisindeki Smiljan köyünde (günümüz Hırvatistan) doğdu.\nEğitimi: Graz Teknik Üniversitesi'nde mühendislik ve fizik okudu. İnanılmaz bir hafızaya (fotografik hafıza) sahip olan\nTesla, karmaşık hesaplamaları zihninde yapabiliyordu.\nİlk Deneyimler: Budapeşte'de telefon şirketinde mühendis olarak çalıştı, burada elektrik motorlarının çalışma prensiplerine\nodaklandı.\n2. Amerika'ya Göç ve Akımlar Savaşı (1884 - 1890'lar)\nThomas Edison ile Çalışması: 1884'te New York'a giderek Thomas Edison'ın yanında çalışmaya başladı. Ancak Edison'ın\nDoğru Akım (DC) ısrarı ile Tesla'nın Alternatif Akım (AC) vizyonu çatışınca yolları ayrıldı.\nGeorge Westinghouse İttifakı: Tesla, AC sistemlerinin patentlerini Westinghouse'a sattı. Bu gelişme, tarihe geçen \"Akımlar\nSavaşı\"nda Alternatif Akım'ın zaferiyle sonuçlandı.\n3. Önemli Buluşları ve İnovasyonları\nAlternatif Akım (AC) Motoru: Uzun mesafelere kayıpsız elektrik iletimini mümkün kıldı.",
+              "score": 0.1236
+            }
+          ],
+          "created_at": "2026-08-30T21:27:39.701929+00:00",
+          "web_sources": [],
+          "web_search_used": false,
+          "web_queries": []
+        },
+        {
+          "id": "600fcc09-2873-40c0-b836-10419ccc651d",
+          "role": "user",
+          "content": "bana nikola tesla ne zaman evlendi anlatırmısın",
+          "created_at": "2026-08-30T21:28:14.389233+00:00"
+        },
+        {
+          "id": "053057b7-7cce-4715-8296-96f6a550ce98",
+          "role": "assistant",
+          "content": "Nikola Tesla **hiç evlenmedi**; bu nedenle evlendiği bir tarih yoktur. Bilimsel çalışmalarına odaklanmak için bekâr kalmayı tercih ettiği belirtilir. [Web 1] [Web 7]",
+          "sources": [
+            {
+              "number": 1,
+              "document_id": "0bc461e6-e877-469a-a121-f9f394e96bc8",
+              "document_name": "nikola_tesla_hayati.pdf",
+              "chunk_position": 0,
+              "chunk": "Nikola Tesla'nın Hayatı\n10 Temmuz 1856 – 7 Ocak 1943\nNikola Tesla, kablosuz iletişim, elektrofizik ve alternatif akım (AC) elektrik sistemleri üzerine yaptığı\nbuluşlarla modern dünyayı ve teknolojiyi şekillendiren Sırp asıllı Amerikalı dahi mucit ve fizikçidir. \n1. Erken Yılları ve Eğitimi (1856 - 1884)\nDoğumu: 10 Temmuz 1856'da Avusturya İmparatorluğu sınırları içerisindeki Smiljan köyünde (günümüz Hırvatistan) doğdu.\nEğitimi: Graz Teknik Üniversitesi'nde mühendislik ve fizik okudu. İnanılmaz bir hafızaya (fotografik hafıza) sahip olan\nTesla, karmaşık hesaplamaları zihninde yapabiliyordu.\nİlk Deneyimler: Budapeşte'de telefon şirketinde mühendis olarak çalıştı, burada elektrik motorlarının çalışma prensiplerine\nodaklandı.\n2. Amerika'ya Göç ve Akımlar Savaşı (1884 - 1890'lar)\nThomas Edison ile Çalışması: 1884'te New York'a giderek Thomas Edison'ın yanında çalışmaya başladı. Ancak Edison'ın\nDoğru Akım (DC) ısrarı ile Tesla'nın Alternatif Akım (AC) vizyonu çatışınca yolları ayrıldı.\nGeorge Westinghouse İttifakı: Tesla, AC sistemlerinin patentlerini Westinghouse'a sattı. Bu gelişme, tarihe geçen \"Akımlar\nSavaşı\"nda Alternatif Akım'ın zaferiyle sonuçlandı.\n3. Önemli Buluşları ve İnovasyonları\nAlternatif Akım (AC) Motoru: Uzun mesafelere kayıpsız elektrik iletimini mümkün kıldı.",
+              "score": 0.712
+            },
+            {
+              "number": 2,
+              "document_id": "0bc461e6-e877-469a-a121-f9f394e96bc8",
+              "document_name": "nikola_tesla_hayati.pdf",
+              "chunk_position": 1,
+              "chunk": "'a sattı. Bu gelişme, tarihe geçen \"Akımlar\nSavaşı\"nda Alternatif Akım'ın zaferiyle sonuçlandı.\n3. Önemli Buluşları ve İnovasyonları\nAlternatif Akım (AC) Motoru: Uzun mesafelere kayıpsız elektrik iletimini mümkün kıldı.\nTesla Bobini (1891): Yüksek voltajlı ve yüksek frekanslı alternatif akım üreten, kablosuz enerji iletimi deneylerinin temeli\nolan cihaz.\nRadyo ve Uzaktan Kumanda: Guglielmo Marconi'den önce radyo frekansları ve uzaktan kumandalı teknoloji üzerine çalıştı\nve ilk kumandalı tekne gösterisini gerçekleştirdi.\nX-Işınları ve Floresan Işık: X-ışınlarının tıp ve görüntülemedeki potansiyelini ilk fark edenlerden biri oldu.\n4. Wardenclyffe Kulesi ve Son Yılları\nTesla, dünyadaki tüm iletişim ve elektriği kablosuz hale getirmeyi amaçlayan **Wardenclyffe Kulesi** projesini başlattı. Ancak\nmali destekçisi J.P. Morgan'ın fonu kesmesi üzerine proje yarım kaldı. \nÖmrünün son yıllarını New Yorker Oteli'nde yalnızlık içinde, teorik projeler ve fikirler üreterek geçirdi. 7 Ocak 1943 tarihinde 86\nyaşında hayatını kaybetti. Günümüzde manyetik akı yoğunluğu birimi olan **Tesla (T)** ve elektrikli araç devi Tesla Inc., onun\nanısına adlandırılmıştır. \n• \n• \n• \n• \n• \n• \n• \n• \n•",
+              "score": 0.6512
+            }
+          ],
+          "created_at": "2026-08-30T21:28:14.389233+00:00",
+          "web_sources": [
+            {
+              "number": 1,
+              "title": "Nikola Tesla",
+              "url": "https://tr.wikipedia.org/wiki/Nikola_Tesla",
+              "content": "## Kişiliği\n\n[değiştir | kaynağı değiştir]\n\nNikola Tesla hiç evlenmemiştir. Bekar ve aseksüel olmasının bilimsel yeteneklerine yardımcı olduğunu düşünüyordu. Kolay öfkelenen Nikola Tesla ile Thomas Edison, Waterside Enerji Tesisi ve Allis Charmes Fabrikası'ndaki araştırmalarında onunla çalışan bazı mühendis ve yardımcıları arasında ortaya çıkan sürtüşme, aleyhine oldu. Bugün, düz rotorlu Nikola Tesla türbinlerinin sonucu hakkında hiçbir bilgimiz yoktur. [...] Nikola Tesla (Sırpça telaffuz: ( \"Yardım:IPA\"); Sırpça: Никола Тесла; 10 Temmuz 1856 - 7 Ocak 1943), Sırp-Amerikalı mucit, elektrik mühendisi, makine mühendisi ve fütüristti. Günümüzde en çok alternatif akım (AC) elektrik kaynağı sistemine ve mühendisliğe verdiği katkılarla tanınmaktadır. [...] Yıllar geçtikçe, ondan, gittikçe daha az haber alınmaya başlandı. Bazen gazeteci ve biyografi yazarları onu arayıp röportaj yapmak istiyorlardı. Gittikçe garipleşti, gerçeklerden uzaklaştı, aldatıcı hayalciliğe yöneldi. Not alma alışkanlığı edinmemişti. Her zaman tüm araştırma ve deneylerine ait tüm bilgiyi aklında tutabildiğini iddia ve ispat etti. 150 yıl yaşamaya kararlı olduğunu ve 100 yaşının üstüne eriştiği zaman, araştırma ve deneyleri sırasında topladığı bütün bilgiyi etraflıca anlatarak, anılarını yazacağını söyledi. II. Dünya Savaşı sırasında öldüğü zaman, kasasına askeri yöneticiler el koydular ve kayıtların cinsine ait herhangi bir şey duyulmadı.",
+              "score": 0.8256,
+              "query": "Nikola Tesla hiç evlendi mi resmi biyografi özel hayatı"
+            },
+            {
+              "number": 2,
+              "title": "HaberimBalkan - Facebook",
+              "url": "https://www.facebook.com/haberimbalkan/posts/nikola-tesla-kimdir-icatlar%C4%B1-nelerdirnikola-tesla-10-temmuz-1856-y%C4%B1l%C4%B1nda-avustur/592686841382972",
+              "content": "Tesla hiç evlenmemiştir. Son yıllarında gerçek bir münzevi hayatı yaşamış ve çabalarının büyük kısmını genellikle başarısız olan elektrik",
+              "score": 0.8055,
+              "query": "Nikola Tesla hiç evlendi mi resmi biyografi özel hayatı"
+            },
+            {
+              "number": 3,
+              "title": "Nikola Tesla hiç evlenmedi ama beyaz bir güvercine aşık olduğunu ...",
+              "url": "https://www.reddit.com/r/Damnthatsinteresting/comments/1ilduem/nikola_tesla_never_married_but_claimed_to_have?tl=tr",
+              "content": "Nikola Tesla hiç evlenmedi ama beyaz bir güvercine aşık olduğunu iddia etti. Onun ölümünden sonra arkadaşlarına hayatının işinin bittiğini",
+              "score": 0.7261,
+              "query": "Nikola Tesla hiç evlendi mi resmi biyografi özel hayatı"
+            },
+            {
+              "number": 4,
+              "title": "Nikola Tesla: Hayatı, İcatları ve Az Bilinen Gerçekler - Oggusto",
+              "url": "https://www.oggusto.com/lifestyle/nikola-tesla-kimdir",
+              "content": "Hiç evlenmeyen ve yaşamı boyunca gözlerden uzak kalmayı tercih eden Tesla'nın kişiliğini şekillendiren en büyük olaylardan biri de bu kayıptı.",
+              "score": 0.7143,
+              "query": "Nikola Tesla hiç evlendi mi resmi biyografi özel hayatı"
+            },
+            {
+              "number": 5,
+              "title": "Nikola Tesla never married and often said that celibacy helped him focus ...",
+              "url": "https://www.instagram.com/p/DU6CYffjg5s?hl=en",
+              "content": "Nikola Tesla never married and often said that celibacy helped him focus on his scientific work. In his later years in New York, he",
+              "score": 0.7085,
+              "query": "Nikola Tesla hiç evlendi mi resmi biyografi özel hayatı"
+            },
+            {
+              "number": 6,
+              "title": "Nikola Tesla'nın Aşka Kadar Varan Güvercin Tutkusu - Onedio",
+              "url": "https://onedio.com/haber/buluslariyla-dunyayi-degistiren-nikola-tesla-nin-asik-olmaya-kadar-varan-ilginc-guvercin-fetisi-1117425",
+              "content": "Hayatı boyunca hiç evlenmeyen Tesla'nın, odasına düzenli olarak gelen bir beyaz güvercine aşık olduğu söylentileri bile vardı! fullscreen.",
+              "score": 0.6781,
+              "query": "Nikola Tesla hiç evlendi mi resmi biyografi özel hayatı"
+            },
+            {
+              "number": 7,
+              "title": "Nikola Tesla’s Weird Obsession with Pigeons",
+              "url": "https://www.britannica.com/story/nikola-teslas-weird-obsession-with-pigeons",
+              "content": "Tesla never married, but he admitted to falling in love with a very special white pigeon that visited him regularly. He reportedly said, “I loved that pigeon as a man loves a woman, and she loved me. As long as I had her, there was a purpose to my life.” Tesla’s bachelor lifestyle likely stemmed from his belief that intimacy would interfere with his scientific research. “I do not think you can name many great inventions that have been made by married men,” he once observed. [...] Nikola Tesla was a Serbian American engineer and physicist known for his groundbreaking work in electric power. He is considered a genius, with numerous patents to his name, but he had an eccentric side that many people found difficult.",
+              "score": 0.4977,
+              "query": "Nikola Tesla marriage never married biography Britannica"
+            },
+            {
+              "number": 8,
+              "title": "Tesla'nın hayatı ve kardeşlik ilişkileri",
+              "url": "https://bilimvegelecek.com.tr/index.php/2017/07/01/teslanin-hayati-ve-kardeslik-iliskileri",
+              "content": "Nicola Tesla da kendi çatışmalarını fayda alanına büyük ölçüde sokabilmiştir. Nicola Tesla'nın ilişkilerinin onun ölen ağabeyinin gölgesi altı",
+              "score": 0.4799,
+              "query": "Nikola Tesla ilişkileri evlilik haber biyografi"
+            },
+            {
+              "number": 9,
+              "title": "Nikola Tesla summary | Britannica",
+              "url": "https://www.britannica.com/summary/Nikola-Tesla",
+              "content": "Nikola Tesla, (born July 9/10, 1856, Smiljan, Lika, Austrian Empire [now in Croatia]—died Jan. 7, 1943, New York, N.Y., U.S.), Serbian U.S. inventor and researcher. He studied in Austria and Bohemia and worked in Paris before coming to the U.S. in 1884. He worked for Thomas Alva Edison and George Westinghouse but preferred independent research. His inventions made possible the production and distribution of alternating-current electric power. He invented an induction coil that is still widely [...] The Editors of Encyclopaedia Britannica Encyclopaedia Britannica's editors oversee subject areas in which they have extensive knowledge, whether from years of experience gained by working on that content or via study for an advanced degree....\n\n The Editors of Encyclopaedia Britannica\n\n Below is the article summary. For the full article, see Nikola Tesla. \n\nImage 3: Nikola Tesla\n\nNikola TeslaNikola Tesla was an eccentric genius who counted Mark Twain among his closest friends.(more) [...] Copy Citation\n\nImage 7: iiq_pixelImage 8Image 9Image 10Image 11Image 12Image 13Image 14Image 15Image 16Image 17Image 18Image 19",
+              "score": 0.3913,
+              "query": "Nikola Tesla marriage never married biography Britannica"
+            },
+            {
+              "number": 10,
+              "title": "Nikola Tesla | Biography, Facts, & Inventions",
+              "url": "https://www.britannica.com/biography/Nikola-Tesla",
+              "content": "Nikola Tesla (born July 9/10, 1856, Smiljan, Austrian Empire [now in Croatia]—died January 7, 1943, New York, New York, U.S.) was a Serbian American inventor and engineer who discovered and patented the rotating magnetic field, the basis of most alternating-current machinery. He also developed the three-phase system of electric power transmission. He immigrated to the United States in 1884 and sold the patent rights to his system of alternating-current dynamos, transformers, and motors to [...] Encyclopedia Britannica\nEncyclopedia Britannica\nNikola Tesla\nNikola Tesla\nExplaining Nikola Tesla's inventions...and his obsession with pigeons\nDiscover how wireless electricity works and its usages\nNikola Tesla\nball bearing. Disassembled ball bearing. rotational friction Automobile Industry, Engineering, Industry, Machine Part, Metal Industry, Sphere, Steel, Wheel [...] Tesla was from a family of Serbian origin. His father was an Orthodox priest; his mother was unschooled but highly intelligent. As he matured, he displayed remarkable imagination and creativity as well as a poetic touch.",
+              "score": 0.3516,
+              "query": "Nikola Tesla marriage never married biography Britannica"
+            }
+          ],
+          "web_search_used": true,
+          "web_queries": [
+            "Nikola Tesla hiç evlendi mi resmi biyografi özel hayatı",
+            "Nikola Tesla marriage never married biography Britannica",
+            "Nikola Tesla ilişkileri evlilik haber biyografi"
+          ]
+        },
+        {
+          "id": "ae9e02ba-10b4-4970-8d4e-e0544291d49a",
+          "role": "user",
+          "content": "bana burada nesli tükenmekte olan hayvanları sırala",
+          "created_at": "2026-08-30T21:31:17.402713+00:00"
+        },
+        {
+          "id": "d03b3976-6332-425c-9269-3f16ea108c4c",
+          "role": "assistant",
+          "content": "Belgede nesli tükenme tehlikesiyle karşı karşıya olduğu belirtilen canlılar:\n\n- **Amur leoparı** — Kritik tehlikede (CR)\n- **Vaquita / Meksika yunusu** — Kritik tehlikede (CR)\n- **Sumatra gergedanı** — Tehlikede (EN)\n- **Cava gergedanı** — Kritik tehlikede (CR)\n- **Dağ gorili** — Tehlikede (EN)\n- **Anadolu parsı** — Kritik tehlikede (CR)\n- **Şeritli kutup ayısı** — Hassas (VU) [Kaynak 1] [Kaynak 2]\n\n**Karakulak** da tabloda yer alıyor; ancak statüsü “Asgari Endişe (LC)” olduğu için nesli tükenmekte olan türler arasında değerlendirilmemiştir. [Kaynak 2]",
+          "sources": [
+            {
+              "number": 1,
+              "document_id": "a1e22166-3671-44df-8765-9e3a2b4f9394",
+              "document_name": "nesli_tukenmekte_olan_hayvanlar_v2 (1).pdf",
+              "chunk_position": 0,
+              "chunk": "Nesli Tükenmekte Olan Canlılar Belgesi\nKüresel Biyoçeşitlilik Kaybı ve Kritik Durumdaki Türler Raporu\nÖnemli Bilgilendirme: Dünya Doğa ve Doğal Kaynakları Koruma Birliği (IUCN) Kırmızı Listesi verilerine göre,\ndünya genelinde binlerce canlı türü habitat kaybı, kaçak avlanma ve iklim değişikliği nedeniyle yok olma tehlikesiyle\nkarşı karşıyadır. Bu belge, öne çıkan kritik türleri ve koruma durumlarını özetlemektedir. \n1. Kritik Seviyede Tehdit Altındaki Türler (CR)\nAmur Leoparı (Panthera pardus orientalis) KRITIK TEHLIKEDE (CR)\nYaşam Alanı: Rusya'nın uzak doğusu ve Çin'in kuzeydoğusu\nTahmini Nüfus: Vahşi doğada yaklaşık 100 - 120 birey\nBaşlıca Tehditler: Kaçak avlanma, orman yangınları, endüstriyel yapılaşma\nDünyanın en nadir kedigillerinden biri olan Amur Leoparı, kalın kürkü ve zorlu kış şartlarına uyum sağlama yeteneğiyle\nbilinir. Doğal yaşam alanlarının daralması en büyük tehdittir. \nVaquita (Meksika Yunusu) (Phocoena sinus) KRITIK TEHLIKEDE (CR)\nYaşam Alanı: Kaliforniya Körfezi'nin kuzeyi (Meksika)\nTahmini Nüfus: 10'dan az birey\nBaşlıca Tehditler: Yasadışı balıkçılık ağlarına (solungaç ağları) takılma\nDünyanın en küçük deniz memelisidir. Yasadışı Totoaba balığı avcılığında kullanılan ağlara takılarak boğulmaları\nnedeniyle soyları tükenmenin eşiğine gelmiştir. \nSumatra Gergedanı (Dicerorhinus sumatrensis) TEHLIKEDE (EN)\nYaşam Alanı: Sumatra Adası (Endonezya)",
+              "score": 0.768
+            },
+            {
+              "number": 2,
+              "document_id": "a1e22166-3671-44df-8765-9e3a2b4f9394",
+              "document_name": "nesli_tukenmekte_olan_hayvanlar_v2 (1).pdf",
+              "chunk_position": 1,
+              "chunk": "dışı Totoaba balığı avcılığında kullanılan ağlara takılarak boğulmaları\nnedeniyle soyları tükenmenin eşiğine gelmiştir. \nSumatra Gergedanı (Dicerorhinus sumatrensis) TEHLIKEDE (EN)\nYaşam Alanı: Sumatra Adası (Endonezya)\nTahmini Nüfus: 30 - 80 birey\nBaşlıca Tehditler: Boynuz ticareti için avlanma, parçalanmış habitat\nAsya gergedanlarının en küçüğü ve vücudu kıllarla kaplı tek gergedan türüdür. Yaşam alanlarının palmiye yağı tarlalarına\ndönüştürülmesi popülasyonu ağır şekilde vurmuştur. \n2. Türlerin Koruma Statüsü Özet Tablosu\nCanlı Türü Bölge IUCN Statüsü Koruma Önceliği\nCava Gergedanı Endonezya Kritik (CR) En Yüksek\nDağ Gorili Orta Afrika Tehlikede (EN) Yüksek\nDoğa Koruma ve Biyoçeşitlilik Raporu Sayfa 1 / 2\n\nCanlı Türü Bölge IUCN Statüsü Koruma Önceliği\nAnadolu Parsı Türkiye Kritik (CR) En Yüksek\nŞeritli Kutup Ayısı Arktik Bölge Hassas (VU) Orta - Yüksek\nKarakulak Türkiye / Orta Doğu Asgari Endişe (LC) Yerel Koruma\n3. Koruma ve Önleme Tedbirleri\nBiyoçeşitliliğin korunması ve nesli tehlike altındaki canlıların geleceğe aktarılması için atılması gereken temel adımlar şunlardır:\nHabitatların Korunması: Doğal koruma alanlarının sınırlarının genişletilmesi ve yasadışı yapılaşmanın önlenmesi.\nKaçak Avcılıkla Mücadele: Yasadışı hayvan ve uzuv ticaretine karşı uluslararası denetimlerin artırılması.",
+              "score": 0.654
+            },
+            {
+              "number": 3,
+              "document_id": "a1e22166-3671-44df-8765-9e3a2b4f9394",
+              "document_name": "nesli_tukenmekte_olan_hayvanlar_v2 (1).pdf",
+              "chunk_position": 2,
+              "chunk": "Habitatların Korunması: Doğal koruma alanlarının sınırlarının genişletilmesi ve yasadışı yapılaşmanın önlenmesi.\nKaçak Avcılıkla Mücadele: Yasadışı hayvan ve uzuv ticaretine karşı uluslararası denetimlerin artırılması.\nFarkındalık Çalışmaları: Yerel halkın biyoçeşitlilik konusunda eğitilmesi ve ekoturizm modellerinin desteklenmesi.\nBu belge bilgilendirme amacıyla hazırlanmış olup veriler uluslararası koruma örgütlerinin raporlarına dayanmaktadır. \n• \n• \n• \nDoğa Koruma ve Biyoçeşitlilik Raporu Sayfa 2 / 2",
+              "score": 0.4942
+            }
+          ],
+          "created_at": "2026-08-30T21:31:17.402713+00:00",
+          "web_sources": [
+            {
+              "number": 1,
+              "title": "Nesli Tükenme Tehlikesinde Olan Canlılar",
+              "url": "https://www.paraf.com.tr/tr/parafmag/nesli-tukenme-tehlikesinde-olan-canlilar.html",
+              "content": "Ülkemizde yakından tanıdığımız ve bir deniz kaplumbağası olan caretta carettalar da nesli tükenmekte olan hayvanlar arasında yer alıyor. Neslinin dinozor",
+              "score": 0.7564,
+              "query": "nesli_tukenmekte_olan_hayvanlar_v2 (1).pdf belgedeki nesli tükenmekte olan hayvanlar listesi"
+            },
+            {
+              "number": 2,
+              "title": "Nesli Tükenmek Üzere Olan Hayvanlar - Onedio",
+              "url": "https://onedio.com/haber/nesli-tukenmek-uzere-olan-hayvanlar-759801",
+              "content": "## 4. Deniz iguanası\n\nfullscreen\n4. Deniz iguanası\n\nKorkutucu görüntüsü ve keskin dişlerine rağmen otobur olan deniz iguanası, deniz yosunları ve alglerle beslenir. Deniz iguanasının nesli de tükenme tehlikesiyle karşı karşıya.\n\n## 5. Kara gergedan\n\nfullscreen\n5. Kara gergedan\n\n20.yüzyılda Avrupalı avcılar yüzünden kara gergedanların popülasyonu büyük oranda azaldı. 1960 ve 1995 yılları arasında dünya üzerinde sadece 2,500 adet kara gergedan kalmıştı. Çevrecilerin yaptığı çalışmalar sayesinde bu rakam şu an 5,600'lere kadar çıktı. Ancak bu sayı da yeterli değil ve türleri hala tehlike altında.\n\nchevron-right-grey\no-logo\no-logo\n\n## 6. Kızıl panda\n\nfullscreen\n6. Kızıl panda [...] ## 19. Kutup ayısı\n\nfullscreen\n19. Kutup ayısı\n\nEn büyük ayı olan kutup ayılarının 22,000 ile 31,000 arasında olduğu tahmin ediliyor. İklim değişikli, küresel ısınma ve buzulların erimesi dolayısıyla kutup ayılarının nesli tehlike altına girmiş durumda.\n\n## 20. Kar kaplanı\n\nfullscreen\n20. Kar kaplanı\n\nYüksek dağlarda yaşayan kar kaplanlarının popülasyonlarının 4,000 ila 6,500 arasında olduğu biliniyor. Kar kaplanları, Afganistan, Çin, Hindistan, Kazakistan, Pakistan , Rusya, Tacikistan, Özbekistan, Moğolistan, Kırgızistan, Nepal ve Butan'nın dağlık kesimlerinde yaşıyor. Avlanmaları, doğal yaşam alanlarının tahrip edilmesi ve av bulamamaları gibi sebeplerden dolayı kar kaplanlarının nesli de tehlike altında.\n\nchevron-right-grey\no-logo\no-logo\n\n## 21. Jaguar\n\nfullscreen\n21. Jaguar [...] ## 6. Kızıl panda\n\nfullscreen\n6. Kızıl panda\n\nKedilerden biraz daha büyük bir ebatta olan kızıl pandaların habitatı Doğu Himalayalar'dır. Uzun ve tüylü kuyruklarını kışın ısınmak için kullanırlar. iklim değişikliği yüzünden nesilleri tehlike altında olan kızıl pandalardan 10,000 adet kalmıştır.\n\n## 7. Kaplan\n\nfullscreen\n7. Kaplan\n\nUzun süredir düşüşte olan kaplan popülasyonu yavaş yavaş artmaya başladı. Hindistan, Nepal, Rusya ve Çin'deki kaplanların sayısının sabit kaldığı veya arttığı söyleniyor. Doğada şu an 3,900 adet kaplan olduğu tahmin ediliyor. Ancak bu sayı yeterli değil ve kaplanların nesli hala tehlike altında. Güneydoğu Asya bölgesinde kaplan sayısı düşüşte.\n\n## 8. Deniz kaplumbağası\n\nfullscreen\n8. Deniz kaplumbağası",
+              "score": 0.7514,
+              "query": "nesli_tukenmekte_olan_hayvanlar_v2 (1).pdf belgedeki nesli tükenmekte olan hayvanlar listesi"
+            },
+            {
+              "number": 3,
+              "title": "Nesli Tukenmekte Olan Hayvanlar | PDF - Scribd",
+              "url": "https://www.scribd.com/presentation/784496158/Nesli-Tukenmekte-Olan-Hayvanlar",
+              "content": "Nesli Tükenmekte Olan Canlı Türleri Nelerdir? 1 Javan Gergedanı 2 Amur Leoparı Javan gergedanı, dünyanın en nadir gergedan türüdür ve yalnızca Amur leoparı,",
+              "score": 0.6464,
+              "query": "nesli_tukenmekte_olan_hayvanlar_v2 (1).pdf Amur leoparı vaquita Sumatra gergedanı Cava gergedanı dağ gorili Anadolu parsı şeritli kutup ayısı karakulak koruma statüsü"
+            },
+            {
+              "number": 4,
+              "title": "Türkiye’de Nesli Tükenen Hayvanlar | Miniyol",
+              "url": "https://www.miniyol.com/blog/turkiyede-nesli-tukenen-hayvanlar",
+              "content": "Orman horozu uzun bir süredir Türkiye’de görülmediğinden dolayı neslinin tükendiği düşünülmektedir. Dünyada ise Kafkasya, Kuzey İngiltere, Kuzey Galler ve İskoçya sınırlarında bulunurlar.\n\n## 8. Hubara Kuşu\n\nhubara kuşu\n\nhubara kuşu\n\nHubara kuşu donuk kahverengi renkte ve kanatlarında siyah lekeler bulunan kuşlardır. Hubara kuşunun uzunluğu genellikle 55-65 cm arasında değişirken, genişlikleri kanat boyunca 135-170 cm arasında değişmektedir. Vücut kütlesi erkeklerde 1,15-2,4 kg, dişilerde ise 1-1,7 kg'dır.\n\nHubara kuşu uluslararası olarak korunan büyük bir karasal kuştur. Türkiye’de nesilleri çoktan tükenmiştir. Dünyada ise Kanarya Adaları, Kuzey Afrika ve Pakistan’da yaşamaktadırlar. Dünyada da nesilleri tükenmekle karşı karşıyadır.\n\n## 9. Yılanboyun\n\nyılanboyun\n\nyılanboyun [...] ## 9. Yılanboyun\n\nyılanboyun\n\nyılanboyun\n\nYılanboyun, hindi kuyruğuna benzeyen uzun yelpaze benzeri kuyrukları olan büyük ve ince su kuşlarıdır. Uzun “S” şeklinde bir boyunları ve hançer benzeri bir gagaları vardır. Yılana benzeyen boyunları yüzünden Yılanboyun olarak adlandırılırlar. Uzunlukları ortalama 90 santimetre, kanat genişlikleri ortalama 110 santimetre, ağırlıkları ise ortalama 1,35 kilogramdır.\n\nGüney ve Güneydoğu Asya bölgelerinde yaşayan bu kuşlar göç dönemlerinde ülkemize de uğramaktaydı. Fakat Hatay’da bulunan Amik Gölü’nün kurutulması sebebiyle Türkiye’de nesilleri tükenmiştir.\n\n## 10. Eski Dünya Kunduzu\n\neski dünya kunduzu\n\neski dünya kunduzu [...] Bir zamanlar Türkiye’de de yaşayan Asya çitalarının ülkemizde nesli tükenmiştir. Günümüzde ise sadece İran’ın doğusu ve ortasındaki kurak bölgelerde koruma altında yaşamaktadırlar. Sayılarının ise 50’den az olduğu düşünülmektedir.\n\n## 7. Orman Horozu\n\norman horozu\n\norman horozu\n\nOrman horozu, dişi bir sülünle aynı boyda olan büyük bir kuştur. Kısa süre uçabilme özellikleri vardır. Küt gagasının yanı sıra kısa bacakları ve kanatları vardır. Bacakları ve burnu tüylerle örtülüdür. Erkekleri 1,5 kilogram ağırlığa ulaşabilirken dişileri ise 850 gram ağırlığa kadar çıkabilmektedir.20-25 günlük bir kuluçka süresinden sonra iki aylık oldukları zaman erişkin bir orman horozu boyutlarına ulaşabilirler. Yaklaşık iki haftalık olduklarında ise uçabilirler.",
+              "score": 0.6362,
+              "query": "nesli_tukenmekte_olan_hayvanlar_v2 (1).pdf belgedeki nesli tükenmekte olan hayvanlar listesi"
+            },
+            {
+              "number": 5,
+              "title": "Göz Göre Göre Yok Ettiğimiz Nesli Tükenmekte Olan Hayvanlar",
+              "url": "https://listelist.com/nesli-tukenmekte-olan-hayvanlar",
+              "content": "Göz Göre Göre Yok Ettiğimiz Nesli Tükenmekte Olan Hayvanlar · 1. Cava Gergedanı · 2. Çita · 3. Sumatra orangutanı · 4. Deri sırtlı deniz kaplumbağası · 5. Kutup",
+              "score": 0.5491,
+              "query": "nesli_tukenmekte_olan_hayvanlar_v2 (1).pdf Amur leoparı vaquita Sumatra gergedanı Cava gergedanı dağ gorili Anadolu parsı şeritli kutup ayısı karakulak koruma statüsü"
+            },
+            {
+              "number": 6,
+              "title": "Nesli Tükenmekte Olan Hayvanlar: Yok Olma ...",
+              "url": "https://www.uplifers.com/nesli-tukenmekte-olan-hayvanlar-yok-olma-tehlikesindeki-20-tur",
+              "content": "Nesli tükenmekte olan hayvanlar hangileri? Kritik tehlike altındaki 20 türü, nedenleri ve korunma durumlarıyla kısa ve net şekilde keşfedin.",
+              "score": 0.5004,
+              "query": "nesli_tukenmekte_olan_hayvanlar_v2 (1).pdf belgedeki nesli tükenmekte olan hayvanlar listesi"
+            },
+            {
+              "number": 7,
+              "title": "Nesli Tükenen Hayvanlar Geri Döndürülebilir Mi? - Land Rover",
+              "url": "https://www.landrover.com.tr/explore-land-rover/one-life-blog/above-beyond/nesli-tukenen-hayvanlar-bilim-insanlarinca-geri-donebilir-mi",
+              "content": "Çizgili bir deriye sahip olan etçil ve keseli Tazmanya kaplanı, nesli tükenen canlılardan biri. Köpek ile görünümü oldukça benzer olan kaplanlar Avustralya, Tazmanya ve Yeni Gine’de göçebe şekilde yaşardı. Ta ki 1936’da nesilleri tükenene kadar… İnsanların avcılık yöntemleri sebebiyle nesilleri tükenen Tazmanya kaplanını geri döndürmek için bilim insanları çalışmalarını sürdürüyor.   \n  \nBilim insanları, Tazmanya kaplanını geri döndürerek, Tazmanya Adası’ndaki ekolojik dengeyi yeniden sağlamayı amaçlıyor. Ayrıca bu çalışmanın, genetik mühendisliği araçları ve yapay rahimler gibi teknolojilere ışık tutacağı düşünülüyor. [...] Çizgili bir deriye sahip olan etçil ve keseli Tazmanya kaplanı, nesli tükenen canlılardan biri. Köpek ile görünümü oldukça benzer olan kaplanlar Avustralya, Tazmanya ve Yeni Gine’de göçebe şekilde yaşardı. Ta ki 1936’da nesilleri tükenene kadar… İnsanların avcılık yöntemleri sebebiyle nesilleri tükenen Tazmanya kaplanını geri döndürmek için bilim insanları çalışmalarını sürdürüyor.   \n  \nBilim insanları, Tazmanya kaplanını geri döndürerek, Tazmanya Adası’ndaki ekolojik dengeyi yeniden sağlamayı amaçlıyor. Ayrıca bu çalışmanın, genetik mühendisliği araçları ve yapay rahimler gibi teknolojilere ışık tutacağı düşünülüyor. [...] GLYPTODON\n\nGlyptodon\n\nGlyptodon, karşılaştığımız en ilginç hayvanlardan biri… Günümüzde yaşayan armadilloların Pleistosen Devir'de (Son Buz Devri) yaşamış temsilcileri olan bu hayvanlar, genel olarak 3,3 metre uzunluğa ve 2 ton ağırlığa sahipti.   \n  \nGlyptodon’lar 1000’den fazla kemikle, vücudunu saran zırhıyla devasa bir kaplumbağayı andırırdı. Glyptodon’lar, otçul bir hayvan türüydü, temel olarak çimler ve bitkilerle besleniyordu. Yaşam alanlarıysa sulak bölgelerdi. Glyptodon’ların, yaklaşık 10.000 yıl önce, son Buzul Çağı'ndan kısa bir süre sonra nesli tükendi. Dünyanın dört bir yanından gelen insanlar, Glyptodon’ların kabuklarını soğuk havalarda barınak gibi kullandı. Bilim insanları Glyptodon’ların DNA’sı üzerinde çalışmalarını sürdürüyor.\n\nYOLCU GÜVERCİNİ\n\nyolcu güvercini",
+              "score": 0.4768,
+              "query": "nesli_tukenmekte_olan_hayvanlar_v2 (1).pdf belgedeki nesli tükenmekte olan hayvanlar listesi"
+            },
+            {
+              "number": 8,
+              "title": "Soyu - Nesli Tükenmekte Olan Hayvanlar | Umut Var mı?",
+              "url": "https://www.neoldu.com.tr/soyu-tukenmekte-olan-hayvanlar-1-52651h.htm",
+              "content": "Ne yazık ki, kaçak avlanma ve habitat kaybı gibi tehditler nedeniyle Java gergedanı nesli tükenmekte olan hayvanlar listesine girmiştir. Onları",
+              "score": 0.4468,
+              "query": "nesli_tukenmekte_olan_hayvanlar_v2 (1).pdf Amur leoparı vaquita Sumatra gergedanı Cava gergedanı dağ gorili Anadolu parsı şeritli kutup ayısı karakulak koruma statüsü"
+            },
+            {
+              "number": 9,
+              "title": "Animals that could become extinct in 2026 #shorts - YouTube",
+              "url": "https://www.youtube.com/shorts/cb7da7h04zk?vl=en-US",
+              "content": "2026 DA NESLİ TÜKENEBİLECEK HAYVANLAR #shorts.",
+              "score": 0.4058,
+              "query": "nesli_tukenmekte_olan_hayvanlar_v2 (1).pdf Amur leoparı vaquita Sumatra gergedanı Cava gergedanı dağ gorili Anadolu parsı şeritli kutup ayısı karakulak koruma statüsü"
+            },
+            {
+              "number": 10,
+              "title": "Search for Lost Species - Global Wildlife Conservation",
+              "url": "https://www.globalwildlife.org/search-for-lost-species",
+              "content": "In collaboration with more than 100 scientists, Global Wildlife Conservation has compiled a list of 1,200 species of animals and plants that are missing to science. GWC and our partners search some of the planet’s forgotten places and then work to protect species once found. [...] Read More\n\nThis website uses cookies to improve your experience. We'll assume you're ok with this, but you can opt-out if you wish.Accept Read More\n\nPrivacy & Cookies Policy\n\n#### Privacy Overview [...] opting out of some of these cookies may affect your browsing experience.",
+              "score": 0.0754,
+              "query": "nesli_tukenmekte_olan_hayvanlar_v2 (1).pdf Amur leoparı vaquita Sumatra gergedanı Cava gergedanı dağ gorili Anadolu parsı şeritli kutup ayısı karakulak koruma statüsü"
+            }
+          ],
+          "web_search_used": true,
+          "web_queries": [
+            "nesli_tukenmekte_olan_hayvanlar_v2 (1).pdf belgedeki nesli tükenmekte olan hayvanlar listesi",
+            "nesli_tukenmekte_olan_hayvanlar_v2 (1).pdf Amur leoparı vaquita Sumatra gergedanı Cava gergedanı dağ gorili Anadolu parsı şeritli kutup ayısı karakulak koruma statüsü"
+          ]
+        }
+      ],
+      "created_at": "2026-08-30T14:55:58.963066+00:00",
+      "updated_at": "2026-08-30T21:31:17.403829+00:00"
+    }
+  ]
+}

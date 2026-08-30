@@ -1,0 +1,90 @@
+<!doctype html>
+<html lang="tr">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Luna • RAG Workspace</title>
+  <link rel="icon" href="/static/favicon.svg" type="image/svg+xml">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=DM+Sans:wght@400;500;600;700&family=Manrope:wght@500;600;700&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="/static/styles.css">
+</head>
+<body>
+  <div class="app-shell">
+    <aside class="sidebar chats-panel">
+      <div class="brand"><span class="brand-mark">L</span><div><strong>Luna</strong><small>RAG Workspace</small></div></div>
+      <button class="new-chat" id="new-chat"><span>＋</span> Yeni sohbet</button>
+      <div class="section-label"><span>Sohbetler</span><span id="chat-count">0</span></div>
+      <nav class="chat-list" id="chat-list"></nav>
+      <div class="profile-card">
+        <span class="profile-avatar">E</span>
+        <div><strong>Çalışma alanı</strong><small id="api-status">Bağlantı kontrol ediliyor</small></div>
+        <span class="status-dot" id="status-dot"></span>
+      </div>
+    </aside>
+
+    <main class="chat-panel">
+      <header class="chat-header">
+        <div>
+          <div class="eyebrow">AKTİF SOHBET</div>
+          <h1 id="chat-title">Yeni sohbet</h1>
+        </div>
+        <div class="model-pill"><span class="spark">✦</span><span id="model-name">GPT-5.6 Luna</span></div>
+      </header>
+
+      <section class="messages" id="messages">
+        <div class="welcome" id="welcome">
+          <div class="orb"><span>✦</span></div>
+          <h2>Belgelerinizle konuşun.</h2>
+          <p>Sağ panelden belgelerinizi ekleyin, kullanmak istediklerinizi aktif edin ve sorularınızı sorun.</p>
+          <div class="suggestions">
+            <button>Aktif belgeleri özetle</button>
+            <button>Önemli noktaları listele</button>
+            <button>Belgeler arasında karşılaştırma yap</button>
+          </div>
+        </div>
+      </section>
+
+      <footer class="composer-wrap">
+        <div class="composer">
+          <button class="web-toggle" id="web-toggle" type="button" aria-pressed="false" title="Web aramasını aç/kapat"><span>⌕</span><b>Web</b></button>
+          <textarea id="message-input" rows="1" placeholder="Belgeleriniz hakkında bir şey sorun..."></textarea>
+          <button class="send-button" id="send-button" aria-label="Gönder">↑</button>
+        </div>
+        <p>Yanıtlar hata içerebilir. Önemli bilgileri kaynak belgelerden doğrulayın.</p>
+      </footer>
+    </main>
+
+    <aside class="sidebar documents-panel">
+      <div class="documents-header">
+        <div><div class="eyebrow">BİLGİ KAYNAKLARI</div><h2>Dokümanlar</h2></div>
+        <span class="doc-count" id="doc-count">0</span>
+      </div>
+      <label class="upload-zone" id="upload-zone">
+        <input type="file" id="file-input" accept=".pdf,.docx,.txt,.md" hidden>
+        <span class="upload-icon">↥</span>
+        <strong>Doküman yükle</strong>
+        <small>PDF, DOCX, TXT veya MD • maks. 25 MB</small>
+      </label>
+      <div class="upload-progress hidden" id="upload-progress"><span></span><p>Belge işleniyor ve embedleniyor…</p></div>
+      <div class="section-label"><span>KÜTÜPHANE</span><span id="active-count">0 aktif</span></div>
+      <div class="document-list" id="document-list"></div>
+      <div class="document-tip"><span>i</span><p>Yeşil belgeler yanıtlarda kullanılır. Kırmızıya alarak geçici olarak devre dışı bırakabilirsiniz.</p></div>
+    </aside>
+  </div>
+  <div class="source-modal hidden" id="source-modal" role="dialog" aria-modal="true" aria-labelledby="source-modal-title">
+    <div class="source-modal-backdrop" data-close-source></div>
+    <section class="source-modal-card">
+      <header>
+        <div><div class="eyebrow" id="source-modal-label">KAYNAK</div><h3 id="source-modal-title">Belge bölümü</h3></div>
+        <button class="source-modal-close" data-close-source aria-label="Kapat">×</button>
+      </header>
+      <div class="source-modal-meta" id="source-modal-meta"></div>
+      <div class="source-modal-text" id="source-modal-text"></div>
+    </section>
+  </div>
+  <div class="toast-stack" id="toast-stack"></div>
+  <script src="/static/app.js"></script>
+</body>
+</html>
