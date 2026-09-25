@@ -1,0 +1,14 @@
+.env
+.venv/
+__pycache__/
+.pytest_cache/
+models/
+*.pyc
+data/uploads/*
+data/indexes/*
+data/chunks/*
+!data/uploads/.gitkeep
+!data/indexes/.gitkeep
+!data/chunks/.gitkeep
+
+.git_old/

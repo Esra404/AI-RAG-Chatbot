@@ -1,0 +1,790 @@
+{
+  "chats": [
+    {
+      "id": "218256b5-7700-4f8e-8d22-8017671363df",
+      "title": "belgeyi özetle",
+      "messages": [
+        {
+          "id": "46317079-1115-4989-adae-f31be84c9a90",
+          "role": "user",
+          "content": "belgeyi özetle",
+          "created_at": "2026-09-19T14:23:30.579117+00:00"
+        },
+        {
+          "id": "dce18ada-b17d-4af3-83c7-e6b243ff89ec",
+          "role": "assistant",
+          "content": "Özetleyebilmem için belgeyi yükleyin veya metnini buraya yapıştırın. Şu anda aktif bir belge bulunmuyor.",
+          "sources": [],
+          "created_at": "2026-09-19T14:23:30.579117+00:00",
+          "web_sources": [],
+          "web_search_used": false,
+          "web_queries": []
+        },
+        {
+          "id": "f1bdba54-cec0-4303-adda-743338dadcb0",
+          "role": "user",
+          "content": "belgeleri birleştir",
+          "created_at": "2026-09-19T14:23:43.520833+00:00"
+        },
+        {
+          "id": "8f9b18e7-ae74-464c-83f2-93e362b846d1",
+          "role": "assistant",
+          "content": "Belgeleri birleştirebilirim. Lütfen dosyaları yükleyin veya metinlerini buraya yapıştırın.  \n\nİsterseniz:\n- İçerikleri tek bir belgede sırayla birleştirebilirim,\n- Tekrarlanan bölümleri kaldırabilirim,\n- Başlık ve biçimlendirmeyi düzenleyebilirim,\n- Birleştirilmiş belgeyi özetleyebilirim.\n\nŞu anda işlenecek aktif belge bulunmuyor.",
+          "sources": [],
+          "created_at": "2026-09-19T14:23:43.520833+00:00",
+          "web_sources": [],
+          "web_search_used": false,
+          "web_queries": []
+        },
+        {
+          "id": "327b8a80-b931-4c8e-9830-ec89943ee494",
+          "role": "user",
+          "content": "ekledim",
+          "created_at": "2026-09-19T14:24:16.027310+00:00"
+        },
+        {
+          "id": "c5b84d2f-42cc-4d37-8cb0-3bd928123c02",
+          "role": "assistant",
+          "content": "Eklenen dosyalar şu anda bana görünmüyor. Lütfen belgeleri tekrar yükleyin veya metinlerini buraya yapıştırın. Yüklendiklerinde içerikleri tek bir belgede birleştirebilirim.",
+          "sources": [],
+          "created_at": "2026-09-19T14:24:16.027310+00:00",
+          "web_sources": [],
+          "web_search_used": false,
+          "web_queries": []
+        },
+        {
+          "id": "c5a5a9c9-d23e-434b-9774-d0e040d55b82",
+          "role": "user",
+          "content": "atatürkün hayatını kısaca anlat",
+          "created_at": "2026-09-19T14:25:42.593439+00:00"
+        },
+        {
+          "id": "2edbec7d-0d30-4b47-9e0f-2be9ed93c546",
+          "role": "assistant",
+          "content": "Mustafa Kemal Atatürk, 1881’de Selanik’te doğmuş Türk asker, devlet adamı ve Türkiye Cumhuriyeti’nin kurucusudur. [Web 2] Askerî eğitim aldıktan sonra Çanakkale Savaşı’nda önemli bir komutan olarak öne çıktı. 19 Mayıs 1919’da Samsun’a çıkarak Millî Mücadele’yi başlattı; Erzurum ve Sivas kongrelerinin ardından 23 Nisan 1920’de Türkiye Büyük Millet Meclisi’nin açılmasına öncülük etti. [Web 3]\n\nKurtuluş Savaşı’nın kazanılmasından sonra 29 Ekim 1923’te Cumhuriyet ilan edildi ve Atatürk Türkiye’nin ilk cumhurbaşkanı oldu. [Web 2] Hukuk, eğitim, alfabe ve toplum yaşamında köklü yenilikler gerçekleştirdi; 15-20 Ekim 1927’de Nutuk’u okudu. [Web 4] Atatürk, 10 Kasım 1938’de İstanbul’daki Dolmabahçe Sarayı’nda vefat etti. [Web 2]",
+          "sources": [],
+          "created_at": "2026-09-19T14:25:42.593439+00:00",
+          "web_sources": [
+            {
+              "number": 1,
+              "title": "Mustafa Kemal ATATÜRK Fotoğrafları, Mustafa Kemal ATATÜRK Resimleri Biyografiler.com",
+              "url": "https://biyografiler.com/kimdir/mustafa-kemal-ataturk/fotograflar",
+              "content": "Title: Mustafa Kemal ATATÜRK Fotoğrafları, Mustafa Kemal ATATÜRK Resimleri Biyografiler.com\n# Türkiye’nin en Büyük Biyografi ve Otobiyografi Sitesi. BioClash – Bilgini test etmeye hazır mısın? ## Mustafa Kemal ATATÜRK. Doğum Tarihi: **19.Mayıs.1881**. Mustafa Kemal ATATÜRK kaç yaşında : **145**. ### Mustafa Kemal ATATÜRK Fotoğrafları. Bu bölümde yer alan fotoğraflar, kişinin farklı dönemlerde ve farklı. anlatımı görsel olarak desteklemek ve zaman içindeki değişimi. Mustafa Kemal ATATÜRK resim - 12. Mustafa Kemal ATATÜRK resim - 11. Mustafa Kemal ATATÜRK resim - 10. Mustafa Kemal ATATÜRK resim - 9. Mustafa Kemal ATATÜRK resim - 8. Mustafa Kemal ATATÜRK resim - 7. Mustafa Kemal ATATÜRK resim - 6. Mustafa Kemal ATATÜRK resim - 5. Mustafa Kemal ATATÜRK resim - 4. Mustafa Kemal ATATÜRK resim - 3. Mustafa Kemal ATATÜRK resim - 2. Mustafa Kemal ATATÜRK resim - 1. #### Recep Tayyip Erdoğan. #### Medyum Memiş. #### Selen Erdem. #### Muhammed Yakut. #### Lal Denizli. #### Sedat Peker. #### Mian Tansen. #### Li Ka-shing. #### Lee Shau Kee. #### Eugene Cernan. #### Hilary Knight. #### Stefan Kraft. #### Recep Tayyip Erdoğan. #### Kübra Güran Yiğitbaşı. #### Mahir Günşiray. Tiyatro Oyuncusu, Dizi Oyuncusu, Sinema Oyuncusu. #### Hatice Aslan. #### Faik Öztürk. #### Haldun Solmaztürk. ### Bugün yükselen isimler. #### Necati Doğru. #### Haldun Solmaztürk. #### Başak Şengül. #### Mehmet Demiroğlu. #### Burhan Şeşen. #### Yüksel Yıldırım. #### Buse İskenderoğlu. #### Enes Batur. #### Necmettin Erbakan. #### Esra Erdoğan. ### Hakkımızda. Biyografiler.com, ünlü isimlerin hayat hikayelerini derleyen kapsamlı bir platformdur. Her yaşam bir iz bırakır. ### Hızlı Bağlantılar. ### Bizi Takip Edin. Biyografiler.com'da yer alan biyografi ve makalelerin tümü, Biyografiler.com editörleri tarafından hazırlanmaktadır. Dilediğiniz biyografi ve makaleyi, sitenizde, **\"Kaynak: Biyografiler.com\"** formatıyla kaynak göstererek kullanabilirsiniz. 20'den fazla biyografi ya da makaleyi, sitenizde toplu olarak kullanmayı düşünüyorsanız lütfen bizimle temasa geçiniz. Biyografiler.com sitemizde ünlülerin hayatı, kim kimdir, kim nerelidir, kaç yaşındadır gibi ünlüler hakkında merak ettiğiniz sorulara yanıtlar bulabilirsiniz. Biyografiler ile ilgili yorum ve düzeltmelerinizi bize iletebilirsiniz. © 2004 - 2026 Biyografiler.com | Tüm hakları saklıdır.",
+              "score": 0.7613,
+              "query": "Mustafa Kemal Atatürk resmi biyografi hayatı Cumhurbaşkanlığı Atatürk Araştırma Merkezi"
+            },
+            {
+              "number": 2,
+              "title": "Atatürk'ün Hayatı - İTÜ Geliştirme Vakfı Okulları",
+              "url": "https://www.itugvo.k12.tr/ataturk-un-hayati",
+              "content": "Atatürk'ün Hayatı\n\n# Atatürk'ün Hayatı\n\nMustafa Kemal Atatürk, Türk mareşal ve devlet adamı. Kurucusu olduğu Türkiye Cumhuriyetinde 1923'ten 1938'e kadar cumhurbaşkanı olarak görev yaptı. Doğum tarihi: 19 Mayıs 1881, Selanik, Yunanistan Ölüm tarihi ve yeri: 10 Kasım 1938, Dolmabahçe Sarayı, İstanbul Doğum: Ali Rıza oğlu Mustafa; 1881; Selanik, Selanik Vilayeti, Osmanlı İmparatorluğu Bitirdiği okul: Mekteb-i Harbiye-i Şahne; Mekteb-i Erkn-ı Harbiyye-i Şhne Rütbesi: Mareşal [...] > Mustafa Kemal Atatürk 1881 yılında Selnik'te Kocakasım Mahallesi, Islahhane Caddesi'ndeki üç katlı pembe evde doğdu. Babası Ali Rıza Efendi, annesi Zübeyde Hanım'dır. [...] 23 Temmuz - 7 Ağustos 1919 tarihleri arasında Erzurum, 4 - 11 Eylül 1919 tarihleri arasında da Sivas Kongresi'ni toplayarak vatanın kurtuluşu için izlenecek yolun belirlenmesini sağladı. 27 Aralık 1919'da Ankara'da heyecanla karşılandı. 23 Nisan 1920'de Türkiye Büyük Millet Meclisi'nin açılmasıyla Türkiye Cumhuriyeti'nin kurulması yolunda önemli bir adım atılmış oldu. Meclis ve Hükümet Başkanlığına Mustafa Kemal seçildi Türkiye Büyük Millet Meclisi, Kurtuluş Savaşı'nın başarıyla sonuçlanması",
+              "score": 0.7092,
+              "query": "Mustafa Kemal Atatürk hayatı doğumu eğitimi Kurtuluş Savaşı Cumhuriyet kronolojisi"
+            },
+            {
+              "number": 3,
+              "title": "Kronoloji - Millî Eğitim Bakanlığı",
+              "url": "https://www.meb.gov.tr/ataturk/Hayati/Kronoloji",
+              "content": "Mustafa Kemal ATATÜRK  \n\nMustafa Kemal  \nATATÜRK\n\nYAŞAM ÖYKÜSÜNDEKİ OLAYLAR DİZİNİ (1881-1938) [...] 20 Nisan 1919 - Mustafa Kemal, 9. Ordu Müfettişliği'ne atandı.  \n  30 Nisan 1919 - Mustafa Kemal, 9. Ordu Müfettişi olarak Anadolu'ya tayin edildi.  \n  15 Mayıs 1919  - Mustafa Kemal, Vahdettin'le görüştü.  \n  16 Mayıs 1919  - Mustafa Kemal, Bandırma Vapuru'yla İstanbul'dan Samsun'a hareket etti.  \n  19 Mayıs 1919  - Mustafa Kemal, Salı günü sabah saat sekizde Samsun'a çıktı.  \n   \n 28 Mayıs 1919 - Mustafa Kemal Paşa, Havza'da yayınla dığı genelge ile Kurtuluş Savaşı'm başlattı. [...] 10 Şubat 1902 - Mustafa Kemal, Harp Okulu'ndan mezun oldu. Kurmay Okulu'nda öğrenci iken tarihsel konulara ilgi duydu. Bu sıralarda kimi arkadaşlarıyla el yazısı bir dergi çıkardı.  \n   \n 11 Ocak 1905 - Mustafa Kemal, Harp Akademisi'nden Kurmay Yüzbaşı rütbesi ile mezun oldu. Merkezi Şam'da bulunan 5. ordu emrine verildi.  \n   \n 1906 - Mustafa Kemal, arkadaşlarıyla Şam'da \"Vatan ve Hürriyet Cemiyeti'ni\" kurdu.",
+              "score": 0.6892,
+              "query": "Mustafa Kemal Atatürk hayatı doğumu eğitimi Kurtuluş Savaşı Cumhuriyet kronolojisi"
+            },
+            {
+              "number": 4,
+              "title": "ATATÜRK’ÜN HAYATI | Kültür Portalı",
+              "url": "https://www.kulturportali.gov.tr/portal/ataturk-un-hayati",
+              "content": "# Türkiye Kültür Portalı Logo\n\nTürkiye Kültür Portalı Logo\n\n# ATATÜRK’ÜN HAYATI\n\nMustafa Kemal Atatürk'ün Hayatı (1881-1938)\n\nMustafa Kemal Atatürk, 1881 yılında Selânik'te Kocakasım Mahallesi, Islâhhâne Caddesi'ndeki üç katlı pembe evde doğdu.\n\nMustafa Kemal Atatürk'ün doğduğu ev, Selanik [...] Mustafa Kemal yönetimindeki Türk Kurtuluş Savaşı’nın önemli aşamaları şunlardır:\n\nSarıkamış (20 Eylül 1920), Kars (30 Ekim 1920) ve Gümrü'nün (7 Kasım 1920) kurtarılışı\n\nÇukurova, Antep, Maraş, Urfa savunmaları (1919- 1921)\n\nBirinci İnönü Zaferi (6 -10 Ocak 1921)\n\nİkinci İnönü Zaferi (23 Mart-1 Nisan 1921)\n\nSakarya Zaferi (23 Ağustos-13 Eylül 1921)\n\nBüyük Taarruz, Başkomutan Meydan Muharebesi ve Büyük Zafer (26 Ağustos 9 Eylül 1922) [...] Atatürk sık sık yurt gezilerine çıkarak devlet çalışmalarını yerinde denetledi. İlgililere aksayan yönlerle ilgili emirler verdi. Cumhurbaşkanı sıfatıyla Türkiye'yi ziyaret eden yabancı ülke devlet başkanlarını, başbakanlarını, bakanlarını ve komutanlarını ağırladı.15-20 Ekim 1927 tarihinde Kurtuluş Savaşı'nı ve Cumhuriyet'in kuruluşunu anlatan büyük nutkunu, 29 Ekim 1933 tarihinde de 10. Yıl Nutku'nu okudu.\n\nTBMM'de Nutuk'u okurken, Ankara, 1927",
+              "score": 0.6378,
+              "query": "Mustafa Kemal Atatürk hayatı doğumu eğitimi Kurtuluş Savaşı Cumhuriyet kronolojisi"
+            },
+            {
+              "number": 5,
+              "title": "Mustafa Kemal Ataturk (Mustafa Kemal Atatürk)",
+              "url": "https://deargone.com/10018/mustafa-kemal-ataturk",
+              "content": "Job / Known for: Founder and first president of Turkey. Left traces: Secular and modern reforms. Location: TR Salonica, Ottoman Empire. Date: 1938-11-10 (aged 57). Resting place: TR Anitkabir, Ankara. Spouse: Latife Uşaklıgil (1923-1925). Parent(s): Ali Rıza Efendi and Zübeyde Hanım. My QR code: Mustafa Kemal Ataturk. Key Ownner: Not yet supported by key owner. Fullname NoEnglish ## Mustafa Kemal Atatürk. Peace at home, peace in the world. Mustafa Kemal Ataturk was a Turkish soldier, statesman, and reformer who is widely regarded as the founder of the modern Republic of Turkey. He rose to prominence as a military commander in the Ottoman army during World War I, where he successfully defended the Gallipoli peninsula against the Allied invasion. After the war, he led the Turkish War of Independence against the occupying forces of the victorious powers. He established a provisional government in Ankara and repelled the Greek forces that aimed to annex western Anatolia. He abolished the Ottoman monarchy and proclaimed the Republic of Turkey in 1923, becoming its first president. He embarked on a series of radical reforms that transformed Turkey into a secular and westernized nation-state, with a new alphabet, civil code, education system, and women's rights. He also promoted Turkish nationalism and cultural identity, while suppressing Kurdish and other ethnic minorities. He is revered by many Turks as the \"Father of the Turks\" and the \"Great Leader\", and his mausoleum in Ankara is a national symbol. He is also widely respected internationally as a visionary leader and a military genius. He died of liver cirrhosis in 1938, leaving behind a lasting legacy of modernization and secularism. ### **Article for Mustafa Kemal Ataturk**. ### **Died profile like Mustafa Kemal Ataturk**. Type your opinion, wish or prayer for Mustafa Kemal Ataturk. To access this section, register or log in to your account.",
+              "score": 0.6362,
+              "query": "Mustafa Kemal Atatürk resmi biyografi hayatı Cumhurbaşkanlığı Atatürk Araştırma Merkezi"
+            },
+            {
+              "number": 6,
+              "title": "Atatürk'ün Hayatı",
+              "url": "https://www.ktb.gov.tr/TR-96300/ataturk39un-hayati.html",
+              "content": "Mustafa Kemal Atatürk 1881 yılında Selânik'te Kocakasım Mahallesi, Islâhhâne Caddesi'ndeki üç katlı pembe evde doğdu. Babası Ali Rıza Efendi, annesi Zübeyde Hanım'dır. Baba tarafından dedesi Hafız Ahmet Efendi XIV-XV. yüzyıllarda Konya ve Aydın'dan Makedonya'ya yerleştirilmiş Kocacık Yörüklerindendir. Annesi Zübeyde Hanım ise  Selânik yakınlarındaki Langaza kasabasına yerleşmiş eski bir Türk ailesinin kızıdır. Milis subaylığı, evkaf katipliği ve kereste ticareti yapan Ali Rıza Efendi, 1871 [...] Mustafa Kemal Atatürk (1881-1938)\n\nTÜRKİYE CUMHURİYETİ'NİN KURUCUSU VE İLK CUMHURBAŞKANI ATATÜRK [...] Mustafa Kemal yönetimindeki Türk Kurtuluş Savaşının önemli aşamaları şunlardır:\n\nSarıkamış (20 Eylül 1920), Kars (30 Ekim 1920) ve Gümrü'nün (7 Kasım 1920) kurtarılışı.\n\nÇukurova, Gazi Antep, Kahraman Maraş Şanlı Urfa savunmaları (1919- 1921)\n\nI. İnönü Zaferi (6 -10 Ocak 1921)\n\nII. İnönü Zaferi (23 Mart-1 Nisan 1921)\n\nSakarya Zaferi (23 Ağustos-13 Eylül 1921)\n\nBüyük Taarruz, Başkomutan Meydan Muhaberesi ve Büyük Zafer (26 Ağustos 9 Eylül 1922)",
+              "score": 0.6233,
+              "query": "Mustafa Kemal Atatürk hayatı doğumu eğitimi Kurtuluş Savaşı Cumhuriyet kronolojisi"
+            },
+            {
+              "number": 7,
+              "title": "Atatürk Araştırma Merkezi, Gazi Mustafa Kemal ...",
+              "url": "https://www.facebook.com/Atam.Baskanlik/posts/atat%C3%BCrk-ara%C5%9Ft%C4%B1rma-merkezi-gazi-mustafa-kemal-atat%C3%BCrk%C3%BCn-hayat%C4%B1n%C4%B1-fikirlerini-ve-m/1291816139714110",
+              "content": "Bu kapsamda öne çıkan en temel başvuru kaynaklarından biri olan Gazi Mustafa Kemal Atatürk'ün Hayatı, Atatürk'ün doğumundan vefatına kadar geçen",
+              "score": 0.6219,
+              "query": "Mustafa Kemal Atatürk resmi biyografi hayatı Cumhurbaşkanlığı Atatürk Araştırma Merkezi"
+            },
+            {
+              "number": 8,
+              "title": "Mustafa Kemal Atatürk",
+              "url": "https://tr.wikipedia.org/wiki/Mustafa_Kemal_Atat%C3%BCrk",
+              "content": "## Konuyla ilgili yayınlar\n\n Soyak, Hasan Rıza (2006). Atatürk'ten Hatıralar. İstanbul: Yapı Kredi Yayınları. ISBN 9750808827.\n\n## Dış bağlantılar\n\n|  |\n\n| Vikipedi'nin kardeş projelerinden Mustafa Kemal Atatürk hakkında daha fazla bilgi edinin |\n| Commons'ta ara | Commons'ta dosyalar |\n| Vikisöz'de ara | Vikisöz'de alıntılar |\n| Vikikaynak'ta ara | Vikikaynak'ta belgeler |\n\n Mustafa Kemal Atatürk'ün Hayatı, Türk Tarih Kurumu 23 Mayıs 2016 tarihinde Wayback Machine sitesinde arşivlendi.\n Atatürk Araştırma Merkezi Başkanlığı 8 Eylül 2012 tarihinde Wayback Machine sitesinde arşivlendi.\n Genelkurmay Başkanlığı'ndaki öz geçmişi\n IMDb'de Mustafa Kemal Atatürk Bunu Vikiveri'de düzenleyin\n Atatürk'ün Okuduğu Kitaplar (24 Cilt), Anıtkabir Derneği Yayınları.\n\n| Siyasi görevi | [...] | Türkiye Türkiye  Müşîr (1923-1935)   Mareşal \"Mareşal (Türkiye)\") (1935-günümüz) |  Mustafa Kemal Atatürk  Fevzi Çakmak | [...] 3. ↑ 1935'e kadar \"müşîr\".\n4. ↑ Doğum: Ali Rıza oğlu Mustafa; 1890'lardan 1911'e kadar: Mustafa Kemal; 1911'den 1916'ya kadar: Mustafa Kemal Bey; 1916'dan 1921'e kadar: Mustafa Kemal Paşa; 1921'den 1934'e kadar: Gazi Mustafa Kemal; 1934-1935'te: Kemal Atatürk; 1935'ten 1937'ye kadar: Kaml Atatürk; 1937'den ölümüne kadar: Kemal Atatürk. Ömrünün çok büyük bir kısmında taşıdığı Mustafa Kemal adıyla tanınır ve anılır. Time dergisi 19 Mayıs 1941 tarihli sayısında şunu yazdı: \"Yedi Adlı Adam. Bu sarışın, mavi gözlü, şen külhanbeyinin Kaml Atatürk olarak ölmeden önce yedi adı vardı.\" Ancak Atatürk, 1937 yılında adının eski yazılışına (Kemal) geri döndü.",
+              "score": 0.598,
+              "query": "Mustafa Kemal Atatürk resmi biyografi hayatı Cumhurbaşkanlığı Atatürk Araştırma Merkezi"
+            },
+            {
+              "number": 9,
+              "title": "Mustafa Kemal Atatürk",
+              "url": "https://www.listal.com/mustafa-kemal-ataturk",
+              "content": "in the early months of 1881, either in the Ahmed Subaşı neighbourhood or at a house (preserved as a museum) in Islahhane Street in the Koca Kasım Pasha neighbourhood in Salonica Ottoman Empire , to Zübeyde Hanım, a housewife, and Ali Rıza Efendi, a militia officer, title-deed clerk an Mustafa Kemal Atatürk was a Turkish army officer, revolutionary, and founder of the Republic of Turkey, serving as its first President from 1923 until his death in 1938. Ideologically a secularist and progressivist, his policies and theories became known as Kemalism. [...] Mustafa Kemal Atatürk was born (under the name Ali Rıza oğlu Mustafa) in the early months of 1881, either in the Ahmed Subaşı neighbourhood or at a house (preserved as a museum) in Islahhane Street in the Koca Kasım Pasha neighbourhood in Salonica Ottoman Empire , to Zübeyde Hanım, a housewife, and Ali Rıza Efendi, a militia officer, title-deed clerk and lumber trader. Only one of Mustafa's siblings, a sister named Makbule (Atadan) survived childhood; she died in 1956. There are so much theories about his ethnicity. According to some sources his father is of Turkmeni origin & his mother of Yörük / Turkish ancestry. Other sources are claiming that his father was Albanian, Slavic or Jewish. [...] He was born Mustafa, and his second name Kemal (meaning Perfection or Maturity) was given to him by his mathematics teacher, Captain Üsküplü Mustafa Efendi, \"in admiration of his capability and maturity\" according to Afet Inan, and , according to Ali Fuat Cebesoy, because his teacher wanted to distinguish his student who had the same name as him, although his biographer Andrew Mango suggests that he may have chosen the name himself as a tribute to the nationalist poet Namık Kemal.",
+              "score": 0.5841,
+              "query": "Mustafa Kemal Atatürk resmi biyografi hayatı Cumhurbaşkanlığı Atatürk Araştırma Merkezi"
+            },
+            {
+              "number": 10,
+              "title": "Kemal Ataturk | Biography, Reforms, Death, & Facts | Britannica",
+              "url": "https://www.britannica.com/biography/Kemal-Ataturk",
+              "content": "Ask the Chatbot Games & Quizzes History & Society Science & Tech Biographies Animals & Nature Geography & Travel Arts & Culture ProCon Money Videos\n\nBritannica AI Icon\n\nKemal Atatürk\n\nKemal Atatürk\nTurkey's founder and first president, Kemal Atatürk (né Mustafa Kemal).\n\n# Kemal Atatürk\n\npresident of Turkey\n\nAlso known as: Mustafa Kemal, Mustafa Kemal Paşa\n\nWritten by\n\nNorman Itzkowitz [...] At the secondary school, Mustafa received the nickname of Kemal, meaning “The Perfect One,” from his mathematics teacher; he was thereafter known as Mustafa Kemal. In 1895 he progressed to the military school in Monastir (now Bitola, North Macedonia). He made several new friends, including Ali Fethi (Okyar), who would later join him in the creation and development of the Turkish republic. [...] External Websites\n\n Al Jazeera - Ataturk’s secularist legacy\n Republic of Turkiye - Ministry of Foreign Affairs - Turkish Foreign Policy During Ataturk's Era\n 1914-1918 Online - International Encyclopedia of the First World War - Kemal, Mustafa (Atatï¿½rk)\n Australian War Memorial - Biography of Atatï¿½rk\n Republic of Tï¿½rkiye Ministry of Culture and Tourism - Biography of Atatï¿½rk\n History Today - Mustafa Kemal Ataturk dies in Istanbul\n\nBritannica Websites",
+              "score": 0.4413,
+              "query": "Mustafa Kemal Atatürk biyografisi mesleki ve sosyal profil TBMM"
+            }
+          ],
+          "web_search_used": true,
+          "web_queries": [
+            "Mustafa Kemal Atatürk resmi biyografi hayatı Cumhurbaşkanlığı Atatürk Araştırma Merkezi",
+            "Mustafa Kemal Atatürk hayatı doğumu eğitimi Kurtuluş Savaşı Cumhuriyet kronolojisi",
+            "Mustafa Kemal Atatürk biyografisi mesleki ve sosyal profil TBMM"
+          ]
+        }
+      ],
+      "created_at": "2026-09-02T05:49:21.838511+00:00",
+      "updated_at": "2026-09-19T14:25:42.601408+00:00"
+    },
+    {
+      "id": "b29b9dd0-a0f7-41a4-9149-89a090a91cb2",
+      "title": "günaydın",
+      "messages": [
+        {
+          "id": "546191ba-c4db-4270-8fdc-42e55d2a0797",
+          "role": "user",
+          "content": "günaydın",
+          "created_at": "2026-09-02T02:41:08.190021+00:00"
+        },
+        {
+          "id": "a989ca16-928a-4266-9900-79833acd8c85",
+          "role": "assistant",
+          "content": "Günaydın! Size nasıl yardımcı olabilirim?",
+          "sources": [
+            {
+              "number": 1,
+              "document_id": "ac867873-c844-4c7e-912c-3e5ff77c475d",
+              "document_name": "esraAl.pdf",
+              "chunk_position": 1,
+              "chunk": "r e D e v e l o p m e n t I n t e r n\nP o r t a k a l T e c h n o l o g y | J u n 2 0 2 5 – S e p 2 0 2 5\nW o r k e d o n D N S i n f r a s t r u c t u r e a n d n e t w o r k c o m m u n i c a t i o n p r o j e c t s .\nC r e a t e d a n d c o n f i g u r e d v i r t u a l s e r v e r s i n a v i r t u a l i z e d e n v i r o n m e n t .\nC o n f i g u r e d a n d m a n a g e d p f S e n s e v i r t u a l f i r e w a l l s y s t e m s .\nI m p l e m e n t e d s e r v e r c o n n e c t i v i t y a n d D N S c o n f i g u r a t i o n s .\nC o l l a b o r a t e d u s i n g G i t a n d G i t H u b f o r v e r s i o n c o n t r o l .\nG a i n e d h a n d s - o n e x p e r i e n c e w i t h n e t w o r k i n g a n d s e r v e r a d m i n i s t r a t i o n .\nA r t i f i c i a l I n t e l l i g e n c e I n t e r n\nF ı r a t U n i v e r s i t y | F e b 2 0 2 6 – J u n 2 0 2 6\nC o n d u c t e d r e s e a r c h o n L a r g e L a n g u a g e M o d e l s ( L L M s ) , G e n e r a t i v e A I , a n d A I A g e n t a r c h i t e c t u r e s .\nP a r t i c i p a t e d i n d a t a a n n o t a t i o n a n d d a t a s e t p r e p a r a t i o n t o s u p p o r t A I m o d e l d e v e l o p m e n t .\nA n a l y z e d A I m o d e l s , p r o m p t i n g t e c h n i q u e s , a n d e m e r g i n g A I t e c h n o l o g i e s .",
+              "score": 0.2715
+            },
+            {
+              "number": 2,
+              "document_id": "ac867873-c844-4c7e-912c-3e5ff77c475d",
+              "document_name": "esraAl.pdf",
+              "chunk_position": 2,
+              "chunk": "d d a t a s e t p r e p a r a t i o n t o s u p p o r t A I m o d e l d e v e l o p m e n t .\nA n a l y z e d A I m o d e l s , p r o m p t i n g t e c h n i q u e s , a n d e m e r g i n g A I t e c h n o l o g i e s .\nE v a l u a t e d A I - g e n e r a t e d o u t p u t s a n d c o n t r i b u t e d t o i m p r o v i n g d a t a q u a l i t y .\nE s r a C h a t – A I A g e n t B a s e d P e r s o n a l A s s i s t a n t\nD e v e l o p e d a m o d u l a r A I a s s i s t a n t b a c k e n d u s i n g F a s t A P I .\nD e s i g n e d R E S T A P I e n d p o i n t s f o r c h a t a n d p r o f i l e m a n a g e m e n t .\nI m p l e m e n t e d c o n v e r s a t i o n a n d m e m o r y i n f r a s t r u c t u r e f o r f u t u r e A I A g e n t f e a t u r e s .\nB u i l t a p r o m p t m a n a g e m e n t s y s t e m t o c u s t o m i z e L L M b e h a v i o r .\nI n t e g r a t e d S w a g g e r / O p e n A P I d o c u m e n t a t i o n .\nP r e p a r e d i n f r a s t r u c t u r e f o r l o c a l L L M i n t e g r a t i o n u s i n g O l l a m a .\nU s e d G i t f o r v e r s i o n c o n t r o l a n d p r o j e c t m a n a g e m e n t .\nA I S e n t i m e n t A n a l y s i s C h a t A p p l i c a t i o n\nB u i l t a n A I - p o w e r e d c h a t a p p l i c a t i o n w i t h s e n t i m e n t a n a l y s i s f e a t u r e s .\nD e v e l o p e d b a c k e n d A P I s u s i n g A S P .",
+              "score": 0.2685
+            },
+            {
+              "number": 3,
+              "document_id": "ac867873-c844-4c7e-912c-3e5ff77c475d",
+              "document_name": "esraAl.pdf",
+              "chunk_position": 0,
+              "chunk": "E S R A D U R M A Z\nJ u n i o r A I E n g i n e e r | P y t h o n & F a s t A P I D e v e l o p e r\nİ s t a n b u l / P e n d i k | + 9 0 5 5 3 8 6 4 8 8 7 2 | c o d e . e s r a d u r m a z @ g m a i l . c o m\ng i t h u b . c o m / E s r a 4 0 4 | l i n k e d i n . c o m / i n / e s r a 4 0 4 | e s r a d u r m a z b l o g . c o m . t r\nC A R E E R S U M M A R Y :\nF i n a l - y e a r C o m p u t e r E n g i n e e r i n g s t u d e n t p a s s i o n a t e a b o u t A r t i f i c i a l I n t e l l i g e n c e , L a r g e L a n g u a g e\nM o d e l s ( L L M s ) , a n d A I A g e n t s y s t e m s . E x p e r i e n c e d i n d e v e l o p i n g A I - p o w e r e d a p p l i c a t i o n s u s i n g\nP y t h o n , F a s t A P I , R E S T A P I s , a n d P o s t g r e S Q L . I n t e r e s t e d i n P r o m p t E n g i n e e r i n g , R A G a r c h i t e c t u r e s ,\nA I A g e n t s , M C P i n t e g r a t i o n s , a n d G e n e r a t i v e A I t e c h n o l o g i e s . C o n t i n u o u s l y l e a r n i n g m o d e r n A I\nf r a m e w o r k s a n d b u i l d i n g r e a l - w o r l d A I p r o j e c t s .\nS o f t w a r e D e v e l o p m e n t I n t e r n\nP o r t a k a l T e c h n o l o g y | J u n 2 0 2 5 – S e p 2 0 2 5\nW o r k e d o n D N S i n f r a s t r u c t u r e a n d n e t w o r k c o m m u n i c a t i o n p r o j e c t s .",
+              "score": 0.2608
+            },
+            {
+              "number": 4,
+              "document_id": "ac867873-c844-4c7e-912c-3e5ff77c475d",
+              "document_name": "esraAl.pdf",
+              "chunk_position": 3,
+              "chunk": "y s i s C h a t A p p l i c a t i o n\nB u i l t a n A I - p o w e r e d c h a t a p p l i c a t i o n w i t h s e n t i m e n t a n a l y s i s f e a t u r e s .\nD e v e l o p e d b a c k e n d A P I s u s i n g A S P . N E T C o r e .\nI n t e g r a t e d a P y t h o n - b a s e d A I s e r v i c e f o r s e n t i m e n t p r e d i c t i o n .\nI m p l e m e n t e d c o m m u n i c a t i o n b e t w e e n f r o n t e n d , b a c k e n d , a n d A I s e r v i c e t h r o u g h R E S T A P I s .\nD e p l o y e d f r o n t e n d a n d b a c k e n d u s i n g m o d e r n c l o u d h o s t i n g p l a t f o r m s .\nP y t h o n , F a s t A P I , P o s t g r e S Q L , O l l a m a\nR e a c t , . N E T C o r e A P I , P y t h o n , H u g g i n g F a c e\nW O R K E X P E R I E N C E :\nR E L E V A N T P R O J E C T S :\nT a s k M a n a g e r W e b A p p l i c a t i o n\nD e v e l o p e d a f u l l - s t a c k t a s k m a n a g e m e n t a p p l i c a t i o n .\nI m p l e m e n t e d u s e r a u t h e n t i c a t i o n a n d a u t h o r i z a t i o n w i t h J W T .\nC r e a t e d C R U D A P I s f o r t a s k o p e r a t i o n s .\nD e s i g n e d r e s p o n s i v e u s e r i n t e r f a c e s w i t h R e a c t .\nF l a s k , R e a c t , J W T A u t h e n t i c a t i o n\n\nG r a d u a t i o n : 2 0 2 6\nF ı r a t U n i v e r s i t y – B a c h e l o r o f C o m p u t e r E n g i n e e r i n g",
+              "score": 0.2459
+            },
+            {
+              "number": 5,
+              "document_id": "ac867873-c844-4c7e-912c-3e5ff77c475d",
+              "document_name": "esraAl.pdf",
+              "chunk_position": 4,
+              "chunk": "i n t e r f a c e s w i t h R e a c t .\nF l a s k , R e a c t , J W T A u t h e n t i c a t i o n\n\nG r a d u a t i o n : 2 0 2 6\nF ı r a t U n i v e r s i t y – B a c h e l o r o f C o m p u t e r E n g i n e e r i n g\nL a n g u a g e s : P y t h o n , C # , J a v a , J a v a S c r i p t\nA I T e c h n o l o g i e s : L L M s , O p e n A I A P I , P r o m p t E n g i n e e r i n g , A I A g e n t s , O l l a m a , H u g g i n g F a c e ,\nR A G , F u n c t i o n C a l l i n g\nF r a m e w o r k s : F a s t A P I , A S P . N E T C o r e , R E S T A P I\nD a t a b a s e s : P o s t g r e S Q L , S Q L S e r v e r , S Q L i t e , M y S Q L\nD e v e l o p e r T o o l s : G i t , G i t H u b , D o c k e r , P o s t m a n , V e r c e l , R e n d e r\nC u r r e n t l y L e a r n i n g : L a n g C h a i n , L a n g G r a p h , M C P , C h r o m a D B , V e c t o r D a t a b a s e s\nE D U C A T I O N :\nT E C H N I C A L S K I L L S :",
+              "score": 0.2231
+            }
+          ],
+          "created_at": "2026-09-02T02:41:08.190021+00:00",
+          "web_sources": [],
+          "web_search_used": false,
+          "web_queries": []
+        },
+        {
+          "id": "54a64529-b1ce-4fbb-8cf4-ab00838623fa",
+          "role": "user",
+          "content": "bu iki dökümanı özetle",
+          "created_at": "2026-09-02T03:02:16.717943+00:00"
+        },
+        {
+          "id": "9179a75e-cfa4-4b62-babd-78774824cd0c",
+          "role": "assistant",
+          "content": "## 1. Esra Durmaz’ın Özgeçmişi\n\nEsra Durmaz, Fırat Üniversitesi Bilgisayar Mühendisliği bölümünde eğitim gören ve 2026’da mezun olması beklenen bir öğrencidir. Yapay zekâ, büyük dil modelleri, yapay zekâ ajanları ve üretken yapay zekâ alanlarına ilgi duymaktadır. Python, FastAPI, REST API ve PostgreSQL kullanarak yapay zekâ destekli uygulamalar geliştirme deneyimine sahiptir. [Kaynak 1] [Kaynak 2]\n\nPortakal Technology’de Haziran–Eylül 2025 arasında yazılım geliştirme stajyeri olarak görev yapmıştır. Bu süreçte DNS altyapısı, ağ iletişimi, sanal sunucular, pfSense güvenlik duvarı sistemleri ve sunucu bağlantıları üzerinde çalışmış; Git ve GitHub kullanmıştır. [Kaynak 1] [Kaynak 3]\n\nFırat Üniversitesi’nde Şubat–Haziran 2026 arasında yapay zekâ stajı yapmış; LLM’ler, üretken yapay zekâ ve yapay zekâ ajanları üzerine araştırmalar yürütmüştür. Veri etiketleme, veri seti hazırlama, model ve prompt analizleri ile yapay zekâ çıktılarının değerlendirilmesi çalışmalarına katılmıştır. [Kaynak 3] [Kaynak 4]\n\nÖne çıkan projeleri arasında FastAPI tabanlı, REST API’lere sahip ve konuşma-hafıza altyapısı içeren **Esra Chat** kişisel asistanı; duygu analizi özellikli yapay zekâ sohbet uygulaması; ayrıca Flask, React ve JWT kimlik doğrulama kullanan görev yönetimi uygulaması bulunmaktadır. [Kaynak 2] [Kaynak 4] [Kaynak 5]\n\nTeknik becerileri arasında Python, C#, Java, JavaScript, FastAPI, ASP.NET Core, PostgreSQL, SQL Server, SQLite, MySQL, Docker, Git, GitHub, Vercel ve Render yer almaktadır. Ayrıca RAG, function calling, Ollama, Hugging Face, LangChain, LangGraph, MCP, ChromaDB ve vektör veritabanlarıyla ilgilenmektedir. [Kaynak 5]\n\n## 2. Nikola Tesla’nın Hayatı ve Çalışmaları\n\nNikola Tesla, alternatif akım sistemlerinin gelişmesine önemli katkılar sağlayan mucit ve elektrik mühendisidir. Alternatif akımın uzun mesafelere daha az kayıpla iletilmesini sağlayan AC motoru, en önemli çalışmalarından biridir. Bu çalışmalar, Edison ile yaşanan ve “Akımlar Savaşı” olarak bilinen süreçte alternatif akım sisteminin öne çıkmasına katkı sağlamıştır. [Kaynak 6]\n\nTesla’nın önemli buluşları arasında 1891’de geliştirdiği Tesla Bobini bulunur. Tesla Bobini, yüksek voltajlı ve yüksek frekanslı alternatif akım üretmiş ve kablosuz enerji iletimi deneylerinin temelini oluşturmuştur. Tesla ayrıca radyo frekansları, uzaktan kumanda, X-ışınları ve floresan ışık üzerine de çalışmalar yürütmüştür. İlk uzaktan kumandalı tekne gösterilerinden birini gerçekleştirmiştir. [Kaynak 6]\n\nTesla, dünya çapında kablosuz iletişim ve elektrik iletimini amaçlayan Wardenclyffe Kulesi projesini başlatmıştır. Ancak mali destekçisi J. P. Morgan’ın desteğini çekmesi nedeniyle proje tamamlanamamıştır. Tesla, yaşamının son yıllarını New Yorker Oteli’nde geçirmiş ve 7 Ocak 1943’te 86 yaşında hayatını kaybetmiştir. Manyetik akı yoğunluğu birimi “Tesla” ve Tesla şirketi onun anısına adlandırılmıştır. [Kaynak 6]",
+          "sources": [
+            {
+              "number": 1,
+              "document_id": "ac867873-c844-4c7e-912c-3e5ff77c475d",
+              "document_name": "esraAl.pdf",
+              "chunk_position": 0,
+              "chunk": "E S R A D U R M A Z\nJ u n i o r A I E n g i n e e r | P y t h o n & F a s t A P I D e v e l o p e r\nİ s t a n b u l / P e n d i k | + 9 0 5 5 3 8 6 4 8 8 7 2 | c o d e . e s r a d u r m a z @ g m a i l . c o m\ng i t h u b . c o m / E s r a 4 0 4 | l i n k e d i n . c o m / i n / e s r a 4 0 4 | e s r a d u r m a z b l o g . c o m . t r\nC A R E E R S U M M A R Y :\nF i n a l - y e a r C o m p u t e r E n g i n e e r i n g s t u d e n t p a s s i o n a t e a b o u t A r t i f i c i a l I n t e l l i g e n c e , L a r g e L a n g u a g e\nM o d e l s ( L L M s ) , a n d A I A g e n t s y s t e m s . E x p e r i e n c e d i n d e v e l o p i n g A I - p o w e r e d a p p l i c a t i o n s u s i n g\nP y t h o n , F a s t A P I , R E S T A P I s , a n d P o s t g r e S Q L . I n t e r e s t e d i n P r o m p t E n g i n e e r i n g , R A G a r c h i t e c t u r e s ,\nA I A g e n t s , M C P i n t e g r a t i o n s , a n d G e n e r a t i v e A I t e c h n o l o g i e s . C o n t i n u o u s l y l e a r n i n g m o d e r n A I\nf r a m e w o r k s a n d b u i l d i n g r e a l - w o r l d A I p r o j e c t s .\nS o f t w a r e D e v e l o p m e n t I n t e r n\nP o r t a k a l T e c h n o l o g y | J u n 2 0 2 5 – S e p 2 0 2 5\nW o r k e d o n D N S i n f r a s t r u c t u r e a n d n e t w o r k c o m m u n i c a t i o n p r o j e c t s .",
+              "score": 0.4175
+            },
+            {
+              "number": 2,
+              "document_id": "ac867873-c844-4c7e-912c-3e5ff77c475d",
+              "document_name": "esraAl.pdf",
+              "chunk_position": 3,
+              "chunk": "y s i s C h a t A p p l i c a t i o n\nB u i l t a n A I - p o w e r e d c h a t a p p l i c a t i o n w i t h s e n t i m e n t a n a l y s i s f e a t u r e s .\nD e v e l o p e d b a c k e n d A P I s u s i n g A S P . N E T C o r e .\nI n t e g r a t e d a P y t h o n - b a s e d A I s e r v i c e f o r s e n t i m e n t p r e d i c t i o n .\nI m p l e m e n t e d c o m m u n i c a t i o n b e t w e e n f r o n t e n d , b a c k e n d , a n d A I s e r v i c e t h r o u g h R E S T A P I s .\nD e p l o y e d f r o n t e n d a n d b a c k e n d u s i n g m o d e r n c l o u d h o s t i n g p l a t f o r m s .\nP y t h o n , F a s t A P I , P o s t g r e S Q L , O l l a m a\nR e a c t , . N E T C o r e A P I , P y t h o n , H u g g i n g F a c e\nW O R K E X P E R I E N C E :\nR E L E V A N T P R O J E C T S :\nT a s k M a n a g e r W e b A p p l i c a t i o n\nD e v e l o p e d a f u l l - s t a c k t a s k m a n a g e m e n t a p p l i c a t i o n .\nI m p l e m e n t e d u s e r a u t h e n t i c a t i o n a n d a u t h o r i z a t i o n w i t h J W T .\nC r e a t e d C R U D A P I s f o r t a s k o p e r a t i o n s .\nD e s i g n e d r e s p o n s i v e u s e r i n t e r f a c e s w i t h R e a c t .\nF l a s k , R e a c t , J W T A u t h e n t i c a t i o n\n\nG r a d u a t i o n : 2 0 2 6\nF ı r a t U n i v e r s i t y – B a c h e l o r o f C o m p u t e r E n g i n e e r i n g",
+              "score": 0.4085
+            },
+            {
+              "number": 3,
+              "document_id": "ac867873-c844-4c7e-912c-3e5ff77c475d",
+              "document_name": "esraAl.pdf",
+              "chunk_position": 1,
+              "chunk": "r e D e v e l o p m e n t I n t e r n\nP o r t a k a l T e c h n o l o g y | J u n 2 0 2 5 – S e p 2 0 2 5\nW o r k e d o n D N S i n f r a s t r u c t u r e a n d n e t w o r k c o m m u n i c a t i o n p r o j e c t s .\nC r e a t e d a n d c o n f i g u r e d v i r t u a l s e r v e r s i n a v i r t u a l i z e d e n v i r o n m e n t .\nC o n f i g u r e d a n d m a n a g e d p f S e n s e v i r t u a l f i r e w a l l s y s t e m s .\nI m p l e m e n t e d s e r v e r c o n n e c t i v i t y a n d D N S c o n f i g u r a t i o n s .\nC o l l a b o r a t e d u s i n g G i t a n d G i t H u b f o r v e r s i o n c o n t r o l .\nG a i n e d h a n d s - o n e x p e r i e n c e w i t h n e t w o r k i n g a n d s e r v e r a d m i n i s t r a t i o n .\nA r t i f i c i a l I n t e l l i g e n c e I n t e r n\nF ı r a t U n i v e r s i t y | F e b 2 0 2 6 – J u n 2 0 2 6\nC o n d u c t e d r e s e a r c h o n L a r g e L a n g u a g e M o d e l s ( L L M s ) , G e n e r a t i v e A I , a n d A I A g e n t a r c h i t e c t u r e s .\nP a r t i c i p a t e d i n d a t a a n n o t a t i o n a n d d a t a s e t p r e p a r a t i o n t o s u p p o r t A I m o d e l d e v e l o p m e n t .\nA n a l y z e d A I m o d e l s , p r o m p t i n g t e c h n i q u e s , a n d e m e r g i n g A I t e c h n o l o g i e s .",
+              "score": 0.4002
+            },
+            {
+              "number": 4,
+              "document_id": "ac867873-c844-4c7e-912c-3e5ff77c475d",
+              "document_name": "esraAl.pdf",
+              "chunk_position": 2,
+              "chunk": "d d a t a s e t p r e p a r a t i o n t o s u p p o r t A I m o d e l d e v e l o p m e n t .\nA n a l y z e d A I m o d e l s , p r o m p t i n g t e c h n i q u e s , a n d e m e r g i n g A I t e c h n o l o g i e s .\nE v a l u a t e d A I - g e n e r a t e d o u t p u t s a n d c o n t r i b u t e d t o i m p r o v i n g d a t a q u a l i t y .\nE s r a C h a t – A I A g e n t B a s e d P e r s o n a l A s s i s t a n t\nD e v e l o p e d a m o d u l a r A I a s s i s t a n t b a c k e n d u s i n g F a s t A P I .\nD e s i g n e d R E S T A P I e n d p o i n t s f o r c h a t a n d p r o f i l e m a n a g e m e n t .\nI m p l e m e n t e d c o n v e r s a t i o n a n d m e m o r y i n f r a s t r u c t u r e f o r f u t u r e A I A g e n t f e a t u r e s .\nB u i l t a p r o m p t m a n a g e m e n t s y s t e m t o c u s t o m i z e L L M b e h a v i o r .\nI n t e g r a t e d S w a g g e r / O p e n A P I d o c u m e n t a t i o n .\nP r e p a r e d i n f r a s t r u c t u r e f o r l o c a l L L M i n t e g r a t i o n u s i n g O l l a m a .\nU s e d G i t f o r v e r s i o n c o n t r o l a n d p r o j e c t m a n a g e m e n t .\nA I S e n t i m e n t A n a l y s i s C h a t A p p l i c a t i o n\nB u i l t a n A I - p o w e r e d c h a t a p p l i c a t i o n w i t h s e n t i m e n t a n a l y s i s f e a t u r e s .\nD e v e l o p e d b a c k e n d A P I s u s i n g A S P .",
+              "score": 0.3952
+            },
+            {
+              "number": 5,
+              "document_id": "ac867873-c844-4c7e-912c-3e5ff77c475d",
+              "document_name": "esraAl.pdf",
+              "chunk_position": 4,
+              "chunk": "i n t e r f a c e s w i t h R e a c t .\nF l a s k , R e a c t , J W T A u t h e n t i c a t i o n\n\nG r a d u a t i o n : 2 0 2 6\nF ı r a t U n i v e r s i t y – B a c h e l o r o f C o m p u t e r E n g i n e e r i n g\nL a n g u a g e s : P y t h o n , C # , J a v a , J a v a S c r i p t\nA I T e c h n o l o g i e s : L L M s , O p e n A I A P I , P r o m p t E n g i n e e r i n g , A I A g e n t s , O l l a m a , H u g g i n g F a c e ,\nR A G , F u n c t i o n C a l l i n g\nF r a m e w o r k s : F a s t A P I , A S P . N E T C o r e , R E S T A P I\nD a t a b a s e s : P o s t g r e S Q L , S Q L S e r v e r , S Q L i t e , M y S Q L\nD e v e l o p e r T o o l s : G i t , G i t H u b , D o c k e r , P o s t m a n , V e r c e l , R e n d e r\nC u r r e n t l y L e a r n i n g : L a n g C h a i n , L a n g G r a p h , M C P , C h r o m a D B , V e c t o r D a t a b a s e s\nE D U C A T I O N :\nT E C H N I C A L S K I L L S :",
+              "score": 0.3748
+            },
+            {
+              "number": 6,
+              "document_id": "5afd5500-e2b3-45d3-a93f-99208d8846a1",
+              "document_name": "nikola_tesla_hayati.pdf",
+              "chunk_position": 1,
+              "chunk": "'a sattı. Bu gelişme, tarihe geçen \"Akımlar\nSavaşı\"nda Alternatif Akım'ın zaferiyle sonuçlandı.\n3. Önemli Buluşları ve İnovasyonları\nAlternatif Akım (AC) Motoru: Uzun mesafelere kayıpsız elektrik iletimini mümkün kıldı.\nTesla Bobini (1891): Yüksek voltajlı ve yüksek frekanslı alternatif akım üreten, kablosuz enerji iletimi deneylerinin temeli\nolan cihaz.\nRadyo ve Uzaktan Kumanda: Guglielmo Marconi'den önce radyo frekansları ve uzaktan kumandalı teknoloji üzerine çalıştı\nve ilk kumandalı tekne gösterisini gerçekleştirdi.\nX-Işınları ve Floresan Işık: X-ışınlarının tıp ve görüntülemedeki potansiyelini ilk fark edenlerden biri oldu.\n4. Wardenclyffe Kulesi ve Son Yılları\nTesla, dünyadaki tüm iletişim ve elektriği kablosuz hale getirmeyi amaçlayan **Wardenclyffe Kulesi** projesini başlattı. Ancak\nmali destekçisi J.P. Morgan'ın fonu kesmesi üzerine proje yarım kaldı. \nÖmrünün son yıllarını New Yorker Oteli'nde yalnızlık içinde, teorik projeler ve fikirler üreterek geçirdi. 7 Ocak 1943 tarihinde 86\nyaşında hayatını kaybetti. Günümüzde manyetik akı yoğunluğu birimi olan **Tesla (T)** ve elektrikli araç devi Tesla Inc., onun\nanısına adlandırılmıştır. \n• \n• \n• \n• \n• \n• \n• \n• \n•",
+              "score": 0.2774
+            }
+          ],
+          "created_at": "2026-09-02T03:02:16.717943+00:00",
+          "web_sources": [],
+          "web_search_used": false,
+          "web_queries": []
+        }
+      ],
+      "created_at": "2026-09-02T02:40:24.080180+00:00",
+      "updated_at": "2026-09-02T03:02:16.722849+00:00"
+    },
+    {
+      "id": "11ad772b-0b67-437b-b8e7-9797b677e1f4",
+      "title": "selam",
+      "messages": [
+        {
+          "id": "fc8d512b-413a-4358-8c29-7a3a99784722",
+          "role": "user",
+          "content": "selam",
+          "created_at": "2026-09-01T19:05:36.409188+00:00"
+        },
+        {
+          "id": "d6e53a7b-e1d9-48c1-8304-f978017a06d2",
+          "role": "assistant",
+          "content": "Selam! Size nasıl yardımcı olabilirim?",
+          "sources": [
+            {
+              "number": 1,
+              "document_id": "fae6807c-8932-45a5-b784-eebf6a78fa0f",
+              "document_name": "Ali Haydar Cimen.pdf",
+              "chunk_position": 0,
+              "chunk": "Java | Spring Boot | Apache Kafka | Microservices | Oracle DB | Resilience| Monitoring |\nGrafana | React\nVodafone – Macellan Project\nDeveloped backend services for a microservice-based traffic visualization platform\nIntegrated real-time device data into Graph Database infrastructure\nManaged data flow and ensured high scalability in distributed systems\nContributed to performance optimization and service reliability\nSelçuk University – B.Sc. in\nComputer Engineering (2023)\nVakko\nDeveloped and maintained backend systems using Java and Spring-based technologies\nDesigned and supported RESTful and SOAP web services\nBuilt responsive and user-friendly interfaces using Angular and React\nLed the transformation of a legacy monolithic system into a modular monolith architecture,\nimproving maintainability and scalability\nContributed to digital transformation initiatives by modernizing legacy systems\nCollaborated with cross-functional teams to improve system performance and reliability\nJul 2023 ~ Jan 2025\nSep 2022 ~ Feb 2023\nJAVA BACKEND DEVELOPER\nAli Haydar Cimen\nPROFESSIONAL EXPERIENCE\nEDUCATION\nKEY COMPETENCIES\nYapikredi Teknoloji\nDeveloped and maintained microservice-based banking solutions using Spring Boot, Kafka\nand cloud tools\nDelivered stable, high-performance and secure systems while improving data flow and\noverall service quality",
+              "score": 0.2279
+            },
+            {
+              "number": 2,
+              "document_id": "fae6807c-8932-45a5-b784-eebf6a78fa0f",
+              "document_name": "Ali Haydar Cimen.pdf",
+              "chunk_position": 1,
+              "chunk": "eknoloji\nDeveloped and maintained microservice-based banking solutions using Spring Boot, Kafka\nand cloud tools\nDelivered stable, high-performance and secure systems while improving data flow and\noverall service quality\nDesigned and optimized RESTful services for high-volume financial transactions\nContributed to designing scalable and resilient distributed system architecture using event-\ndriven communication and fault-tolerant patterns.\nJan 2025 ~ Present\n📞 +90 531 724 86 66 | 📧 alihaydar.cmn@gmail.com | 💻 https://github.com/alicmn | \n🔗 https://www.linkedin.com/in/ali-haydar-cimen",
+              "score": 0.2026
+            }
+          ],
+          "created_at": "2026-09-01T19:05:36.409188+00:00",
+          "web_sources": [],
+          "web_search_used": false,
+          "web_queries": []
+        },
+        {
+          "id": "bd208b81-0a1c-49c3-95a1-2049d66543ad",
+          "role": "user",
+          "content": "türkiyenin başkenti neresidir",
+          "created_at": "2026-09-01T19:07:25.230199+00:00"
+        },
+        {
+          "id": "9f6d69e4-0076-4e44-aa6f-456011c834da",
+          "role": "assistant",
+          "content": "Türkiye'nin başkenti Ankara'dır. Başkent, 13 Ekim 1923 tarihinde Cumhuriyetin ilan edilmesiyle başkent olarak seçilmiştir. Başka bir konuda yardımcı olabilir miyim?",
+          "sources": [],
+          "created_at": "2026-09-01T19:07:25.230199+00:00",
+          "web_sources": [],
+          "web_search_used": false,
+          "web_queries": []
+        }
+      ],
+      "created_at": "2026-09-01T14:01:32.964353+00:00",
+      "updated_at": "2026-09-01T19:07:25.232820+00:00"
+    },
+    {
+      "id": "baa234d5-e7af-4f8f-adcb-2adeb541f987",
+      "title": "bu kim kısaca özetle",
+      "messages": [
+        {
+          "id": "af3150ef-93a5-4b9a-b3ca-1ef9ec752784",
+          "role": "user",
+          "content": "bu kim kısaca özetle",
+          "created_at": "2026-08-30T14:56:03.415324+00:00"
+        },
+        {
+          "id": "79ddb642-a698-4374-ac21-a118c2d6a3bc",
+          "role": "assistant",
+          "content": "Necip Şahamettin Küçük, kurumsal yapay zekâ, LLM, RAG ve otonom AI ajanları üzerine çalışan kıdemli bir yapay zekâ mühendisidir. Obilet’te müşteri destek taleplerinin %89’unu %97 doğrulukla otomatik çözen bir AI ajanı geliştirmiştir. [Kaynak 4]\n\nDaha önce açık kaynak LLM, RAG, belge işleme, bilgisayarlı görü ve üretim yapay zekâ sistemleri üzerinde çalışmıştır. [Kaynak 2] Ayrıca havaalanı pistlerinde yabancı cisim tespiti üzerine yüksek lisans yapmış ve bu alanda akademik yayın üretmiştir. [Kaynak 5]\n\nTEKNOFEST, Samsung Innovation Campus ve TÜBİTAK projelerinde ödüller kazanmış; UAV, yangın tespiti ve hava savunma sistemleri gibi projeler geliştirmiştir. [Kaynak 6]",
+          "sources": [
+            {
+              "number": 1,
+              "document_id": "84ec1464-47d1-45e5-a937-675e31bd6ce8",
+              "document_name": "Necip_Sahamettin_Kucuk_LLM_Engineer_CV.pdf",
+              "chunk_position": 9,
+              "chunk": "KNOFEST UAV Free Category 2022\nDeveloped a vision-guided rescue UAV that deploys life rings and uses a retrieval net with up to 15 kg carrying capacity. Star\nNews Coverage\nTÜBİTAK 2209-A — Aircraft Generator Backup 2022\nDeveloped a backup system that maintains a fixed 400 Hz aircraft electrical frequency.\nVOLUNTEER EXPERIENCE\nVolunteer Online Course Training Support — UNDP Aug 2024 – Dec 2024\nDelivered online training to children from various parts of Africa, covering Python, machine learning, data science and large\nlanguage models.\nGitHub & Content Management Support — UNDP Istanbul International Center for Private\nSector in Development\nDec 2024 – Present\nCreated and maintained LLM and deep-learning training materials for the Frontier Tech Leaders Programme and DS4SDGs\nrepositories; reviewed and resolved content issues on GitHub. LLM Colab · Deep Learning Notebook\n3 / 3",
+              "score": 0.3382
+            },
+            {
+              "number": 2,
+              "document_id": "84ec1464-47d1-45e5-a937-675e31bd6ce8",
+              "document_name": "Necip_Sahamettin_Kucuk_LLM_Engineer_CV.pdf",
+              "chunk_position": 3,
+              "chunk": "obotics Jun 2024 – Nov 2025\nIntegrated an open-source LLM to eliminate dependency on paid model APIs and developed a modular RAG and information-\nretrieval platform supporting PDF, DOC, CSV, Excel, TXT and JSON sources.\nEnabled natural-language interaction with large Excel, CSV and SQL datasets, allowing non-technical users to perform\ndatabase operations without writing SQL.\nBuilt universal document-processing pipelines for text and entity extraction, completeness checks and retrieval, alongside\nreal-time facial/speech emotion recognition and context-preserving translation.\nCreated an AI CV–job matching system that scores similarity, evaluates qualifications, generates suitability reports and ranks\ncandidates.\nYouTube Demos\nSoftware Developer & AI Researcher — TÜBİTAK 1001 Project, Fırat University Oct 2023 – Jun 2024\nResearched Transformer and encoder–decoder architectures, NLP optimization and projection methods; studied DETR,\nYOLO, D-FINE, ResNet, DenseNet and EfficientNet and built demonstration applications.\nComputer Vision Intern — Arçelik, Washing Machine Plant Jul 2023 – Sep 2023\nDeveloped a two-camera, YOLO-based production-line tracking system using real-time image processing at the Çayırova\nwashing machine plant. YouTube Demo · GitHub\nEngineering Intern — Turkish Technic Jun 2022 – Aug 2022",
+              "score": 0.3289
+            },
+            {
+              "number": 3,
+              "document_id": "84ec1464-47d1-45e5-a937-675e31bd6ce8",
+              "document_name": "Necip_Sahamettin_Kucuk_LLM_Engineer_CV.pdf",
+              "chunk_position": 4,
+              "chunk": "3\nDeveloped a two-camera, YOLO-based production-line tracking system using real-time image processing at the Çayırova\nwashing machine plant. YouTube Demo · GitHub\nEngineering Intern — Turkish Technic Jun 2022 – Aug 2022\nDeveloped hardware for stress-testing aircraft tray-table support assemblies at Sabiha Gökçen Airport (SAW). YouTube Demo\n1 / 3\n\nSELECTED PRODUCTION AI SYSTEMS — OBILET\nAI Hotel Image Selection\nDeveloped an AI workflow that evaluates hotel media and\nselects the most suitable images for presentation, reducing\nmanual visual curation.\nLLM-Based Hotel Badge Generation\nBuilt a system that analyzes hotel information and guest\nreviews, identifies differentiating attributes and generates\ncontext-appropriate hotel badges.\nAutonomous Jira-to-Code Delivery Agent\nConnected Jira, GitHub and GitHub Copilot so an AI agent can\ninterpret a task, implement the change and commit it;\nproduction release remains gated by manager approval.\nEvent-Driven Story-Point Estimation\nDesigned a Jira webhook → AWS Lambda → OpenAI\nworkflow that estimates task complexity and automatically\nwrites the story point back to the Jira issue.\nTECHNICAL SKILLS\nEnterprise AI & LLMs AI agents, multi-agent orchestration, tool/function calling, RAG, NLP, information retrieval, context\nengineering, prompt engineering, LLM evaluation, model optimization, Transformers, embeddings,",
+              "score": 0.2865
+            },
+            {
+              "number": 4,
+              "document_id": "84ec1464-47d1-45e5-a937-675e31bd6ce8",
+              "document_name": "Necip_Sahamettin_Kucuk_LLM_Engineer_CV.pdf",
+              "chunk_position": 0,
+              "chunk": "Necip Şahamettin KÜÇÜK\nSenior Artificial Intelligence Engineer | Enterprise AI, Agentic AI, RAG & Cloud\nPlatforms\nIstanbul, Türkiye • +90 534 589 81 60 • necamettinkck@gmail.com • LinkedIn • GitHub\nPROFESSIONAL SUMMARY\nArtificial Intelligence Engineer specializing in turning cognitive and operational work into reliable production AI systems. Designs\nand ships agentic AI, RAG, NLP and intelligent automation from business discovery and PoC through secure AWS architecture,\nenterprise integration, LLMOps, evaluation and production monitoring. Built customer-service AI systems that autonomously\nresolve 89% of eligible support tickets at 97% validation accuracy and deliver capacity equivalent to 4.64 person-months of\nwork.\nPROFESSIONAL EXPERIENCE\nArtificial Intelligence Engineer — Obilet Nov 2025 – Present\nDeveloped an AI ticket-resolution agent that autonomously answers 89% of customer-support tickets with 97% accuracy,\nshifting repetitive resolution work from the CX team to AI and providing workload capacity equivalent to 4.64 person-months.\nOwn LLM features end to end: identify high-impact use cases, build working PoCs with Python APIs and Next.js/Tailwind CSS\ninterfaces, present demos and business value to management and the CTO, and productionize approved initiatives through\nJira delivery workflows.",
+              "score": 0.2745
+            },
+            {
+              "number": 5,
+              "document_id": "84ec1464-47d1-45e5-a937-675e31bd6ce8",
+              "document_name": "Necip_Sahamettin_Kucuk_LLM_Engineer_CV.pdf",
+              "chunk_position": 7,
+              "chunk": ", APIs and enterprise\nknowledge repositories.\nLLMOps & Governance: Apply CI/CD, agent evaluation,\nmonitoring, observability, RBAC, cybersecurity, data privacy\nand Responsible AI controls for reliable, auditable systems.\nAdvanced Analytics: Develop machine-learning,\noptimization, simulation, forecasting, risk-modeling and Digital\nTwin solutions for operational use cases.\nRegulated AI Readiness: Transfer production AI, document\nintelligence and governance experience to banking and KYC\nworkflows; actively developing domain knowledge in financial\ncrime and model governance.\nEDUCATION\nM.Sc., Aviation Sciences and Technologies — Fırat University 2022 – 2025\nGPA: 3.38/4.00 · Thesis: Deep Learning Approach for Foreign Object Detection on Airport Runways — compared\nYOLOv5s, YOLOv8s and YOLOv11-s; YOLOv11-s achieved 0.861 F1 and 0.826 recall with 9.45M parameters.\nB.Sc., Computer Engineering (Double Major) — Fırat University 2020 – 2024\nGPA: 3.00/4.00\nB.Sc., Aircraft Electrical & Electronics — Fırat University 2018 – 2022\nGPA: 3.22/4.00\n2 / 3\n\nSELECTED PUBLICATION & RESEARCH\nDetection and Classification of Foreign Object Debris (FOD) with Comparative Deep Learning\nAlgorithms in Airport Runways\nFeb 2025\nSignal, Image and Video Processing, 19:316. Built a 71-class, 33,286-image dataset and evaluated YOLOv5/YOLOv8 models;\nachieved up to 0.907 F-measure and 0.939 mAP@0.5.",
+              "score": 0.2742
+            },
+            {
+              "number": 6,
+              "document_id": "84ec1464-47d1-45e5-a937-675e31bd6ce8",
+              "document_name": "Necip_Sahamettin_Kucuk_LLM_Engineer_CV.pdf",
+              "chunk_position": 8,
+              "chunk": "eep Learning\nAlgorithms in Airport Runways\nFeb 2025\nSignal, Image and Video Processing, 19:316. Built a 71-class, 33,286-image dataset and evaluated YOLOv5/YOLOv8 models;\nachieved up to 0.907 F-measure and 0.939 mAP@0.5. DOI · DBLP Author Profile\nTwo Oral Presentations — 14th International Al-Farabi Scientific Research and Innovation Congress Apr 2025\nPresented YOLOv11-based real-time FOD detection systems using the FOD-Runway and custom FOD-A datasets.\nSELECTED ACHIEVEMENTS & PROJECTS\n1st Place — TEKNOFEST Air Defense Systems, Critical Design Review 2024\n1st in the Critical Design Review phase with HİSAR; developed real-time target tracking and automated firing algorithms.\n1st Place — Samsung Innovation Campus 2023\nBuilt a UAV-based real-time forest-fire detection application with a 95% success rate. Samsung Story · GitHub · Demo\nTÜBİTAK 1002 — Airport Runway FOD Detection 2024\nContributed to a Fırat University BAP-supported deep-learning research project.\nSemEval Food Hazard Detection Challenge 2025\nRanked 36th worldwide in food hazard and product-category detection. Leaderboard\nFinalist — TEKNOFEST UAV Free Category 2022\nDeveloped a vision-guided rescue UAV that deploys life rings and uses a retrieval net with up to 15 kg carrying capacity. Star\nNews Coverage\nTÜBİTAK 2209-A — Aircraft Generator Backup 2022",
+              "score": 0.2302
+            }
+          ],
+          "created_at": "2026-08-30T14:56:03.415324+00:00",
+          "web_sources": [],
+          "web_search_used": false,
+          "web_queries": []
+        },
+        {
+          "id": "d971e067-f328-456d-b590-d7f96380115c",
+          "role": "user",
+          "content": "araştır bakalım hakkında başka ne bulabileceksin",
+          "created_at": "2026-08-30T14:56:33.992101+00:00"
+        },
+        {
+          "id": "5ceb21f5-d776-4193-8e9c-7a541fcbf3dc",
+          "role": "assistant",
+          "content": "Verilen web sonuçlarına göre Necip Şahamettin Küçük hakkında CV’sine ek olarak şunlar bulunuyor:\n\n- **Obilet’te çalışıyor** ve İstanbul/Pendik merkezli görünüyor. LinkedIn profilinde Fırat Üniversitesi’nde uçak elektrik-elektroniği, bilgisayar mühendisliği ve havacılık bilimleriyle ilişkili eğitim geçmişi yer alıyor. [Web 2] [Web 5]\n- **Samsung Innovation Campus programında birincilik elde eden ekibin parçası.** Ekibin “Real-Time Forest Fire Detection AI” projesi, orman yangınlarını erken tespit etmeyi hedefliyor ve %95 başarı oranıyla tanıtılmış. [Web 1] [Web 3] [Web 5]\n- Yangın tespit projesinde yalnızca model geliştirme değil, **rüzgâr yönü gibi özelliklerin kullanıldığı bir feature engineering yaklaşımı** da belirtiliyor. [Web 5]\n- Projeye ilişkin açıklamasında amaçlarının yangınları erken tespit ederek **yayılmayı ve oluşacak zararı azaltmak** olduğunu ifade etmiş. [Web 3]\n- Akademik olarak, havaalanı pistlerinde **yabancı cisim tespiti** üzerine çalışmaları bulunuyor. Fırat Üniversitesi’nin yayın/performans kaydında da bu konuya ilişkin 2025 tarihli çalışması listelenmiş. [Web 4]\n- Araştırma profillerinde, pistlerde yabancı cisim tespiti için veri kümesi oluşturulması ve derin öğrenme yöntemlerinin kullanılmasıyla ilgili yayın bilgileri yer alıyor. [Web 9]\n- Gönüllülük kapsamında UNDP ile Afrika’daki çocuklara **Python, makine öğrenmesi, veri bilimi ve büyük dil modelleri** konularında çevrim içi eğitim desteği vermiş; ayrıca UNDP İstanbul merkezinin teknik içerik ve GitHub çalışmalarına katkıda bulunmuş. [Kaynak 1]\n- Web profillerinde TEKNOFEST “Serbest Görev İHA” ve TEI Havacılık Motorları Okulu gibi sertifika/kuruluş bağlantıları da görülüyor. [Web 5]\n\n**Genel değerlendirme:** Kamuya açık bilgiler, onun havacılık teknolojileri ile yapay zekâyı birleştiren; özellikle bilgisayarlı görü, LLM/RAG sistemleri ve operasyonel AI uygulamalarına odaklanan bir mühendis olduğunu gösteriyor. Ancak LinkedIn sonuçlarında ayrıntılı iş tanımları, güncel pozisyon seviyesi veya doğrulanabilir tüm proje çıktıları açık biçimde yer almıyor. [Web 2] [Web 5]\n\nNot: Önceki yanıtta geçen “%89 otomasyon ve %97 doğruluk” bilgisi, burada verilen kaynak parçalarında doğrulanamıyor; bu nedenle güvenilir biçimde tekrar edemem.",
+          "sources": [
+            {
+              "number": 1,
+              "document_id": "84ec1464-47d1-45e5-a937-675e31bd6ce8",
+              "document_name": "Necip_Sahamettin_Kucuk_LLM_Engineer_CV.pdf",
+              "chunk_position": 9,
+              "chunk": "KNOFEST UAV Free Category 2022\nDeveloped a vision-guided rescue UAV that deploys life rings and uses a retrieval net with up to 15 kg carrying capacity. Star\nNews Coverage\nTÜBİTAK 2209-A — Aircraft Generator Backup 2022\nDeveloped a backup system that maintains a fixed 400 Hz aircraft electrical frequency.\nVOLUNTEER EXPERIENCE\nVolunteer Online Course Training Support — UNDP Aug 2024 – Dec 2024\nDelivered online training to children from various parts of Africa, covering Python, machine learning, data science and large\nlanguage models.\nGitHub & Content Management Support — UNDP Istanbul International Center for Private\nSector in Development\nDec 2024 – Present\nCreated and maintained LLM and deep-learning training materials for the Frontier Tech Leaders Programme and DS4SDGs\nrepositories; reviewed and resolved content issues on GitHub. LLM Colab · Deep Learning Notebook\n3 / 3",
+              "score": 0.3271
+            },
+            {
+              "number": 2,
+              "document_id": "84ec1464-47d1-45e5-a937-675e31bd6ce8",
+              "document_name": "Necip_Sahamettin_Kucuk_LLM_Engineer_CV.pdf",
+              "chunk_position": 3,
+              "chunk": "obotics Jun 2024 – Nov 2025\nIntegrated an open-source LLM to eliminate dependency on paid model APIs and developed a modular RAG and information-\nretrieval platform supporting PDF, DOC, CSV, Excel, TXT and JSON sources.\nEnabled natural-language interaction with large Excel, CSV and SQL datasets, allowing non-technical users to perform\ndatabase operations without writing SQL.\nBuilt universal document-processing pipelines for text and entity extraction, completeness checks and retrieval, alongside\nreal-time facial/speech emotion recognition and context-preserving translation.\nCreated an AI CV–job matching system that scores similarity, evaluates qualifications, generates suitability reports and ranks\ncandidates.\nYouTube Demos\nSoftware Developer & AI Researcher — TÜBİTAK 1001 Project, Fırat University Oct 2023 – Jun 2024\nResearched Transformer and encoder–decoder architectures, NLP optimization and projection methods; studied DETR,\nYOLO, D-FINE, ResNet, DenseNet and EfficientNet and built demonstration applications.\nComputer Vision Intern — Arçelik, Washing Machine Plant Jul 2023 – Sep 2023\nDeveloped a two-camera, YOLO-based production-line tracking system using real-time image processing at the Çayırova\nwashing machine plant. YouTube Demo · GitHub\nEngineering Intern — Turkish Technic Jun 2022 – Aug 2022",
+              "score": 0.2842
+            },
+            {
+              "number": 3,
+              "document_id": "84ec1464-47d1-45e5-a937-675e31bd6ce8",
+              "document_name": "Necip_Sahamettin_Kucuk_LLM_Engineer_CV.pdf",
+              "chunk_position": 8,
+              "chunk": "eep Learning\nAlgorithms in Airport Runways\nFeb 2025\nSignal, Image and Video Processing, 19:316. Built a 71-class, 33,286-image dataset and evaluated YOLOv5/YOLOv8 models;\nachieved up to 0.907 F-measure and 0.939 mAP@0.5. DOI · DBLP Author Profile\nTwo Oral Presentations — 14th International Al-Farabi Scientific Research and Innovation Congress Apr 2025\nPresented YOLOv11-based real-time FOD detection systems using the FOD-Runway and custom FOD-A datasets.\nSELECTED ACHIEVEMENTS & PROJECTS\n1st Place — TEKNOFEST Air Defense Systems, Critical Design Review 2024\n1st in the Critical Design Review phase with HİSAR; developed real-time target tracking and automated firing algorithms.\n1st Place — Samsung Innovation Campus 2023\nBuilt a UAV-based real-time forest-fire detection application with a 95% success rate. Samsung Story · GitHub · Demo\nTÜBİTAK 1002 — Airport Runway FOD Detection 2024\nContributed to a Fırat University BAP-supported deep-learning research project.\nSemEval Food Hazard Detection Challenge 2025\nRanked 36th worldwide in food hazard and product-category detection. Leaderboard\nFinalist — TEKNOFEST UAV Free Category 2022\nDeveloped a vision-guided rescue UAV that deploys life rings and uses a retrieval net with up to 15 kg carrying capacity. Star\nNews Coverage\nTÜBİTAK 2209-A — Aircraft Generator Backup 2022",
+              "score": 0.2792
+            },
+            {
+              "number": 4,
+              "document_id": "84ec1464-47d1-45e5-a937-675e31bd6ce8",
+              "document_name": "Necip_Sahamettin_Kucuk_LLM_Engineer_CV.pdf",
+              "chunk_position": 7,
+              "chunk": ", APIs and enterprise\nknowledge repositories.\nLLMOps & Governance: Apply CI/CD, agent evaluation,\nmonitoring, observability, RBAC, cybersecurity, data privacy\nand Responsible AI controls for reliable, auditable systems.\nAdvanced Analytics: Develop machine-learning,\noptimization, simulation, forecasting, risk-modeling and Digital\nTwin solutions for operational use cases.\nRegulated AI Readiness: Transfer production AI, document\nintelligence and governance experience to banking and KYC\nworkflows; actively developing domain knowledge in financial\ncrime and model governance.\nEDUCATION\nM.Sc., Aviation Sciences and Technologies — Fırat University 2022 – 2025\nGPA: 3.38/4.00 · Thesis: Deep Learning Approach for Foreign Object Detection on Airport Runways — compared\nYOLOv5s, YOLOv8s and YOLOv11-s; YOLOv11-s achieved 0.861 F1 and 0.826 recall with 9.45M parameters.\nB.Sc., Computer Engineering (Double Major) — Fırat University 2020 – 2024\nGPA: 3.00/4.00\nB.Sc., Aircraft Electrical & Electronics — Fırat University 2018 – 2022\nGPA: 3.22/4.00\n2 / 3\n\nSELECTED PUBLICATION & RESEARCH\nDetection and Classification of Foreign Object Debris (FOD) with Comparative Deep Learning\nAlgorithms in Airport Runways\nFeb 2025\nSignal, Image and Video Processing, 19:316. Built a 71-class, 33,286-image dataset and evaluated YOLOv5/YOLOv8 models;\nachieved up to 0.907 F-measure and 0.939 mAP@0.5.",
+              "score": 0.2385
+            },
+            {
+              "number": 5,
+              "document_id": "84ec1464-47d1-45e5-a937-675e31bd6ce8",
+              "document_name": "Necip_Sahamettin_Kucuk_LLM_Engineer_CV.pdf",
+              "chunk_position": 4,
+              "chunk": "3\nDeveloped a two-camera, YOLO-based production-line tracking system using real-time image processing at the Çayırova\nwashing machine plant. YouTube Demo · GitHub\nEngineering Intern — Turkish Technic Jun 2022 – Aug 2022\nDeveloped hardware for stress-testing aircraft tray-table support assemblies at Sabiha Gökçen Airport (SAW). YouTube Demo\n1 / 3\n\nSELECTED PRODUCTION AI SYSTEMS — OBILET\nAI Hotel Image Selection\nDeveloped an AI workflow that evaluates hotel media and\nselects the most suitable images for presentation, reducing\nmanual visual curation.\nLLM-Based Hotel Badge Generation\nBuilt a system that analyzes hotel information and guest\nreviews, identifies differentiating attributes and generates\ncontext-appropriate hotel badges.\nAutonomous Jira-to-Code Delivery Agent\nConnected Jira, GitHub and GitHub Copilot so an AI agent can\ninterpret a task, implement the change and commit it;\nproduction release remains gated by manager approval.\nEvent-Driven Story-Point Estimation\nDesigned a Jira webhook → AWS Lambda → OpenAI\nworkflow that estimates task complexity and automatically\nwrites the story point back to the Jira issue.\nTECHNICAL SKILLS\nEnterprise AI & LLMs AI agents, multi-agent orchestration, tool/function calling, RAG, NLP, information retrieval, context\nengineering, prompt engineering, LLM evaluation, model optimization, Transformers, embeddings,",
+              "score": 0.2207
+            },
+            {
+              "number": 6,
+              "document_id": "84ec1464-47d1-45e5-a937-675e31bd6ce8",
+              "document_name": "Necip_Sahamettin_Kucuk_LLM_Engineer_CV.pdf",
+              "chunk_position": 1,
+              "chunk": "act use cases, build working PoCs with Python APIs and Next.js/Tailwind CSS\ninterfaces, present demos and business value to management and the CTO, and productionize approved initiatives through\nJira delivery workflows.\nBuilt an event-driven Jira story-point estimation system: Jira webhooks trigger AWS Lambda, the service evaluates task scope\nwith OpenAI and writes the estimated story point back to Jira.\nBuilt a DeepSeek-powered, Obilet-specific chatbot with domain-aware responses and production integrations; applied context\nengineering and evaluated DeepSeek, Gemini and OpenAI models for output quality, hallucination risk, latency and token-cost\ntradeoffs.\nDesigned multi-agent orchestration pipelines that analyze reports and customer feedback, detect recurring pain points,\nclassify issues and route actionable insights to relevant teams.\nDeveloped an agentic AI call-center platform that automates processes previously handled by call-center teams, conducting\noutbound customer calls, collecting feedback, completing forms and executing end-to-end business workflows through tool\ncalling.\nImplemented LLMOps evaluation and monitoring pipelines for conversation quality, structured outputs and failure patterns;\ncontinuously refined prompts and workflows to improve accuracy, explainability, consistency and production reliability.",
+              "score": 0.1559
+            }
+          ],
+          "created_at": "2026-08-30T14:56:33.992101+00:00",
+          "web_sources": [
+            {
+              "number": 1,
+              "title": "Unlocking New Possibilities with AI",
+              "url": "https://csr.samsung.com/en/story/inspiring-journeys/unlocking-new-possibilities-with-ai",
+              "content": "“Real Time Forest Fire Detection,” developed by Necip Şahamettin Küçük, Halil Çınar, and Kubilay Hasdedeoğlu, utilizes AI to detect forest fires with a 95% success rate. Necip reflects on his experience: “Samsung Innovation Campus provided me with an exceptional opportunity to learn about the latest advancements in technology and AI. I gained a deeper understanding of how to use them to create positive change in people’s lives.” [...] Samsung Innovation Campus in Türkiye was launched in cooperation with the United Nations Development Programme (UNDP), aimed at equipping Tükiye’s youth with technical skills and soft skills, as well as expert mentorship. Through this program, participating students receive comprehensive AI training, giving them a competitive advantage in the workforce and ultimately leading them closer to their dreams. With their technical capabilities, these students become the next generation of [...] Samsung Innovation Campus 2025 empowers 216 graduates with advanced AI skills\n\n  Mar 17. 2026\n Samsung Innovation Campus Graduates Propose Technological Solutions to Social Issues\n\n  Samsung Innovation Campus Graduates Propose Technological Solutions to Social Issues\n\n  Mar 04. 2026\n Samsung Pakistan Launches Second Cohort of Innovation Campus, to strengthen AI skills for youth\n\n  Samsung Pakistan Launches Second Cohort of Innovation Campus, to strengthen AI skills for youth\n\n  Mar 04. 2026",
+              "score": 0.6824,
+              "query": "\"Necip Şahamettin Küçük\" TEKNOFEST Samsung Innovation Campus Obilet GitHub LinkedIn"
+            },
+            {
+              "number": 2,
+              "title": "4 \"Necip Küçük\" profiles",
+              "url": "https://www.linkedin.com/pub/dir/Necip/K%C3%BC%C3%A7%C3%BCk",
+              "content": "Necip KÜÇÜK. Firat University Aircraft Electrical-Electronic & Computer Engineering (DMP) & MSc Aviation Science and Technologies. Pendik. obilet, +4 more.",
+              "score": 0.656,
+              "query": "\"Necip Şahamettin Küçük\" yapay zeka mühendisliği resmi profil Obilet UNDP TÜBİTAK Fırat Üniversitesi"
+            },
+            {
+              "number": 3,
+              "title": "Samsung Innovation Campus Nurtures Future Tech ...",
+              "url": "https://csr.samsung.com/en/newsroom/news/samsung-innovation-campus-nurtures-future-tech-leaders-of-t%C3%BCrkiye",
+              "content": "Necip Küçük emphasizes the importance of early forest fire detection and the potential of AI in this field which inspired them. “With this project, our goal was to detect forest fires at an early stage, reduce the spread and damage they cause” he explained. Upon successfully completing the program in 2023, he commented, “My expectations before starting Samsung Innovation Campus program were very much in line with my actual experiences. The program was an excellent opportunity to learn and [...] The \"Real Time Forest Fire Detection\" project, developed by Necip Şahamettin Küçük, Halil Çınar, and Kubilay Hasdedeoğlu, focused on effectively detecting forest fires using AI. The customized AI model aimed to detect fires with a 95% success rate.\n\nAhmet Furkan Bayram's \"Mammo-Des\" project developed a model to help diagnose breast cancer using mammography images. This model facilitates the application of effective treatment methods through early diagnosis. [...] technology to find solutions to problems that exist in today’s world.” For example, he pointed out the Real Time Forest Fire Detection project they did after trainings as a team with Necip Küçük and Halil Çınar.",
+              "score": 0.5706,
+              "query": "\"Necip Şahamettin Küçük\" TEKNOFEST Samsung Innovation Campus Obilet GitHub LinkedIn"
+            },
+            {
+              "number": 4,
+              "title": "Score Details",
+              "url": "https://m.firat.edu.tr/performance/details-by-email/oodursun?category=YAYIN&lang=en",
+              "content": "Deep Learning-Based Prediction of Commercial Aircraft … comparative deep learning algorithms in airport runways 2025. Authors Küçük Necip Ş",
+              "score": 0.5606,
+              "query": "\"Necip Şahamettin Küçük\" yayın DOI \"Deep Learning Algorithms in Airport Runways\""
+            },
+            {
+              "number": 5,
+              "title": "Necip KÜÇÜK - Firat University Aircraft Electrical-Electronic ...",
+              "url": "https://tr.linkedin.com/in/necipkucuk",
+              "content": "- 🚀 Samsung İnovasyon Merkezi'nde İnovasyon Kampı Heyecanı! Yaklaşık 4 aydır Yapay Zeka Eğitimi aldığımız, Samsung Electronics Türkiye ve Birleşmiş Milletler Kalkınma Programı (UNDP) Türkiye işbirliğiyle gerçekleşen 'Innovation Campus' programı kapsamında, özel eğitim ve işe hazırlık etkinliği büyük bir coşkuyla gerçekleşti. Programın ilk gününde, Kore Cumhuriyeti İstanbul Başkonsolosu Woo-Sung Lee ve Samsung Electronics Türkiye Başkanı ve CEO’su Philip Choi 'nin katılımıyla, Samsung İnovasyon [...] - 🔥🚀 Thrilled to announce that we've secured the #1 rank in the UNDP Samsung Innovation Campus Program! 🏆 I'm humbled and excited to share that our team's project, Real-Time Forest Fire Detection AI, played a pivotal role in this achievement. 🌲🔍 This program represents more than just lines of code; it's a testament to the power of innovation in addressing critical issues. Our AI solution is geared towards the early detection of forest fires, with feature engineering that includes Wind Direction [...] # Necip KÜÇÜK\nobilet\nPendik, Istanbul, Türkiye, TR  \n367 connections, 378 followers\n\n## About\nNone\n\n## Experience\nN/A\n\n## Education\n### Fırat Üniversitesi  \nN/A  \n2022-09 - 2024-06  \nNone\n\n### N/A  \nN/A  \n2020-03 - 2024-06  \nNone\n\n### N/A  \nN/A  \n2018 - 2022  \nNone\n\n## Publications\nN/A\n\n## Honors & Awards\nN/A\n\n## Certifications\nTEKNOFEST SERBEST GÖREV İHA (TEKNOFEST); TEI Havacılık Motorları Okulu (TEI - TUSAŞ Engine Industries, Inc.)\n\n## Volunteering\nN/A\n\n## Languages\nN/A\n\n## Organizations\nN/A",
+              "score": 0.5293,
+              "query": "\"Necip Şahamettin Küçük\" TEKNOFEST Samsung Innovation Campus Obilet GitHub LinkedIn"
+            },
+            {
+              "number": 6,
+              "title": "AI-Powered Real-Time Runway Safety: UAV-Based Video Analysis with ICSO-Enhanced Deep Learning | International Journal of Computational and Experimental Science and Engineering",
+              "url": "https://www.ijcesen.com/index.php/ijcesen/article/view/1184",
+              "content": "Sun, Z. (2023, February). Research on the Application of Convolutional Neural Network Based on the YOLO Algorithm in Airport Intelligent Monitoring. In 2023 3rd Asia-Pacific Conference on Communications Technology and Computer Science (ACCTCS) (pp. 103-108).IEEE. DOI: [...] ## DOI:\n\n \n\n## Keywords:\n\n Runway Safety, Runway Crack, Runway Friction, Video Analysis, Flight Safety Landing\n\n## Abstract [...] Puranik, T. G., Rodriguez, N., &Mavris, D. N. (2020). Towards online prediction of safety-critical landing metrics in aviation using supervised machine learning. Transportation Research Part C: Emerging Technologies, 120, 102819. DOI: \n\nVan Phat, T., Alam, S., Lilith, N., Tran, P. N., &Binh, N. T. (2021, July). Deep4air: A novel deep learning framework for airport airside surveillance. In 2021 IEEE International Conference on Multimedia & Expo Workshops (ICMEW) (pp. 1-6).IEEE. DOI:",
+              "score": 0.4252,
+              "query": "\"Necip Şahamettin Küçük\" yayın DOI \"Deep Learning Algorithms in Airport Runways\""
+            },
+            {
+              "number": 7,
+              "title": "suat toraman",
+              "url": "https://bookcites.com/profile/Suat%20TORAMAN",
+              "content": "SUAT TORAMAN. FIRAT ÜNİVERSİTESİ FIRAT ÜNİVERSİTESİ ... Necip Şahamettin KÜÇÜK, Ömer Osman DURSUN, Hakan ... SUAT TORAMAN • 2020 • Fırat Üniversitesi Mühendislik",
+              "score": 0.4171,
+              "query": "\"Necip Şahamettin Küçük\" yapay zeka mühendisliği resmi profil Obilet UNDP TÜBİTAK Fırat Üniversitesi"
+            },
+            {
+              "number": 8,
+              "title": "Necip KÜÇÜK - teknofest",
+              "url": "https://tr.linkedin.com/posts/necipkucuk_teknofest-activity-6962675096452804608-Lte4",
+              "content": "Firat University Aircraft Electrical-Electronic & Computer Engineering (DMP) & MSc Aviation Science and Technologies.",
+              "score": 0.3787,
+              "query": "\"Necip Şahamettin Küçük\" yapay zeka mühendisliği resmi profil Obilet UNDP TÜBİTAK Fırat Üniversitesi"
+            },
+            {
+              "number": 9,
+              "title": "(PDF) Deep learning-based foreign object detection ...",
+              "url": "https://www.researchgate.net/publication/370378050_Deep_learning-based_foreign_object_detection_method_for_aviation_runways",
+              "content": "This paper designs and constructs a dataset for accomplishing airport runway foreign object detection based on the data distribution and attribute semantics of",
+              "score": 0.3408,
+              "query": "\"Necip Şahamettin Küçük\" yayın DOI \"Deep Learning Algorithms in Airport Runways\""
+            },
+            {
+              "number": 10,
+              "title": "A Signal Processing-Guided Deep Learning Framework for ...",
+              "url": "https://www.mdpi.com/2073-4433/16/7/802",
+              "content": "by A Khattak · 2025 · Cited by 1 — A Signal Processing-Guided Deep Learning Framework for Wind Shear Prediction on Airport Runways. Atmosphere 2025, 16, 802. https://doi.org/",
+              "score": 0.3391,
+              "query": "\"Necip Şahamettin Küçük\" yayın DOI \"Deep Learning Algorithms in Airport Runways\""
+            }
+          ],
+          "web_search_used": true,
+          "web_queries": [
+            "\"Necip Şahamettin Küçük\" yapay zeka mühendisliği resmi profil Obilet UNDP TÜBİTAK Fırat Üniversitesi",
+            "\"Necip Şahamettin Küçük\" yayın DOI \"Deep Learning Algorithms in Airport Runways\"",
+            "\"Necip Şahamettin Küçük\" TEKNOFEST Samsung Innovation Campus Obilet GitHub LinkedIn"
+          ]
+        },
+        {
+          "id": "64828509-65c9-485a-b893-8d4c472b539c",
+          "role": "user",
+          "content": "bu kim bunuda ufaktan araştır kısaca anlat",
+          "created_at": "2026-08-30T14:58:32.462947+00:00"
+        },
+        {
+          "id": "e38294c3-4bd7-4ade-b53b-d5c554f0a7eb",
+          "role": "assistant",
+          "content": "Ali Haydar Çimen, İstanbul’da çalışan bir **Java Backend Developer / Software Developer**’dır. Şu anda Yapı Kredi Teknoloji’de Java tabanlı yazılım geliştirme ekibinde görev yaptığı görülüyor. [Web 1] [Web 2]\n\nBaşlıca uzmanlık alanları **Java, Spring Boot, Apache Kafka, mikroservisler, Oracle DB, REST/SOAP servisleri, React ve sistem izleme** teknolojileridir. [Kaynak 2] Yapı Kredi Teknoloji’de bankacılık sistemleri için yüksek performanslı ve güvenli mikroservis çözümleri geliştiriyor; Kafka ve bulut araçlarıyla veri akışlarını iyileştiriyor. [Kaynak 1]\n\nDaha önce Vakko’da backend sistemleri geliştirmiş, REST ve SOAP servisleri üzerinde çalışmış ve monolitik bir sistemi modüler monolit mimarisine dönüştürme sürecine katkı sağlamıştır. Ayrıca Vodafone’un Macellan projesinde gerçek zamanlı cihaz verileri ve dağıtık sistemler üzerine çalışmıştır. [Kaynak 2]\n\nSelçuk Üniversitesi **Bilgisayar Mühendisliği** mezunudur; eğitimini 2023’te tamamlamıştır. [Kaynak 2]",
+          "sources": [
+            {
+              "number": 1,
+              "document_id": "fae6807c-8932-45a5-b784-eebf6a78fa0f",
+              "document_name": "Ali Haydar Cimen.pdf",
+              "chunk_position": 1,
+              "chunk": "eknoloji\nDeveloped and maintained microservice-based banking solutions using Spring Boot, Kafka\nand cloud tools\nDelivered stable, high-performance and secure systems while improving data flow and\noverall service quality\nDesigned and optimized RESTful services for high-volume financial transactions\nContributed to designing scalable and resilient distributed system architecture using event-\ndriven communication and fault-tolerant patterns.\nJan 2025 ~ Present\n📞 +90 531 724 86 66 | 📧 alihaydar.cmn@gmail.com | 💻 https://github.com/alicmn | \n🔗 https://www.linkedin.com/in/ali-haydar-cimen",
+              "score": 0.2334
+            },
+            {
+              "number": 2,
+              "document_id": "fae6807c-8932-45a5-b784-eebf6a78fa0f",
+              "document_name": "Ali Haydar Cimen.pdf",
+              "chunk_position": 0,
+              "chunk": "Java | Spring Boot | Apache Kafka | Microservices | Oracle DB | Resilience| Monitoring |\nGrafana | React\nVodafone – Macellan Project\nDeveloped backend services for a microservice-based traffic visualization platform\nIntegrated real-time device data into Graph Database infrastructure\nManaged data flow and ensured high scalability in distributed systems\nContributed to performance optimization and service reliability\nSelçuk University – B.Sc. in\nComputer Engineering (2023)\nVakko\nDeveloped and maintained backend systems using Java and Spring-based technologies\nDesigned and supported RESTful and SOAP web services\nBuilt responsive and user-friendly interfaces using Angular and React\nLed the transformation of a legacy monolithic system into a modular monolith architecture,\nimproving maintainability and scalability\nContributed to digital transformation initiatives by modernizing legacy systems\nCollaborated with cross-functional teams to improve system performance and reliability\nJul 2023 ~ Jan 2025\nSep 2022 ~ Feb 2023\nJAVA BACKEND DEVELOPER\nAli Haydar Cimen\nPROFESSIONAL EXPERIENCE\nEDUCATION\nKEY COMPETENCIES\nYapikredi Teknoloji\nDeveloped and maintained microservice-based banking solutions using Spring Boot, Kafka\nand cloud tools\nDelivered stable, high-performance and secure systems while improving data flow and\noverall service quality",
+              "score": 0.2169
+            }
+          ],
+          "created_at": "2026-08-30T14:58:32.462947+00:00",
+          "web_sources": [
+            {
+              "number": 1,
+              "title": "Yapı Kredi Teknoloji - Java Development | The Org",
+              "url": "https://theorg.com/org/yapi-kredi-teknoloji/teams/java-development",
+              "content": "Pricing\n\nYapı Kredi Teknoloji\n\nUnverified\n\nJava Development\n\n6 people · 0 jobs\n\nThis department focuses on designing, building, and maintaining Java-based software applications.\n\n## People (6)\n\nAli Haydar Cimen\n\nJava Developer\n\nMuhammet Metin\n\nJava Software Engineer\n\nBurak Açıker\n\nJava Software Developer\n\nEyüp Eymen Eruyar\n\nJava Software Engineer\n\nBerna Araal\n\nJava Software Developer\n\nAtakan GÜNEY\n\nSenior Java Software Engineer\n\n## Jobs (0)\n\nNo jobs in this team\n\n## Other teams\n\nView all teams\n\n### Software Development\n\n568 people · 0 jobs\n\n### Business Analysis\n\n419 people · 0 jobs\n\n### Cyber Security\n\n40 people · 0 jobs\n\n### Data Warehouse and Analytics\n\n30 people · 0 jobs\n\n### Systems Engineering\n\n30 people · 0 jobs\n\n### Application Development\n\n27 people · 0 jobs",
+              "score": 0.7555,
+              "query": "\"Ali Haydar Çimen\" yazılım mühendisi Java Spring Boot Yapı Kredi Teknoloji"
+            },
+            {
+              "number": 2,
+              "title": "Ali Haydar Cimen - Software Developer - Yapı Kredi Teknoloji",
+              "url": "https://tr.linkedin.com/in/ali-haydar-cimen",
+              "content": "# Ali Haydar Cimen\nSoftware Developer\nIstanbul, Istanbul, Türkiye, TR  \n500 connections, 1033 followers\n\n## About\nJava Developer\n\n## Experience\n### Yapı Kredi Teknoloji  \nYapı Kredi Teknoloji  \nN/A - Present   \nN/A  \n\n### N/A  \nN/A  \nN/A - Present   \nN/A  \n\n### N/A  \nN/A  \nN/A - Present   \nN/A  \n\n### N/A  \nN/A  \nN/A - Present   \nN/A  \n\n## Education\n### Selçuk Üniversitesi  \nN/A  \n2018-01 - 2023-06  \nNone\n\n## Publications\nN/A\n\n## Honors & Awards\nN/A\n\n## Certifications\nN/A\n\n## Volunteering\nN/A\n\n## Languages\nN/A\n\n## Organizations\nN/A\n\n## Activity\n- Yapı Kredi Teknoloji'nin Başarılar Bizim Takdir ve Ödüllendirme Programı kapsamında \"Biz Biriz\" ödülünü almaktan mutluluk duyuyorum. Yöneticilerim…  \nLiked by Ali Haydar Cimen  \nView Post  \nActivity Image [...] - KoçSistem’de Mimari Ekip çatısı altında geçirdiğim yaklaşık dört yıl boyunca, hem teknik hem de kişisel olarak çok şey öğrendiğim, dolu dolu ve…  \nLiked by Ali Haydar Cimen  \nView Post  \nActivity Image\n\n- 🚀 Grafana 12.2 is here! This release contains new features to help you and your team move from data to decisions faster than ever:…  \nLiked by Ali Haydar Cimen  \nView Post  \nActivity Image [...] ## People Also Viewed\n- Osman K. (None) - \n- Bekir Mazman (None) - \n- Hakan E Deniz (None) - \n- Çetin Karakoç (None) - \n- Dr. Filiz Nerkiz (None) - \n- Sedat GÜNDOĞAN (None) - \n- Can Aziz Güneş (None) - \n- Ersin Biderci (None) - \n- Kübra Kol (None) - \n- Emir Alkan (None) - \n- Zülal Bayır Taşdemir (None) - \n- Caner ÇAKIR (None) - \n- BERAT AKASLAN (None) - \n- Emine B. (None) - \n- murat yurenc (None) - \n- Ceyhun Özcan (None) - \n- ilker özhan (None) - \n- Lokman Demiray (None) - \n- Fevzi Karaca (None) -",
+              "score": 0.7461,
+              "query": "\"Ali Haydar Çimen\" yazılım mühendisi Java Spring Boot Yapı Kredi Teknoloji"
+            },
+            {
+              "number": 3,
+              "title": "400+ \"Ali Haydar\" profiles",
+              "url": "https://www.linkedin.com/pub/dir/Ali+Haydar/+/tr-7585-Istanbul,-Turkey",
+              "content": "Ali Haydar Cimen. Software Developer. Istanbul. Yapı Kredi Teknoloji, +2 more. Selçuk Üniversitesi. Haydar Ali Seker. Staff",
+              "score": 0.7053,
+              "query": "\"Ali Haydar Çimen\" yazılım mühendisi Java Spring Boot Yapı Kredi Teknoloji"
+            },
+            {
+              "number": 4,
+              "title": "‏200+‏ ملفًا شخصيًا‏ يحتوي على “‏Ali Cimen‏”",
+              "url": "https://om.linkedin.com/pub/dir/ali/cimen",
+              "content": "Ali Haydar Cimen. Software Developer. إسطنبول. Yapı Kredi Teknoloji، بالإضافة إلى 2 أكثر. Selçuk Üniversitesi. Ali Çimen. --. أورفا.",
+              "score": 0.7021,
+              "query": "\"Ali Haydar Çimen\" yazılım mühendisi Java Spring Boot Yapı Kredi Teknoloji"
+            },
+            {
+              "number": 5,
+              "title": "200+ \"Ali Çimen\" profiles",
+              "url": "https://www.linkedin.com/pub/dir/Ali/%C3%87imen",
+              "content": "Ali Haydar Cimen. Software Developer. Istanbul. Yapı Kredi Teknoloji, +2 more. Selçuk Üniversitesi. Ali Çimen. --. Şanlıurfa. TEİAŞ, +1",
+              "score": 0.6927,
+              "query": "\"Ali Haydar Çimen\" yazılım mühendisi Java Spring Boot Yapı Kredi Teknoloji"
+            },
+            {
+              "number": 6,
+              "title": "Alihaydar Salman — Backend Developer | Java, Spring Boot ...",
+              "url": "https://alihaydarsalman.dev",
+              "content": "Fintech alanında uzmanlaşmış Backend Developer. Java, Spring Boot, erine uzmanlaşmış bir backend geliştiriciyim. Mühendisliği mezunuyum. Mü",
+              "score": 0.5494,
+              "query": "\"Ali Haydar Çimen\" yazılım mühendisi Java Spring Boot Yapı Kredi Teknoloji"
+            },
+            {
+              "number": 7,
+              "title": "10+ \"Haydar Çi̇men\" profiles",
+              "url": "https://www.linkedin.com/pub/dir/Haydar/%C3%87%C4%B0MEN",
+              "content": "Ali Haydar Cimen. Software Developer. Istanbul. Yapı Kredi Teknoloji, +2 more. Selçuk Üniversitesi. Haydar Çimen. Uzman Diş Doktoru.",
+              "score": 0.516,
+              "query": "\"Ali Haydar Çimen\" Vakko Vodafone Macellan Selçuk Üniversitesi bilgisayar mühendisliği"
+            },
+            {
+              "number": 8,
+              "title": "Speaker Profile: Haydar Cimen",
+              "url": "https://www.kuppingercole.com/speakers/922",
+              "content": "Haydar is a security professional and is in the security industry for over 15 years. During his tenure he held several security management positions ranging",
+              "score": 0.3195,
+              "query": "\"Ali Haydar Çimen\" Vakko Vodafone Macellan Selçuk Üniversitesi bilgisayar mühendisliği"
+            },
+            {
+              "number": 9,
+              "title": "Ali Haydar Ozer - Google Akademik",
+              "url": "https://scholar.google.com/citations?user=AIlVwFkAAAAJ&hl=tr",
+              "content": "Ali Haydar Ozer. Bilgisayar Mühendisliği Bölümü, Mühendislik Fakültesi, Marmara Üniversitesi. marmara.edu.tr üzerinde doğrulanmış e-posta",
+              "score": 0.2316,
+              "query": "\"Ali Haydar Çimen\" Vakko Vodafone Macellan Selçuk Üniversitesi bilgisayar mühendisliği"
+            },
+            {
+              "number": 10,
+              "title": "Doç. Dr. ALİ HAYDAR ÖZER - AVESİS - Marmara Üniversitesi",
+              "url": "https://avesis.marmara.edu.tr/haydar.ozer",
+              "content": "Doç. Dr. ALİ HAYDAR ÖZER · Mühendislik Fakültesi, Bilgisayar Mühendisliği Bölümü · Bilgisayar Yazılımı Anabilim Dalı · WoS Araştırma Alanları: Bilgisayar Bilimi",
+              "score": 0.1404,
+              "query": "\"Ali Haydar Çimen\" Vakko Vodafone Macellan Selçuk Üniversitesi bilgisayar mühendisliği"
+            }
+          ],
+          "web_search_used": true,
+          "web_queries": [
+            "\"Ali Haydar Çimen\" yazılım mühendisi Java Spring Boot Yapı Kredi Teknoloji",
+            "\"Ali Haydar Cimen\" LinkedIn GitHub Java Spring Boot Kafka",
+            "\"Ali Haydar Çimen\" Vakko Vodafone Macellan Selçuk Üniversitesi bilgisayar mühendisliği"
+          ]
+        },
+        {
+          "id": "ada1c8aa-3373-4b84-920e-6da3ecb6e13d",
+          "role": "user",
+          "content": "esra durmaz diye biri var fıratlı onun linkedini bulsana takip sayısını falanda söyle",
+          "created_at": "2026-08-30T15:01:07.808776+00:00"
+        },
+        {
+          "id": "0fc57c29-5c13-4a50-a971-7704eb7e8a5a",
+          "role": "assistant",
+          "content": "Fırat Üniversitesi mezunu **Esra Durmaz** için en olası LinkedIn profili şu görünüyor:\n\n- **Profil:** [Esra Durmaz – Jr. IT Support](https://tr.linkedin.com/in/esra404)\n- **Eğitim:** Fırat Üniversitesi, Bilgisayar Mühendisliği (2020–2025)\n- **Takipçi:** Yaklaşık **896–904**\n- **Bağlantı:** **500+**\n- **Alanı:** IT destek, backend/full-stack geliştirme, ağ ve Linux teknolojileri\n- **Deneyimleri:** Portakal Teknoloji’de network stajı; çeşitli şirketlerde backend ve full-stack geliştirme deneyimleri. [Web 5] [Web 10]\n\nLinkedIn’de aynı isimle çok sayıda kişi bulunduğu için kesin eşleşme; profil fotoğrafı veya ek bilgiler olmadan yüzde 100 doğrulanamaz. [Web 6]",
+          "sources": [],
+          "created_at": "2026-08-30T15:01:07.808776+00:00",
+          "web_sources": [
+            {
+              "number": 1,
+              "title": "esra durmaz - Müşteri Temsilcisi",
+              "url": "https://tr.linkedin.com/in/esra-durmaz-740891283",
+              "content": "123 takipçi 124 bağlantı. Ortak bağlantılarınızı görün. esra durmaz ile ortal bağlantıları görüntüle. esra sizi Çözüm Yayın Grubu şirketindeki 8 kişiyle",
+              "score": 0.8985,
+              "query": "\"Esra Durmaz\" LinkedIn takipçi bağlantı sayısı"
+            },
+            {
+              "number": 2,
+              "title": "Esra Durmaz - İnsan Kaynakları Yönetimi/E-Ticaret Uzmanı",
+              "url": "https://tr.linkedin.com/in/esra-durmaz-7970a7328",
+              "content": "Esra Durmaz - Çanakkale Onsekiz Mart Üniversitesi Gebze, Kocaeli, Türkiye 28 takipçi 28 bağlantı Ortak",
+              "score": 0.8755,
+              "query": "\"Esra Durmaz\" LinkedIn takipçi bağlantı sayısı"
+            },
+            {
+              "number": 3,
+              "title": "90+ profils pour “Esra Durmaz” - LinkedIn",
+              "url": "https://fr.linkedin.com/pub/dir/Esra/Durmaz",
+              "content": "Esra Durmaz Junior Software Engineer Istanbul, Fırat Üniversitesi Esra Durmaz Esra Durmaz İstanbul Bilgi Üniversitesi eğitim kurumunda. Administrative Affairs",
+              "score": 0.8655,
+              "query": "\"Esra Durmaz\" \"Fırat Üniversitesi\" LinkedIn"
+            },
+            {
+              "number": 4,
+              "title": "90+ perfiles de «Esra Durmaz - LinkedIn",
+              "url": "https://cr.linkedin.com/pub/dir/Esra/Durmaz",
+              "content": "Esra Durmaz Junior Software Engineer Estambul, Fırat Üniversitesi Esra Durmaz Esra Durmaz Administrative Affairs Specialist @ Doktar Technologies Greater",
+              "score": 0.8585,
+              "query": "\"Esra Durmaz\" \"Fırat Üniversitesi\" LinkedIn"
+            },
+            {
+              "number": 5,
+              "title": "Esra Durmaz - Jr. IT Support",
+              "url": "https://tr.linkedin.com/in/esra404/en",
+              "content": "Esra Durmaz. Jr. IT Support. Portakal Teknoloji Fırat Üniversitesi. Istanbul, Türkiye. 904 followers 500+ connections. See your mutual connections",
+              "score": 0.8507,
+              "query": "\"Esra Durmaz\" LinkedIn takipçi bağlantı sayısı"
+            },
+            {
+              "number": 6,
+              "title": "80+ “Esra Durmaz” profili - LinkedIn",
+              "url": "https://tr.linkedin.com/pub/dir/Esra/Durmaz/tr-0-T%C3%BCrkiye",
+              "content": "Junior Software Engineer. İstanbul, Türkiye. Portakal Teknoloji, +3 daha. Fırat Üniversitesi ; İstanbul Bilgi Üniversitesi eğitim kurumunda öğrenci. İstanbul.",
+              "score": 0.8409,
+              "query": "\"Esra Durmaz\" \"Fırat Üniversitesi\" LinkedIn"
+            },
+            {
+              "number": 7,
+              "title": "Esra Durmaz - HDY Filo Kiralama şirketinde Satış Sonrası Hizmetler Yetkilisi",
+              "url": "https://tr.linkedin.com/in/esra-durmaz-867016176",
+              "content": "# Esra Durmaz\nHDY Filo Kiralama şirketinde Satış Sonrası Hizmetler Yetkilisi\nAnkara, Türkiye, TR  \n49 connections, 51 followers\n\n## About\nN/A [...] ## Education\n### Anadolu Üniversitesi  \nBusiness/Commerce, General  \n2015 - 2019  \nNone\n\n### Zonguldak Fener Anadolu Lisesi  \nN/A  \n2000 - 2003  \nNone\n\n## Publications\nN/A\n\n## Honors & Awards\nN/A\n\n## Certifications\nN/A\n\n## Volunteering\nN/A\n\n## Languages\nN/A\n\n## Organizations\nN/A\n\n## Activity\n- Dönercide çalışan genç, sürpriz doğum günü pastası sonrası gözyaşlarını tutamadı. 🔴 Kayseri  \nLiked by Esra Durmaz  \nView Post  \n\n- Girişimci Kafası  \nLiked by Esra Durmaz  \nView Post [...] takibi <!---->",
+              "score": 0.8184,
+              "query": "\"Esra Durmaz\" LinkedIn takipçi bağlantı sayısı"
+            },
+            {
+              "number": 8,
+              "title": "90+ \"Esra Durmaz\" profiles - LinkedIn",
+              "url": "https://www.linkedin.com/pub/dir/Esra/Durmaz",
+              "content": "90+Results for \"Esra Durmaz\". Esra Durmaz. Jr. IT Support. Istanbul, Türkiye. Portakal Teknoloji, +3 more. Fırat Üniversitesi. Esra Durmaz.",
+              "score": 0.8163,
+              "query": "\"Esra Durmaz\" \"Fırat Üniversitesi\" LinkedIn"
+            },
+            {
+              "number": 9,
+              "title": "Esra Durmaz - Payment ProductMng&Cust.Ops Sr.Assc.Mng. - Vodafone Elektronik Para ve Ödeme Hizmetleri A.Ş.",
+              "url": "https://tr.linkedin.com/in/esra-durmaz-9645a082",
+              "content": "# Esra Durmaz\nPayment ProductMng&Cust.Ops Sr.Assc.Mng.\nSancaktepe, Istanbul, Türkiye, TR  \n500 connections, 1262 followers\n\n## About\nTelekominikasyon sektorunde 15 yıllık deneyim<br><br> inbound ve backoffice operasyon…\n\n## Experience\n### Payment Product Mng&Cust.Ops Sr.Assc.Mng.  \nVodafone Elektronik Para ve Ödeme Hizmetleri A.Ş.  \nApr 2025 - Present   \nN/A  \n\n### Marketplace Operation Manager  \nVodafone\nMar 2022 - Apr 2025  \nİstanbul, Türkiye [...] ## Publications\nN/A\n\n## Honors & Awards\nN/A\n\n## Certifications\nN/A\n\n## Volunteering\nN/A\n\n## Languages\nN/A\n\n## Organizations\nN/A\n\n## Activity\n- beIN MEDIA GROUP’un global olarak yürüttüğü \"Liderlikte Kadın Ağı\" projesi kapsamında hayata geçirilen “Geleceği Tasarlayan Kadınlar” panelinde 25…  \nLiked by Esra Durmaz  \nView Post [...] - Yesterday, as the Vodafone Compliance Team, along with Paycell and iyzico teams, contributed to the FATF-Türkiye 5th Round Mutual Evaluation Process,…  \nLiked by Esra Durmaz  \nView Post  \nActivity Image\n\n- Nefis bir konu, nefis bir söyleşi..  \nLiked by Esra Durmaz  \nView Post  \nActivity Image\n\n- 18 Ekim 2025 tarihli Uyum Görevlisi Yetkilendirme sınav sonucuna göre lisans almaya hak kazandığımı paylaşmaktan mutluluk duyuyorum. Sermet AYDIN…  \nLiked by Esra Durmaz  \nView Post  \nActivity Image",
+              "score": 0.7977,
+              "query": "\"Esra Durmaz\" LinkedIn takipçi bağlantı sayısı"
+            },
+            {
+              "number": 10,
+              "title": "Esra Durmaz - Jr. IT Support",
+              "url": "https://tr.linkedin.com/in/esra404",
+              "content": "## Education\n\n### Fırat Üniversitesi\nBachelor's degree, Computer Engineering · 2020 - 2025\n\n## Certifications\n- CCNA: Enterprise Networking, Security, and Automation (Cisco)\n- CCNA: Introduction to Networks (Cisco)\n- CCNA: Switching, Routing, and Wireless Essentials (Cisco)\n- Linux 101 (Turkcell Geleceği Yazanlar)\n- Linux 201 (Turkcell Geleceği Yazanlar)\n- LİNUX 301 (Turkcell Geleceği Yazanlar)\n- Firewall Essentials: Configuration and Management (EDU-210) (Palo Alto Networks)\n- Temel Network (Turkcell Geleceği Yazanlar)\n- Ağ Temelleri (BTK Akademi)\n- LİNUX 401 (Turkcell Geleceği Yazanlar)\n\n## Languages\n\nTürkçe (Native or bilingual proficiency), İngilizce (Limited working proficiency)\n\n## Organizations\n- Febitek\n- GDSC — Sosyal medya içerik tasarımcısı\n- IEEE — Backend Developer [...] ## Experience\n\n### Network Intern\nPortakal Teknoloji · September 2023 - October 2023 · Ankara, Türkiye · 2 months\n\n### Full-stack Developer Internship\nNarveri Eğitim Bilişim · June 2023 - August 2023 · Elazığ, Elazığ, Türkiye · 3 months\n\n### junior Full-stack Developer\nLogical Defense -LogDef · February 2023 - April 2023 · Elazığ, Elazığ, Türkiye · 3 months\n\n### Backend Developer\nIEEE Fırat University School Branch · 2020 - 2021 · Elazığ, Türkiye · 1 year\n\nStock Modul: Designed and developed a module for tracking product stocks using Java, Incorporated features like displaying stock prices, historical data, and generating reports, Implemented error handling &amp; exception handling mechanisms to ensure the stability of the module\n\n## Education [...] # Esra Durmaz\n\nJr. IT Support\n\nIstanbul, Türkiye · 500 connections · 896 followers\n\n## About\n\nI am a junior developer who is keen to improve myself in the field of backend development by working on programming languages ​​such as Java, PHP and Laravel, as well as SQL and MySQL databases. With my interest in backend technologies, I aim to gain experience in database management and web application development processes. At the same time, I received CCNA and Linux Admin training to improve myself in the field of system administration. I am open to learning, aiming to acquire new skills every day and gain experience by applying them in practical projects. I aim to take part in the constantly developing world of technology, keep up with trends and contribute.\n\n## Experience",
+              "score": 0.6405,
+              "query": "\"Esra Durmaz\" \"Fırat Üniversitesi\" LinkedIn"
+            }
+          ],
+          "web_search_used": true,
+          "web_queries": [
+            "\"Esra Durmaz\" \"Fırat Üniversitesi\" LinkedIn",
+            "site:linkedin.com/in \"Esra Durmaz\" \"Fırat Üniversitesi\"",
+            "\"Esra Durmaz\" LinkedIn takipçi bağlantı sayısı"
+          ]
+        }
+      ],
+      "created_at": "2026-08-30T14:55:58.963066+00:00",
+      "updated_at": "2026-08-30T15:01:07.810312+00:00"
+    }
+  ]
+}
