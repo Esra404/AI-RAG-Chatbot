@@ -29,21 +29,6 @@
       "index_json_path": "data/indexes/5afd5500-e2b3-45d3-a93f-99208d8846a1.json",
       "chunks_path": "data/chunks/5afd5500-e2b3-45d3-a93f-99208d8846a1.json",
       "created_at": "2026-09-02T02:59:50.607359+00:00"
-    },
-    {
-      "id": "ac867873-c844-4c7e-912c-3e5ff77c475d",
-      "name": "esraAl.pdf",
-      "sha256": "af60d93fe5a45ca4e5bb34594a7082746073644c980098ba9cc2c9a1006cb458",
-      "active": false,
-      "status": "ready",
-      "chunk_count": 5,
-      "embedding_model": "jinaai/jina-embeddings-v5-text-nano",
-      "embedding_provider": "local-jina",
-      "file_path": "data/uploads/ac867873-c844-4c7e-912c-3e5ff77c475d.pdf",
-      "index_path": "data/indexes/ac867873-c844-4c7e-912c-3e5ff77c475d.faiss",
-      "index_json_path": "data/indexes/ac867873-c844-4c7e-912c-3e5ff77c475d.json",
-      "chunks_path": "data/chunks/ac867873-c844-4c7e-912c-3e5ff77c475d.json",
-      "created_at": "2026-09-01T19:09:18.267986+00:00"
     }
   ]
 }

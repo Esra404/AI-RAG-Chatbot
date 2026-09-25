@@ -152,10 +152,75 @@
             "Mustafa Kemal Atatürk hayatı doğumu eğitimi Kurtuluş Savaşı Cumhuriyet kronolojisi",
             "Mustafa Kemal Atatürk biyografisi mesleki ve sosyal profil TBMM"
           ]
+        },
+        {
+          "id": "e926f231-a9cb-42cf-970f-3360eca6387a",
+          "role": "user",
+          "content": "selam",
+          "created_at": "2026-09-25T12:59:59.381300+00:00"
+        },
+        {
+          "id": "7a7887e4-d0e5-44b3-a31e-2a4a7c780173",
+          "role": "assistant",
+          "content": "Selam! Nasıl yardımcı olabilirim?",
+          "sources": [
+            {
+              "number": 1,
+              "document_id": "9cbac92e-3106-45b2-8982-7f7ccce68675",
+              "document_name": "Necip_Sahamettin_Kucuk_LLM_Engineer_CV (1).pdf",
+              "chunk_position": 4,
+              "chunk": "3\nDeveloped a two-camera, YOLO-based production-line tracking system using real-time image processing at the Çayırova\nwashing machine plant. YouTube Demo · GitHub\nEngineering Intern — Turkish Technic Jun 2022 – Aug 2022\nDeveloped hardware for stress-testing aircraft tray-table support assemblies at Sabiha Gökçen Airport (SAW). YouTube Demo\n1 / 3\n\nSELECTED PRODUCTION AI SYSTEMS — OBILET\nAI Hotel Image Selection\nDeveloped an AI workflow that evaluates hotel media and\nselects the most suitable images for presentation, reducing\nmanual visual curation.\nLLM-Based Hotel Badge Generation\nBuilt a system that analyzes hotel information and guest\nreviews, identifies differentiating attributes and generates\ncontext-appropriate hotel badges.\nAutonomous Jira-to-Code Delivery Agent\nConnected Jira, GitHub and GitHub Copilot so an AI agent can\ninterpret a task, implement the change and commit it;\nproduction release remains gated by manager approval.\nEvent-Driven Story-Point Estimation\nDesigned a Jira webhook → AWS Lambda → OpenAI\nworkflow that estimates task complexity and automatically\nwrites the story point back to the Jira issue.\nTECHNICAL SKILLS\nEnterprise AI & LLMs AI agents, multi-agent orchestration, tool/function calling, RAG, NLP, information retrieval, context\nengineering, prompt engineering, LLM evaluation, model optimization, Transformers, embeddings,",
+              "score": 0.259
+            },
+            {
+              "number": 2,
+              "document_id": "9cbac92e-3106-45b2-8982-7f7ccce68675",
+              "document_name": "Necip_Sahamettin_Kucuk_LLM_Engineer_CV (1).pdf",
+              "chunk_position": 9,
+              "chunk": "KNOFEST UAV Free Category 2022\nDeveloped a vision-guided rescue UAV that deploys life rings and uses a retrieval net with up to 15 kg carrying capacity. Star\nNews Coverage\nTÜBİTAK 2209-A — Aircraft Generator Backup 2022\nDeveloped a backup system that maintains a fixed 400 Hz aircraft electrical frequency.\nVOLUNTEER EXPERIENCE\nVolunteer Online Course Training Support — UNDP Aug 2024 – Dec 2024\nDelivered online training to children from various parts of Africa, covering Python, machine learning, data science and large\nlanguage models.\nGitHub & Content Management Support — UNDP Istanbul International Center for Private\nSector in Development\nDec 2024 – Present\nCreated and maintained LLM and deep-learning training materials for the Frontier Tech Leaders Programme and DS4SDGs\nrepositories; reviewed and resolved content issues on GitHub. LLM Colab · Deep Learning Notebook\n3 / 3",
+              "score": 0.2514
+            },
+            {
+              "number": 3,
+              "document_id": "9cbac92e-3106-45b2-8982-7f7ccce68675",
+              "document_name": "Necip_Sahamettin_Kucuk_LLM_Engineer_CV (1).pdf",
+              "chunk_position": 3,
+              "chunk": "obotics Jun 2024 – Nov 2025\nIntegrated an open-source LLM to eliminate dependency on paid model APIs and developed a modular RAG and information-\nretrieval platform supporting PDF, DOC, CSV, Excel, TXT and JSON sources.\nEnabled natural-language interaction with large Excel, CSV and SQL datasets, allowing non-technical users to perform\ndatabase operations without writing SQL.\nBuilt universal document-processing pipelines for text and entity extraction, completeness checks and retrieval, alongside\nreal-time facial/speech emotion recognition and context-preserving translation.\nCreated an AI CV–job matching system that scores similarity, evaluates qualifications, generates suitability reports and ranks\ncandidates.\nYouTube Demos\nSoftware Developer & AI Researcher — TÜBİTAK 1001 Project, Fırat University Oct 2023 – Jun 2024\nResearched Transformer and encoder–decoder architectures, NLP optimization and projection methods; studied DETR,\nYOLO, D-FINE, ResNet, DenseNet and EfficientNet and built demonstration applications.\nComputer Vision Intern — Arçelik, Washing Machine Plant Jul 2023 – Sep 2023\nDeveloped a two-camera, YOLO-based production-line tracking system using real-time image processing at the Çayırova\nwashing machine plant. YouTube Demo · GitHub\nEngineering Intern — Turkish Technic Jun 2022 – Aug 2022",
+              "score": 0.2214
+            },
+            {
+              "number": 4,
+              "document_id": "9cbac92e-3106-45b2-8982-7f7ccce68675",
+              "document_name": "Necip_Sahamettin_Kucuk_LLM_Engineer_CV (1).pdf",
+              "chunk_position": 2,
+              "chunk": "luation and monitoring pipelines for conversation quality, structured outputs and failure patterns;\ncontinuously refined prompts and workflows to improve accuracy, explainability, consistency and production reliability.\nDeliver company-wide AI training from C-level executives to entry-level employees, covering Chain-of-Thought, Tree-of-\nThought, model selection, hallucination risks, output validation and responsible AI adoption.\nArchitected secure production AI systems on AWS using Lambda, API Gateway, Cognito, DynamoDB, Secrets Manager, IAM\nand CloudWatch; applied role-based access, secret management, monitoring and human-in-the-loop controls.\nUsed Codex, Claude and Antigravity as AI coding agents to accelerate implementation, debugging and delivery across the\ndevelopment lifecycle.\nCore stack: Python, SQL, TypeScript, OpenAI, DeepSeek, Gemini, RAG, LLM evaluation, multi-agent orchestration, tool calling, Jira, GitHub,\nGitHub Copilot, AWS Lambda, API Gateway, Cognito, DynamoDB, Secrets Manager, IAM, CloudWatch, Docker, CI/CD\nSoftware Developer — AiGAP Artificial Intelligence & Robotics Jun 2024 – Nov 2025\nIntegrated an open-source LLM to eliminate dependency on paid model APIs and developed a modular RAG and information-\nretrieval platform supporting PDF, DOC, CSV, Excel, TXT and JSON sources.",
+              "score": 0.2089
+            },
+            {
+              "number": 5,
+              "document_id": "9cbac92e-3106-45b2-8982-7f7ccce68675",
+              "document_name": "Necip_Sahamettin_Kucuk_LLM_Engineer_CV (1).pdf",
+              "chunk_position": 0,
+              "chunk": "Necip Şahamettin KÜÇÜK\nSenior Artificial Intelligence Engineer | Enterprise AI, Agentic AI, RAG & Cloud\nPlatforms\nIstanbul, Türkiye • +90 534 589 81 60 • necamettinkck@gmail.com • LinkedIn • GitHub\nPROFESSIONAL SUMMARY\nArtificial Intelligence Engineer specializing in turning cognitive and operational work into reliable production AI systems. Designs\nand ships agentic AI, RAG, NLP and intelligent automation from business discovery and PoC through secure AWS architecture,\nenterprise integration, LLMOps, evaluation and production monitoring. Built customer-service AI systems that autonomously\nresolve 89% of eligible support tickets at 97% validation accuracy and deliver capacity equivalent to 4.64 person-months of\nwork.\nPROFESSIONAL EXPERIENCE\nArtificial Intelligence Engineer — Obilet Nov 2025 – Present\nDeveloped an AI ticket-resolution agent that autonomously answers 89% of customer-support tickets with 97% accuracy,\nshifting repetitive resolution work from the CX team to AI and providing workload capacity equivalent to 4.64 person-months.\nOwn LLM features end to end: identify high-impact use cases, build working PoCs with Python APIs and Next.js/Tailwind CSS\ninterfaces, present demos and business value to management and the CTO, and productionize approved initiatives through\nJira delivery workflows.",
+              "score": 0.2072
+            },
+            {
+              "number": 6,
+              "document_id": "9cbac92e-3106-45b2-8982-7f7ccce68675",
+              "document_name": "Necip_Sahamettin_Kucuk_LLM_Engineer_CV (1).pdf",
+              "chunk_position": 1,
+              "chunk": "act use cases, build working PoCs with Python APIs and Next.js/Tailwind CSS\ninterfaces, present demos and business value to management and the CTO, and productionize approved initiatives through\nJira delivery workflows.\nBuilt an event-driven Jira story-point estimation system: Jira webhooks trigger AWS Lambda, the service evaluates task scope\nwith OpenAI and writes the estimated story point back to Jira.\nBuilt a DeepSeek-powered, Obilet-specific chatbot with domain-aware responses and production integrations; applied context\nengineering and evaluated DeepSeek, Gemini and OpenAI models for output quality, hallucination risk, latency and token-cost\ntradeoffs.\nDesigned multi-agent orchestration pipelines that analyze reports and customer feedback, detect recurring pain points,\nclassify issues and route actionable insights to relevant teams.\nDeveloped an agentic AI call-center platform that automates processes previously handled by call-center teams, conducting\noutbound customer calls, collecting feedback, completing forms and executing end-to-end business workflows through tool\ncalling.\nImplemented LLMOps evaluation and monitoring pipelines for conversation quality, structured outputs and failure patterns;\ncontinuously refined prompts and workflows to improve accuracy, explainability, consistency and production reliability.",
+              "score": 0.1916
+            }
+          ],
+          "created_at": "2026-09-25T12:59:59.381300+00:00",
+          "web_sources": [],
+          "web_search_used": false,
+          "web_queries": []
         }
       ],
       "created_at": "2026-09-02T05:49:21.838511+00:00",
-      "updated_at": "2026-09-19T14:25:42.601408+00:00"
+      "updated_at": "2026-09-25T12:59:59.381300+00:00"
     },
     {
       "id": "b29b9dd0-a0f7-41a4-9149-89a090a91cb2",
