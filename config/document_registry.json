@@ -1,22 +1,7 @@
 {
   "documents": [
     {
-      "id": "c81408fa-508a-4f9d-aab1-b99fd3291aba",
-      "name": "nesli_tukenmekte_olan_hayvanlar_v2 (1).pdf",
-      "sha256": "9311828e4f4126b5d40144259d44e71665bf24e70f7b2cffa6085d1f9c7c9065",
-      "active": true,
-      "status": "ready",
-      "chunk_count": 3,
-      "embedding_model": "jinaai/jina-embeddings-v5-text-nano",
-      "embedding_provider": "local-jina",
-      "file_path": "data/uploads/c81408fa-508a-4f9d-aab1-b99fd3291aba.pdf",
-      "index_path": "data/indexes/c81408fa-508a-4f9d-aab1-b99fd3291aba.faiss",
-      "index_json_path": "data/indexes/c81408fa-508a-4f9d-aab1-b99fd3291aba.json",
-      "chunks_path": "data/chunks/c81408fa-508a-4f9d-aab1-b99fd3291aba.json",
-      "created_at": "2026-09-02T03:02:34.356499+00:00"
-    },
-    {
-      "id": "5afd5500-e2b3-45d3-a93f-99208d8846a1",
+      "id": "9e20ca45-1819-4b14-876b-019862e37a37",
       "name": "nikola_tesla_hayati.pdf",
       "sha256": "b37d373f9bbbdbfbac0c063353ff6e863f2122016bda311ca40ab1d382971ae4",
       "active": true,
@@ -24,11 +9,11 @@
       "chunk_count": 2,
       "embedding_model": "jinaai/jina-embeddings-v5-text-nano",
       "embedding_provider": "local-jina",
-      "file_path": "data/uploads/5afd5500-e2b3-45d3-a93f-99208d8846a1.pdf",
-      "index_path": "data/indexes/5afd5500-e2b3-45d3-a93f-99208d8846a1.faiss",
-      "index_json_path": "data/indexes/5afd5500-e2b3-45d3-a93f-99208d8846a1.json",
-      "chunks_path": "data/chunks/5afd5500-e2b3-45d3-a93f-99208d8846a1.json",
-      "created_at": "2026-09-02T02:59:50.607359+00:00"
+      "file_path": "data/uploads/9e20ca45-1819-4b14-876b-019862e37a37.pdf",
+      "index_path": "data/indexes/9e20ca45-1819-4b14-876b-019862e37a37.faiss",
+      "index_json_path": "data/indexes/9e20ca45-1819-4b14-876b-019862e37a37.json",
+      "chunks_path": "data/chunks/9e20ca45-1819-4b14-876b-019862e37a37.json",
+      "created_at": "2026-09-25T13:45:11.494421+00:00"
     }
   ]
 }

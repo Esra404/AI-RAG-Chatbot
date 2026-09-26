@@ -217,10 +217,277 @@
           "web_sources": [],
           "web_search_used": false,
           "web_queries": []
+        },
+        {
+          "id": "7cda6caf-8290-4185-b962-8a5aac575f9b",
+          "role": "user",
+          "content": "hi",
+          "created_at": "2026-09-25T13:40:25.116415+00:00"
+        },
+        {
+          "id": "6948ae15-aa77-4df0-ad66-fcfdbb3fdd2b",
+          "role": "assistant",
+          "content": "Hi! How can I help you?",
+          "sources": [],
+          "created_at": "2026-09-25T13:40:25.116415+00:00",
+          "web_sources": [],
+          "web_search_used": false,
+          "web_queries": []
+        },
+        {
+          "id": "d5f5b5ba-0764-4116-9c4f-d5f3aba77a32",
+          "role": "user",
+          "content": "pdf leri birleştir",
+          "created_at": "2026-09-25T13:42:07.804989+00:00"
+        },
+        {
+          "id": "116c77f3-00a3-42f3-96cf-1f9278184a94",
+          "role": "assistant",
+          "content": "PDF’leri birleştirebilirim. Lütfen birleştirmek istediğiniz PDF dosyalarını buraya yükleyin; ardından dosyaları istediğiniz sırayla tek PDF hâline getirebilirim.\n\nKendiniz yapmak isterseniz Adobe Acrobat, Smallpdf veya PDF24 gibi çevrim içi araçları kullanabilirsiniz. [Web 2] [Web 3] [Web 7]",
+          "sources": [],
+          "created_at": "2026-09-25T13:42:07.804989+00:00",
+          "web_sources": [
+            {
+              "number": 1,
+              "title": "PDF Dosyalarını Çevrimiçi Olarak Kolayca Ücretsiz Birleştirme",
+              "url": "https://clickup.com/tr/blog/455878/pdf-dosyalarini-uecretsiz-olarak-birleshtirme",
+              "content": "PDF Dosyalarını Çevrimiçi Olarak Kolayca Ücretsiz Birleştirme\n\n# PDF Dosyalarını Çevrimiçi Olarak Kolayca Ücretsiz Birleştirme\n\nPraburam\n\nİçeriği kopyalamak, ayrı ek dosyaları göndermek ve dağınık dosyaları izlemekle uğraşmak, birden fazla PDF dosyasıyla çalışmayı hızla sinir bozucu hale getirebilir.\n\nBu ikilemin en basit çözümü, çok sayıda PDF dosyasını tek bir PDF belgesinde birleştirmektir. Adobe Acrobat popüler bir yazılımdır, ancak pahalı ve aşırı karmaşıktır.\n\nAncak PDF'leri birleştirmek için ücretli bir yazılıma ihtiyacınız yok; birçok ücretsiz çevrimiçi araç, PDF'leri saniyeler içinde birleştirmenize olanak tanır. Bazıları PDF'leri düzenleme, dönüştürme, imzalama ve açıklama ekleme gibi ek özellikleri bile destekler! [...] Bu makalede, PDF dosyalarını çevrimiçi olarak ücretsiz birleştirmeyi ve basit sürükle ve bırak araçlarıyla  belge yönetimi iş akışınızı basitleştirmeyi keşfedeceğiz. Hadi başlayalım.\n\n🧠Eğlenceli Bilgi: Her yıl 400 milyardan fazla PDF dosyası açılıyor ve 16 milyar belge Adobe Acrobat kullanılarak düzenleniyor!\n\n## PDF Dosyalarını Ücretsiz Olarak Birleştirme\n\nPDF belgelerini birleştirmek zor bir görev gibi mi geliyor? Mac ve Windows'ta PDF dosyalarını ücretsiz olarak birleştirmeyi gösteren basit, adım adım kılavuz:\n\n### Mac'te PDF'leri birleştirme [...] 1. PDF Birleştirici ve Ayırıcı'yı açın ve PDF'leri Birleştir'i seçin\n\nPDF Birleştirici ve Ayırıcı\n\n2. Dosya Gezgini'ni açmak için \"PDF'leri Ekle\"yi tıklayın, ardından Ctrl tuşunu basılı tutarak birden fazla dosya seçin. Uygulamaya yüklemek için Aç'ı tıklayın\n\nPDF ekle\n\n3. Yukarı Taşı ve Aşağı Taşı düğmelerini kullanarak sırayı ayarlayın. Dosya düzenini kontrol etmek için \"Önizleme\"yi, istenmeyen dosyaları silmek için \"Kaldır\"ı tıklayın\n\nÖnizleme ve Kaldırma özelliği\n\n4. Gerekirse evrensel bir sayfa boyutu ayarlayın veya orijinal ayarları koruyun\n\n5. \"PDF'leri birleştir\" seçeneğine tıklayın ve birleştirilen dosyayı bilgisayarınıza kaydedin\n\nPDF'leri birleştir",
+              "score": 0.8748,
+              "query": "PDF dosyalarını birleştirme resmi Adobe Acrobat çevrim içi araç"
+            },
+            {
+              "number": 2,
+              "title": "Çevrimiçi ücretsiz PDF birleştirin | Adobe Acrobat (Türkiye)",
+              "url": "https://www.adobe.com/tr/acrobat/online/merge-pdf.html",
+              "content": "Adobe Acrobat'ın PDF birleştirme aracı ile birden fazla PDF belgesini çevrimiçi olarak ücretsiz şekilde tek bir dosyada birleştirebilirsiniz. Artık ayrı PDF'",
+              "score": 0.8714,
+              "query": "PDF dosyalarını birleştirme ücretsiz güvenilir araç"
+            },
+            {
+              "number": 3,
+              "title": "PDF Birleştirme - PDF dosyalarını çevrimiçi ücretsiz birleştirin",
+              "url": "https://smallpdf.com/tr/merge-pdf",
+              "content": "Smallpdf'in PDF birleştiricisiyle birden fazla PDF dosyasını tek bir belgede birleştirmek hızlı ve zahmetsiz. PDF dosyalarını yüklemen yeterli, gerisini",
+              "score": 0.8636,
+              "query": "PDF dosyalarını birleştirme ücretsiz güvenilir araç"
+            },
+            {
+              "number": 4,
+              "title": "Yeni Başlayanlar İçin Adobe PDF Combiner Kullanımına Hızlı Kılavuz",
+              "url": "https://www.kimi.ai/tr/resources/adobe-pdf-combiner",
+              "content": "Adım 1: Dosyaları yükleyin\n\nAdobe Acrobat'ı başlatın ve \"All Tools\" >\" Combine Files\" seçeneğini açın. \"Add Files\" seçeneğine tıklayın veya dosyalarınızı yükleme alanına sürükleyip bırakın.\n\nDosyayı Adobe PDF combiner'a yükleyin\n\nAdım 2: Belgeleri düzenleyin ve birleştirin\n\nArdından küçük resimleri sürükleyerek dosyalarınızı doğru sıraya yerleştirin. İstenmeyen sayfaları veya belgeleri silmek için \"Remove\" seçeneğini de kullanabilirsiniz. Son olarak sağ alt köşedeki \"Combine\" düğmesine tıklayın.\n\nAdobe Acrobat PDF combiner kullanarak belgeleri düzenleyin ve birleştirin\n\nAdım 3: Nihai PDF’yi indirin\n\nBirleştirme işlemi tamamlandığında \"File\">\" Save as\" yolunu izleyin. Dosya adınızı girin ve kaydetme konumunu seçin. Nihai birleştirilmiş PDF’niz kullanıma hazır olacaktır. [...] ## Adobe Acrobat PDF combiner neden kullanmaya değer?\n\nBirden fazla PDF dosyasını yönetmek oldukça zordur. Raporlar, sözleşmeler, sunumlar veya ödevlerle çalışıyorsanız saatler ve ciddi emek harcamanız gerekir. Adobe PDF combiner free online, süreci daha hızlı ve düzenli hale getirir. İşte bu aracın özellikleri.\n\n#### Hızlı PDF dosyası birleştirme\n\nGenel olarak Adobe free PDF combiner, birden fazla PDF dosyasını yalnızca birkaç dakika içinde birleştirmenize yardımcı olur. Teslim tarihleri ve büyük projeler üzerinde çalışırken zaman kazandırır. Artık ayrı dosyaları elle yönetmeniz gerekmez. Süreç baştan sona akıcı ve verimli ilerler.\n\n#### Kolay belge düzenleme [...] #### Hızlı PDF birleştirme\n\nKimi Docs, son derece verimli bir PDF birleştirme deneyimi sunar. İş akışı verimliliğini kesintiye uğratmadan birden çok belgeyi saniyeler içinde birleştirmenize olanak tanır. Optimize edilmiş işleme sistemi büyük dosyaları sorunsuzca işler; bu da onu profesyonel raporlar, iş dokümantasyonu, akademik kayıtlar ve ortak projeler için uygun kılar.\n\n#### Özgün düzen korunur\n\nKimi Docs ile PDF dosyalarını çevrimiçi birleştirirken, bu araç tablolar, grafikler, tipografi, görüntü çözünürlüğü ve sayfa hizalaması dâhil ayrıntılı biçimlendirme öğelerini korur. Böylece belge profesyonel görünümünü sürdürür ve farklı görüntüleme cihazlarında biçimlendirme sorunları azalır.\n\n#### Sayfaları kolayca yeniden sıralayın",
+              "score": 0.8273,
+              "query": "PDF dosyalarını birleştirme resmi Adobe Acrobat çevrim içi araç"
+            },
+            {
+              "number": 5,
+              "title": "Birden çok PDF belgesini, görüntüyü ve dosyayı birleştirme",
+              "url": "https://www.adobe.com/tr/acrobat/how-to/merge-combine-pdf-files-online.html",
+              "content": "Dosyaları birleştirmek için Acrobat'ı açma: Araçlar sekmesini açın ve \"Dosyaları birleştir\"i seçin. Dosya ekleme:\"Dosyaları Ekle\"yi tıklatın ve PDF'nize eklemek",
+              "score": 0.8219,
+              "query": "PDF dosyalarını birleştirme resmi Adobe Acrobat çevrim içi araç"
+            },
+            {
+              "number": 6,
+              "title": "PDF dosyalarını birleştir",
+              "url": "https://www.ilovepdf.com/tr/pdf-birlestirme",
+              "content": "Birden fazla PDF dosyasını seç ve saniyeler içerisinde birleştir. PDF dosyalarını online ortamda kolaylıkla ve ücretsiz birleştir.",
+              "score": 0.8029,
+              "query": "PDF dosyalarını birleştirme ücretsiz güvenilir araç"
+            },
+            {
+              "number": 7,
+              "title": "PDF birleştirme - %100 ücretsiz ve online - PDF24",
+              "url": "https://tools.pdf24.org/tr/pdf-birlestirme",
+              "content": "### Kullanımı kolay\n\nPDF24, PDF dosyalarını birleştirmek için mümkün olduğunca kolay ve hızlı olmasını sağlar. Herhangi bir şey yüklemenize gerek yok, yalnızca PDF dosyalarınızı uygulamada seçip sayfaları birleştirmeniz yeterlidir.\n\n### Sisteminizi destekler\n\nPDF dosyalarını çevrimiçi ortamda birleştirmek için özel bir gereklilik yoktur. Uygulama, mevcut tüm işletim sistemleri ve tarayıcılarla çalışır. Sadece tarayıcınızda bu uygulamayı kullanın ve birleştirmeye başlayın.\n\n### Kurulum gerekmez\n\nHerhangi bir yazılımı indirip yüklemenize gerek yoktur. PDF dosyaları, sunucularımızdaki bulutta birleştirildiğinden, bu araç sistem kaynaklarınızı tüketmez.\n\n### PDF'lerin güvenli bir şekilde birleştirilmesi [...] ### PDF'lerin güvenli bir şekilde birleştirilmesi\n\nBu PDF birleştirme uygulaması, dosyalarınızı sunucumuzda gerekenden daha uzun süre saklamaz. Dosyalarınız ve sonuçlarınız kısa bir süre sonra sunucumuzdan silinir.\n\nStefan Ziegler\n\n## Nasıl çalışır\n\n## Başkaları ne diyor\n\n## Sorular ve cevaplar\n\n### PDF dosyaları nasıl birleştirilir?\n\n### Birden fazla Word belgesi nasıl bir araya getirilir?\n\n### PDF'leri offline olarak nasıl birleştiririm?\n\nBunun için yalnızca ücretsiz ve pratik PDF24 Creator programını indirip çalıştırmanız yeterli. Bu yazılım, kullanımı kolay bir PDF birleştirme aracı da içeren çevrimdışı bir PDF çözümüdür.\n\n## Lütfen bu uygulamayı değerlendirin\n\n## Lütfen PDF24'ü arkadaşlarla paylaşın\n\n## Alternatif: PDF24 Creator\n\n## Daha fazla harika araç [...] PDF birleştirme\n\n# PDF birleştirme\n\n## Birden fazla PDF'yi kalite kaybı olmadan tek bir PDF'de toplayın – görseller, Word belgeleri ve diğer dosyalarla da\n\nGoogle Drive\n\n## Bilgi\n\n### PDF dosyaları nasıl birleştirilir?\n\nBirleştirmek istediğiniz PDF dosyalarını seçin ya da dosyaları aktif alana bırakın. PDF'lerin sayfaları gösterilir. Yeni dosyaya eklemek istediğiniz sayfalara tıklayın. Yeni PDF'nizi kaydedin.\n\n### Kalite kaybı yok\n\nKalitesi hakkında endişelenmeyin. PDF dosyalarının sayfalarını birleştirme, PDF'nizin kalitesini etkilemez. Araç, sayfaların kalitesini tam olarak aynı kalacak şekilde sayfaları birleştirir.\n\n### Kullanımı kolay",
+              "score": 0.7975,
+              "query": "PDF dosyalarını birleştirme resmi Adobe Acrobat çevrim içi araç"
+            },
+            {
+              "number": 8,
+              "title": "Çevrimiçi PDF dosya ayırma aracı | Adobe Acrobat (Türkiye)",
+              "url": "https://www.adobe.com/tr/acrobat/online/split-pdf.html",
+              "content": "PDF'yi Acrobat uygulamasında açın. · Araçlar > Sayfaları Organize Et > Böl'ü seçin. · Böl açılır menüsünde PDF dosyasını sayfa sayısına, maksimum dosya boyutuna",
+              "score": 0.7518,
+              "query": "PDF dosyalarını birleştirme resmi Adobe Acrobat çevrim içi araç"
+            },
+            {
+              "number": 9,
+              "title": "PDF dosyalarını böl ve birleştir. Ücretsiz ve açık kaynak",
+              "url": "https://pdfsam.org/tr",
+              "content": "PDFsam (PDF Split and Merge), PDF dosyalarını bölmek, birleştirmek, ayıklamak, döndürmek ve karıştırmak için ücretsiz, açık kaynaklı bir masaüstü uygulamasıdır.",
+              "score": 0.5478,
+              "query": "Windows macOS Android PDF birleştirme uygulaması"
+            },
+            {
+              "number": 10,
+              "title": "‎PDFs Split & Merge App - App Store",
+              "url": "https://apps.apple.com/us/app/pdfs-split-merge/id1393839510?mt=12",
+              "content": "Mac\n\nPDFs Split & Merge is a lightweight application for your Mac. It helps you Split, Merge and Unlock PDF files within seconds and it's all offline. We respect your privacy. Features: - Merge two files into one. - Split any PDFs into as many numbers of the file as needed. - You can specify the PDF file range to split. - Split specific pages in the PDF file. - Split a custom range file. Have trouble using the application or a feedback to share — Write to us at pdfsplitandmerge@gmail.com. [...] # PDFs Split & Merge\n\nBreak & Combine PDF anytime\n\nOnly for Mac\n\nFree · In‑App Purchases\n\n Age Rating\n\n  4+\n Sumit Paul\n EN\n\n  + 20 More\n Size\n\n  4\n\n  MB\n\n \n \n \n \n\nMac [...] Update: dinged a star because the Pro version is too expensive ($13) for only being a PDF merger/splitter. I didn't know we're only given limited credits and after I finished testing the credits were out.I needed to merge a large book (800 pages), and using MacOS preview's edit --> insert function kept freezing and crashing. I was getting very frustrated until I found this app. It literally merged the entire book in less than 2 seconds.Love when I find a piece of software that works really",
+              "score": 0.4679,
+              "query": "Windows macOS Android PDF birleştirme uygulaması"
+            }
+          ],
+          "web_search_used": true,
+          "web_queries": [
+            "PDF dosyalarını birleştirme resmi Adobe Acrobat çevrim içi araç",
+            "PDF dosyalarını birleştirme ücretsiz güvenilir araç",
+            "Windows macOS Android PDF birleştirme uygulaması"
+          ]
+        },
+        {
+          "id": "63467a27-18b6-4323-b497-152d2f58560f",
+          "role": "user",
+          "content": "batman için hava dıurumu",
+          "created_at": "2026-09-25T13:42:37.563085+00:00"
+        },
+        {
+          "id": "4cd0a673-4ba3-4b07-a140-67d5b6ac192c",
+          "role": "assistant",
+          "content": "Batman’da hava **parçalı bulutlu ve genel olarak yağışsız** görünüyor. Sıcaklık kaynaklara göre yaklaşık **17–20°C**, gün içinde ise **31–33°C’ye** kadar çıkabilir. Rüzgâr hafif, yaklaşık **4 km/sa**. [Web 1] [Web 2] [Web 4] [Web 9]\n\nTahminler farklı saatlerde güncellendiği için en doğru ve güncel bilgi için Meteoroloji Genel Müdürlüğü’nün Batman sayfasını kontrol etmenizi öneririm. [Web 8]",
+          "sources": [],
+          "created_at": "2026-09-25T13:42:37.563085+00:00",
+          "web_sources": [
+            {
+              "number": 1,
+              "title": "Batman, Türkiye Hava Durumu Tahmini",
+              "url": "https://www.msn.com/tr-tr/havadurumu/havadurumutahmini/in-Batman,T%C3%BCrkiye",
+              "content": "Türkiye Güncel hava durumu 03:00 Güneşli 20°C … 46 Rüzgâr 4 km/s. Bugün Saatlik Tahmin 1% 22:00, 24°, UV indeksi 6 · Yüksek 12 sa.",
+              "score": 0.9361,
+              "query": "Batman, Türkiye güncel hava durumu bugün saatlik tahmin"
+            },
+            {
+              "number": 2,
+              "title": "Hava durumu tahmini Batman'dan, Batman, Türkiye",
+              "url": "https://yandex.com.tr/hava/tr/batman",
+              "content": "Hava durumu tahmini güncellendi: 13:00 . Hava durumu şu anda: parçalı bulutlu.‌ Bugün yağış beklenmiyor, hava sıcaklığı 17° (hissedilen 16°). Rüzgar hızı 4 km/s",
+              "score": 0.9273,
+              "query": "Batman, Türkiye güncel hava durumu bugün saatlik tahmin"
+            },
+            {
+              "number": 3,
+              "title": "Batman İçin Hava Durumu",
+              "url": "https://www.mgm.gov.tr?il=Batman",
+              "content": "Batman İçin Hava Durumu DE. Meteoroloji Genel Müdürlüğü Kurumsal. Meteoroloji Müzesi 0km/sa H % 57 Çarşamba Sıcak 16°C 36°C Nem (%) 18-50 Rüzgar (km/sa) dan 8",
+              "score": 0.9083,
+              "query": "Meteoroloji Genel Müdürlüğü Batman hava durumu"
+            },
+            {
+              "number": 4,
+              "title": "25 Eylül Batman Bugün Saatlik Hava Durumu",
+              "url": "https://onedio.com/hava-durumu/batman-hava-durumu-bugun-saatlik",
+              "content": "Batman bugün 19°C, hava parçalı bulutlu. Saatlik sıcaklık, rüzgar ve nem tahmini. Sabah saatlerinde 15°C civarında başlayan sıcaklık, öğle saatlerinde 31°C'ye",
+              "score": 0.8981,
+              "query": "Batman, Türkiye güncel hava durumu bugün saatlik tahmin"
+            },
+            {
+              "number": 5,
+              "title": "Batman, Batman, Türkiye Üç Günlük Hava Durumu Tahmini | AccuWeather",
+              "url": "https://www.accuweather.com/tr/tr/batman/317225/weather-forecast/317225",
+              "content": "# Batman, Batman\n\nBatman\n\nBatman\n\n## Dünya\n\nDünya\n\n### Kasırga\n\n### Radar ve Haritalar\n\n### Video\n\n## Bugün\n\n## Mevcut Hava Durumu\n\n16:42\n\n## Önümüzdeki\n\nPazartesi sabahı sağanaklar bekleniyor\n\n## Batman Hava Durumu Radarı\n\nBatman Hava Durumu Radarı\n\n## Saat Başı Tahmin\n\nrain drop\n\nrain drop\n\nrain drop\n\nrain drop\n\nrain drop\n\nrain drop\n\nrain drop\n\nrain drop\n\nrain drop\n\nrain drop\n\nrain drop\n\nrain drop\n\n## Günlük Hava Tahmini\n\nBugün\n\n25.9\n\nBulutlu ve güneşli\n\nAçık\n\nCmt\n\n26.9\n\nÇoğunlukla güneşli\n\nParçalı bulutlu\n\nPaz\n\n27.9\n\nÇoğunlukla güneşli\n\nAçık\n\nPzt\n\n28.9\n\nYer yer sağanaklar\n\nAçık\n\nSal\n\n29.9\n\nGüneşli\n\nÇoğunlukla açık\n\nÇar\n\n30.9\n\nArtan bulutlar\n\nAçılıyor\n\nPer\n\n1.10\n\nÇoğunlukla güneşli\n\nParçalı bulutlu\n\nCum\n\n2.10\n\nYer yer sağanaklar\n\nYağmur geçişleri\n\nCmt\n\n3.10\n\nKısmen güneşli [...] Yağmur geçişleri\n\nCmt\n\n3.10\n\nKısmen güneşli\n\nParçalı bulutlu\n\nPaz\n\n4.10\n\nBulutlu ve güneşli\n\nAçık\n\n## Güneş ve Ay\n\n## Hava Kalitesi\n\nHava yüksek bir kirlilik düzeyine ulaştı. Hassas gruplar için sağlıksız bir durum. Nefes alma güçlüğü ve boğazda tahriş gibi belirtiler varsa dışarıda geçirdiğiniz süreyi azaltın.\n\n## Alerji Öngörüsü\n\n## Yakın Yerler:",
+              "score": 0.8871,
+              "query": "Batman, Türkiye güncel hava durumu bugün saatlik tahmin"
+            },
+            {
+              "number": 6,
+              "title": "Batman Bugün, Yarın ve 1 Haftalık Hava Durumu Tahmini",
+              "url": "https://www.diyanethaber.com.tr/batman-hava-durumu",
+              "content": "25 Eylül Cuma. 09:20. Nem: %29, Basınç: 1015 hpa hPa, Rüzgar: 0.83 m/s. Beşiri Gercüş Hasankeyf Kozluk Merkez Sason. Nem. %29. Basınç. 1015 hpa hPa. Rüzgar.",
+              "score": 0.8695,
+              "query": "Batman, Türkiye güncel hava durumu bugün saatlik tahmin"
+            },
+            {
+              "number": 7,
+              "title": "5 günlük hava durumu tahmini - — Batman",
+              "url": "https://yandex.com.tr/hava/tr/batman/details/5-day-weather",
+              "content": "5 günlük hava durumu tahmini. — Batman ; Bugün, 25 Eylül · 22°. parçalı bulutlu. 24°. 5 ; Yarın, 26 Eylül · 22°. az bulutlu. 23°. 5 ; Pazar, 27 Eylül · 25°. az",
+              "score": 0.86,
+              "query": "Batman Türkiye 5 günlük hava durumu tahmini"
+            },
+            {
+              "number": 8,
+              "title": "Batman için anlık hava durumu, saatlik ve 5 günlük hava tahmini | Meteoroloji Genel Müdürlüğü",
+              "url": "https://www.mgm.gov.tr/tahmin/il-ve-ilceler.aspx?il=Batman",
+              "content": "Çevre, Şehircilik ve İklim Değişikliği Bakanlığı\nMeteoroloji Genel Müdürlüğü\n\n### TÜRKİYE TAHMİNLERİ\n\n### DİĞER TAHMİN ÜRÜNLERİ\n\n### DÜNYA TAHMİNLERİ\n\n### TÜRKİYE SON DURUMLAR\n\n### DÜNYA SON DURUMLAR\n\n### TAHMİNLER\n\n### ANALİZ\n\n### SICAKLIK\n\n### YAĞIŞ\n\n### KURAKLIK\n\n### BUHARLAŞMA\n\n### GÜNEŞLENME\n\n### İKLİM\n\n### HAVA KİRLİLİĞİ VE ASİT YAĞMURLARI\n\n### RESMİ İKLİM İSTATİSTİKLERİ\n\nAna Sayfa › Tahminler › İl ve İlçe Merkezlerinde 5 Günlük Tahmin\n\n# Batman İçin Detaylı Hava Durumu\n\n## ANLIK DURUM ()\n\n## SAATLİK TAHMİN\n\n| Saat | Beklenen Hadise | Sıcaklık (°C) | Hissedilen Sıcaklık (°C) | Nem (%) | Rüzgar Yönü | Ort. Rüzgar Hızı (km/sa) | Maks. Rüzgar Hızı (km/sa) |\n ---  ---  ---  --- |\n  |  |  |  |  |  |  |\n\n## 5 GÜNLÜK TAHMİN [...] ## 5 GÜNLÜK TAHMİN\n\n| TARİH | TAHMİN EDİLEN | | | | | | | GEÇMİŞTE GERÇEKLEŞEN (1991 - 2020) | | | |\n ---  ---  ---  ---  ---  --- |\n| Hadise | Sıcaklık (°C) | | Nem (%) | | Rüzgar (km/sa) | | Uç Sıcaklık (°C) | | Ortalama Sıcaklık (°C) | |\n| En Düşük | En Yüksek | En Düşük | En Yüksek | Yön | Hız | En Düşük | En Yüksek | En Düşük | En Yüksek |\n|  |  |  |  |  |  |    |  |  |  |  |\n|  |  |  |  |  |  |    |  |  |  |  |\n|  |  |  |  |  |  |    |  |  |  |  |\n|  |  |  |  |  |  |    |  |  |  |  |\n|  |  |  |  |  |  |    |  |  |  |  |\n\nBu Merkeze Ait Uç ve Ortalama Değerler İçin Tıklayınız.\n\nGüncelleme her gün saat 14.00‘e kadar yapılmaktadır. (TSi)\n\nMobil Cihazlar için  \nMeteoroloji Hava Durumu Uygulaması\n\nPlaystore\nAppStore\n\n© 1998 - 2026 Meteoroloji Genel Müdürlüğü. Her Hakkı Saklıdır.",
+              "score": 0.8522,
+              "query": "Batman, Türkiye güncel hava durumu bugün saatlik tahmin"
+            },
+            {
+              "number": 9,
+              "title": "Batman 15 Günlük Hava Durumu Tahmini",
+              "url": "https://www.mynet.com/hava-durumu/batman-15-gunluk-hava-durumu",
+              "content": "Batman Güncel Hava Durumu: Havanın Kapalı, en yüksek sıcaklığın 33° ve en düşük sıcaklığın 14° olması bekleniyor. Rüzgar K yönünde 2.06 KM/S hızında, nem oranı",
+              "score": 0.7598,
+              "query": "Batman Türkiye 5 günlük hava durumu tahmini"
+            },
+            {
+              "number": 10,
+              "title": "Batman Hava Durumu 15 Günlük Tahmin",
+              "url": "https://havadurumu15gunluk.xyz/havadurumu/1344/batman-hava-durumu-15-gunluk.html",
+              "content": "Bugünkü hava durumunun az bulutlu ve güneşli olması beklenirken, en yüksek sıcaklığın 32°C, en düşük sıcaklığının ise 17°C olacağı tahmin ediliyor.",
+              "score": 0.6755,
+              "query": "Meteoroloji Genel Müdürlüğü Batman hava durumu"
+            }
+          ],
+          "web_search_used": true,
+          "web_queries": [
+            "Batman, Türkiye güncel hava durumu bugün saatlik tahmin",
+            "Batman Türkiye 5 günlük hava durumu tahmini",
+            "Meteoroloji Genel Müdürlüğü Batman hava durumu"
+          ]
+        },
+        {
+          "id": "0a0a0fef-f1c6-449a-82d5-528623934754",
+          "role": "user",
+          "content": "yükeldiğim pdf i özeltle",
+          "created_at": "2026-09-25T13:42:49.219654+00:00"
+        },
+        {
+          "id": "33e01fe5-b118-460e-ac27-657d74eaf9ec",
+          "role": "assistant",
+          "content": "Yüklediğiniz PDF şu anda bana görünmüyor. Lütfen PDF’yi tekrar yükleyin; ardından içeriğini kısa veya ayrıntılı şekilde özetleyebilirim.",
+          "sources": [],
+          "created_at": "2026-09-25T13:42:49.219654+00:00",
+          "web_sources": [],
+          "web_search_used": false,
+          "web_queries": []
+        },
+        {
+          "id": "e2839b8e-1a29-46cc-b43a-c0c2780e1d95",
+          "role": "user",
+          "content": "yüklediğim pdf i şimdi özetle",
+          "created_at": "2026-09-25T13:45:34.142483+00:00"
+        },
+        {
+          "id": "0736c1d8-af55-478d-b1e5-b30009115564",
+          "role": "assistant",
+          "content": "### Nikola Tesla’nın Hayatı – Kısa Özet\n\nNikola Tesla, 10 Temmuz 1856’da günümüzde Hırvatistan sınırları içinde bulunan Smiljan’da doğan Sırp asıllı Amerikalı mucit ve fizikçidir. Graz Teknik Üniversitesi’nde mühendislik ve fizik eğitimi aldı; daha sonra Budapeşte’de bir telefon şirketinde çalıştı. [Kaynak 2]\n\n1884’te Amerika’ya giderek Thomas Edison’ın yanında çalıştı. Edison’ın Doğru Akım (DC) sistemiyle Tesla’nın Alternatif Akım (AC) görüşü arasındaki anlaşmazlık nedeniyle yolları ayrıldı. Tesla, AC sistemlerinin patentlerini George Westinghouse’a sattı ve bu sistemin “Akımlar Savaşı”nda üstün gelmesine katkı sağladı. [Kaynak 2]\n\nTesla’nın başlıca çalışmaları arasında uzun mesafeli elektrik iletimini mümkün kılan AC motoru, yüksek voltajlı elektrik üreten Tesla Bobini, radyo frekansları, uzaktan kumanda, X-ışınları ve floresan ışıkla ilgili araştırmalar bulunur. [Kaynak 1]\n\nDünyadaki iletişim ve elektriği kablosuz hâle getirmek amacıyla Wardenclyffe Kulesi projesini başlattı; ancak mali desteğin kesilmesi nedeniyle proje tamamlanamadı. Tesla, 7 Ocak 1943’te 86 yaşında hayatını kaybetti. Manyetik akı yoğunluğu birimi “tesla” ve Tesla şirketi onun anısına adlandırılmıştır. [Kaynak 1]",
+          "sources": [
+            {
+              "number": 1,
+              "document_id": "9e20ca45-1819-4b14-876b-019862e37a37",
+              "document_name": "nikola_tesla_hayati.pdf",
+              "chunk_position": 1,
+              "chunk": "'a sattı. Bu gelişme, tarihe geçen \"Akımlar\nSavaşı\"nda Alternatif Akım'ın zaferiyle sonuçlandı.\n3. Önemli Buluşları ve İnovasyonları\nAlternatif Akım (AC) Motoru: Uzun mesafelere kayıpsız elektrik iletimini mümkün kıldı.\nTesla Bobini (1891): Yüksek voltajlı ve yüksek frekanslı alternatif akım üreten, kablosuz enerji iletimi deneylerinin temeli\nolan cihaz.\nRadyo ve Uzaktan Kumanda: Guglielmo Marconi'den önce radyo frekansları ve uzaktan kumandalı teknoloji üzerine çalıştı\nve ilk kumandalı tekne gösterisini gerçekleştirdi.\nX-Işınları ve Floresan Işık: X-ışınlarının tıp ve görüntülemedeki potansiyelini ilk fark edenlerden biri oldu.\n4. Wardenclyffe Kulesi ve Son Yılları\nTesla, dünyadaki tüm iletişim ve elektriği kablosuz hale getirmeyi amaçlayan **Wardenclyffe Kulesi** projesini başlattı. Ancak\nmali destekçisi J.P. Morgan'ın fonu kesmesi üzerine proje yarım kaldı. \nÖmrünün son yıllarını New Yorker Oteli'nde yalnızlık içinde, teorik projeler ve fikirler üreterek geçirdi. 7 Ocak 1943 tarihinde 86\nyaşında hayatını kaybetti. Günümüzde manyetik akı yoğunluğu birimi olan **Tesla (T)** ve elektrikli araç devi Tesla Inc., onun\nanısına adlandırılmıştır. \n• \n• \n• \n• \n• \n• \n• \n• \n•",
+              "score": 0.2419
+            },
+            {
+              "number": 2,
+              "document_id": "9e20ca45-1819-4b14-876b-019862e37a37",
+              "document_name": "nikola_tesla_hayati.pdf",
+              "chunk_position": 0,
+              "chunk": "Nikola Tesla'nın Hayatı\n10 Temmuz 1856 – 7 Ocak 1943\nNikola Tesla, kablosuz iletişim, elektrofizik ve alternatif akım (AC) elektrik sistemleri üzerine yaptığı\nbuluşlarla modern dünyayı ve teknolojiyi şekillendiren Sırp asıllı Amerikalı dahi mucit ve fizikçidir. \n1. Erken Yılları ve Eğitimi (1856 - 1884)\nDoğumu: 10 Temmuz 1856'da Avusturya İmparatorluğu sınırları içerisindeki Smiljan köyünde (günümüz Hırvatistan) doğdu.\nEğitimi: Graz Teknik Üniversitesi'nde mühendislik ve fizik okudu. İnanılmaz bir hafızaya (fotografik hafıza) sahip olan\nTesla, karmaşık hesaplamaları zihninde yapabiliyordu.\nİlk Deneyimler: Budapeşte'de telefon şirketinde mühendis olarak çalıştı, burada elektrik motorlarının çalışma prensiplerine\nodaklandı.\n2. Amerika'ya Göç ve Akımlar Savaşı (1884 - 1890'lar)\nThomas Edison ile Çalışması: 1884'te New York'a giderek Thomas Edison'ın yanında çalışmaya başladı. Ancak Edison'ın\nDoğru Akım (DC) ısrarı ile Tesla'nın Alternatif Akım (AC) vizyonu çatışınca yolları ayrıldı.\nGeorge Westinghouse İttifakı: Tesla, AC sistemlerinin patentlerini Westinghouse'a sattı. Bu gelişme, tarihe geçen \"Akımlar\nSavaşı\"nda Alternatif Akım'ın zaferiyle sonuçlandı.\n3. Önemli Buluşları ve İnovasyonları\nAlternatif Akım (AC) Motoru: Uzun mesafelere kayıpsız elektrik iletimini mümkün kıldı.",
+              "score": 0.2307
+            }
+          ],
+          "created_at": "2026-09-25T13:45:34.142483+00:00",
+          "web_sources": [],
+          "web_search_used": false,
+          "web_queries": []
         }
       ],
       "created_at": "2026-09-02T05:49:21.838511+00:00",
-      "updated_at": "2026-09-25T12:59:59.381300+00:00"
+      "updated_at": "2026-09-25T13:45:34.142483+00:00"
     },
     {
       "id": "b29b9dd0-a0f7-41a4-9149-89a090a91cb2",

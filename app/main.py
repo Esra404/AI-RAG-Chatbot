@@ -179,44 +179,119 @@ def _remove_chat(data, chat_id: str) -> bool:
 
 
 @app.post("/api/chats/{chat_id}/messages")
+# def send_message(chat_id: str, payload: MessageCreate):
+#     data = chats_store.read()
+#     chat = next((item for item in data["chats"] if item["id"] == chat_id), None)
+#     if not chat:
+#         raise HTTPException(404, "Sohbet bulunamadı.")
+#     question = payload.content.strip()
+#     try:
+#         client = openai_client()
+#         sources = retrieve(question, documents_store.read()["documents"])
+#         web_queries = build_web_queries(client, question, chat["messages"], sources) if payload.web_search else []
+#         web_sources = search_web_queries(web_queries) if payload.web_search else []
+#         response_text = answer(client, question, chat["messages"], sources, web_sources)
+#     except WebSearchConfigurationError as exc:
+#         raise HTTPException(503, str(exc)) from exc
+#     except HTTPException:
+#         raise
+#     except Exception as exc:
+#         raise HTTPException(502, f"OpenAI isteği başarısız: {exc}") from exc
+#     timestamp = now()
+#     user_message = {"id": str(uuid.uuid4()), "role": "user", "content": question, "created_at": timestamp}
+#     assistant_message = {
+#         "id": str(uuid.uuid4()), "role": "assistant", "content": response_text,
+#         "sources": [
+#             {
+#                 "number": position,
+#                 "document_id": source["document_id"],
+#                 "document_name": source["document_name"],
+#                 "chunk_position": source["chunk_position"],
+#                 "chunk": source["chunk"],
+#                 "score": round(source["score"], 4),
+#             }
+#             for position, source in enumerate(sources, 1)
+#         ],
+#         "created_at": now(),
+#         "web_sources": web_sources,
+#         "web_search_used": payload.web_search,
+#         "web_queries": web_queries,
+#     }
+@app.post("/api/chats/{chat_id}/messages")
 def send_message(chat_id: str, payload: MessageCreate):
     data = chats_store.read()
     chat = next((item for item in data["chats"] if item["id"] == chat_id), None)
+
     if not chat:
         raise HTTPException(404, "Sohbet bulunamadı.")
+
     question = payload.content.strip()
+
     try:
+        print("STEP 1: OpenAI client oluşturuluyor", flush=True)
         client = openai_client()
-        sources = retrieve(question, documents_store.read()["documents"])
-        web_queries = build_web_queries(client, question, chat["messages"], sources) if payload.web_search else []
-        web_sources = search_web_queries(web_queries) if payload.web_search else []
-        response_text = answer(client, question, chat["messages"], sources, web_sources)
+
+        print("STEP 2: retrieve başlıyor", flush=True)
+        sources = retrieve(
+            question,
+            documents_store.read()["documents"]
+        )
+
+        print(f"STEP 3: retrieve tamamlandı. sources={len(sources)}", flush=True)
+
+        web_queries = (
+            build_web_queries(
+                client,
+                question,
+                chat["messages"],
+                sources
+            )
+            if payload.web_search
+            else []
+        )
+
+        print(
+            f"STEP 4: web queries tamamlandı. queries={len(web_queries)}",
+            flush=True
+        )
+
+        web_sources = (
+            search_web_queries(web_queries)
+            if payload.web_search
+            else []
+        )
+
+        print(
+            f"STEP 5: web search tamamlandı. sources={len(web_sources)}",
+            flush=True
+        )
+
+        print("STEP 6: answer başlıyor", flush=True)
+
+        response_text = answer(
+            client,
+            question,
+            chat["messages"],
+            sources,
+            web_sources
+        )
+
+        print("STEP 7: answer tamamlandı", flush=True)
+
     except WebSearchConfigurationError as exc:
+        print(f"WEB SEARCH ERROR: {exc}", flush=True)
         raise HTTPException(503, str(exc)) from exc
+
     except HTTPException:
         raise
+
     except Exception as exc:
-        raise HTTPException(502, f"OpenAI isteği başarısız: {exc}") from exc
-    timestamp = now()
-    user_message = {"id": str(uuid.uuid4()), "role": "user", "content": question, "created_at": timestamp}
-    assistant_message = {
-        "id": str(uuid.uuid4()), "role": "assistant", "content": response_text,
-        "sources": [
-            {
-                "number": position,
-                "document_id": source["document_id"],
-                "document_name": source["document_name"],
-                "chunk_position": source["chunk_position"],
-                "chunk": source["chunk"],
-                "score": round(source["score"], 4),
-            }
-            for position, source in enumerate(sources, 1)
-        ],
-        "created_at": now(),
-        "web_sources": web_sources,
-        "web_search_used": payload.web_search,
-        "web_queries": web_queries,
-    }
+        print(f"ERROR: {type(exc).__name__}: {exc}", flush=True)
+
+        raise HTTPException(
+            502,
+            f"OpenAI isteği başarısız: {type(exc).__name__}: {exc}"
+        ) from exc
     def save(data):
         target = next(item for item in data["chats"] if item["id"] == chat_id)
         target["messages"].extend([user_message, assistant_message])
