@@ -11,6 +11,18 @@ The application allows users to upload documents, retrieve relevant information 
 
 ![AI RAG Chatbot Demo](docs/images/demo.gif)
 
+## 📸 Screenshots
+
+### Chat Interface
+
+<img width="1600" height="784" alt="image" src="https://github.com/user-attachments/assets/07755db6-2d19-40c4-9122-3266a95eb086" />
+
+
+### Document Upload
+
+<img width="1600" height="789" alt="image" src="https://github.com/user-attachments/assets/7a24852f-6f53-487b-863d-9d0dfd94dbf4" />
+
+
 > The demo shows the chatbot interface, document-based question answering, and the RAG workflow.
 
 ---
